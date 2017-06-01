@@ -1,0 +1,29 @@
+#+TITLE: Time sheet
+#+AUTHOR: Utkarsh
+#+DATE: [2017-06-01 Thu]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document holds the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad.
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - 
+     Today the day commenced with the brief introduction of all the projects here at vlead and then
+     assignment of our projects. Basic aim was to successfully set Lab Data Service on our
+     development environment. In the morning session I setted up my laptop with git, emacs and mysql and then
+     in the afternoon following the documentation provided in the repository LDS was setted up and run. I will
+     be setting it up again in my virtual machine tonight, since some issues were reported with ubuntu version.
+     Along with this Rest APIs were studied and a quick overview of app design was taken using the
+     documentation provided in the build folder. 
+
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-02 Fri]
+     
+
+
+* Month of July
