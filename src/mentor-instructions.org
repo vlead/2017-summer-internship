@@ -6,7 +6,6 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-
 * Introduction
   Instructions to mentors are listed out here.
 
@@ -15,12 +14,27 @@
        with is realized within a repository.  All assets - diagrams, code,
        documentation , etc are part of this repository.  If a diagram is made
        on the cloud, the link to that diagram in incorporated in the sources.
+
   2. Communication :: Issues bear the communication that is made during the
        relization of a project.  This way, the decisions made and alternatives
        discussed are not lost.
+
   3. Literate Style :: Projects are realized in literate style.  This is not an
        after thought.  Even exploration is done in literate style.
-  4. Releases :: Every release is a demonstrable set of features.  The planning
+
+  4. [[https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-planning-meeting][Releases]] :: Every release is a demonstrable set of features.  The planning
        is done in such a that every Friday, a release is made.  Each release is
        planned as a milestone with a set of issues. Each issue captures a
-       task. 
+       task.
+
+  5. [[https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum][Stand Ups]] ::  Please hold a stand up meeting the first thing in the
+       morning of every day.  The meeting is meant to orally state what has
+       been accomplished the previous day; what will be done that day; and what
+       are the impediments faced in accomplishing the tasks.  It is the
+       responsibility of the mentor to ensure these impediments are resolved on
+       a priority.
+
+  6. Pair Programming :: Encourage pair programming in the team.
+
+  7. IRC Channel :: Ensure every one is logged on to =#vlead= channel on freenode.
+

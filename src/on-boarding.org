@@ -27,37 +27,42 @@
   transition, so can call on any of us to assist you.
 
 * Instructions to Interns
-  1) An RFID card will be issued to you on Day 1 of the internship
+** Access Card
+   An RFID card will be issued to you on Day 1 of the internship
    program by Ravi Kiran, Program Officer, Virtual Labs. This should
    be swiped everyday at B6-205, VLEAD Room (when you come in and
    leave) for logging attendance.
 
-  2) An LDAP account will be created for you on a need basis.
+** Working Hours
+   Your working hours for the internship period is from 9:00 A.M to 6:00P.M
+   (Monday - Friday).
 
-  3) Please create a GitLab account (https://gitlab.com/) and share you account
-     information with raghupathi@vlabs.ac.in.
+** Leave Policy
+   You are allowed to take only one leave in a month with prior notice to your
+   mentor during the internship period.
 
-  4) Your working hours for the internship period is from 9:00 A.M to 6:00P.M
-     (Monday - Friday) .
+** Work Logs
+   1. Work logs to be committed at the end of every day.  Create a file
+      =first-name.org= in the =work-logs= directory and fill in the details.
+      Please use =sample.org= as a template.
 
-  5) You are allowed to take only one leave in a month with prior notice to
-     your mentor during the internship period.
+   2. You have to get your work-log approved from your mentor on a weekly
+      basis. You will also need to submit your approved work-log to
+      ravi.kiran@vlabs.ac.in . Your stipend will be released against this
+      submission only.
 
-  6) Wok logs to be committed at the end of every day.  Create a file
-     =first-name.org= in the =work-logs= directory and fill in the details.
-     Please use =sample.org= as a template.
-
-  7) You have to get your work-log approved from your mentor on a weekly
-     basis. You will also need to submit your approved work-log to
-     ravi.kiran@vlabs.ac.in . Your stipend will be released against this
-     submission only.
-
-  8) All Friday afternoons will be reserved for a short presentation (5-10
+** Presentations
+  1. All Friday afternoons will be reserved for a short presentation (5-10
      mins) by the interns on their project and progress.
 
-  9) You will need to make a mid-internship presentation at the end of the 4th
+  2. You will need to make a mid-internship presentation at the end of the 4th
      week of internship - week of 29th June to 6th July 2017.
 
-  10) A final presentation (with links to relevant documents) will need to be
-      made during the week of 13th July to 20th July 2017 against which the
-      internship certificate will be issued.
+  3. A final presentation (with links to relevant documents) will need to be
+     made during the week of 13th July to 20th July 2017 against which the
+     internship certificate will be issued.
+** IRC Channel
+  Please login to IRC channel #vlead on freenode.  Hexchat is an IRC client
+  that is used at VLEAD.  =apt-get install hexchat= should allow you to install
+  the client on Ubuntu.  Add this program to you startup script to ensure this
+  program in up whenever the computer is rebooted. 
