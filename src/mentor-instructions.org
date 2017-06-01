@@ -1,0 +1,26 @@
+#+TITLE: Instructions to Mentors
+#+AUTHOR: VLEAD
+#+DATE: [2017-06-01 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  Instructions to mentors are listed out here.
+
+* Instructions
+  1. Repository is the core asset :: Every project that a mentor is entrusted
+       with is realized within a repository.  All assets - diagrams, code,
+       documentation , etc are part of this repository.  If a diagram is made
+       on the cloud, the link to that diagram in incorporated in the sources.
+  2. Communication :: Issues bear the communication that is made during the
+       relization of a project.  This way, the decisions made and alternatives
+       discussed are not lost.
+  3. Literate Style :: Projects are realized in literate style.  This is not an
+       after thought.  Even exploration is done in literate style.
+  4. Releases :: Every release is a demonstrable set of features.  The planning
+       is done in such a that every Friday, a release is made.  Each release is
+       planned as a milestone with a set of issues. Each issue captures a
+       task. 

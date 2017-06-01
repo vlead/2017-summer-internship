@@ -1,0 +1,27 @@
+#+TITLE: Sample Time sheet
+#+AUTHOR: Intern's name
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Worked on centos adapter.  This is for the release of
+     v1.1.0 of ADS. ADS earlier in it's first release was deployed on the base
+     machine.  From v11.1.0, ADS will be deployed in seperate machine and be
+     part of the cluster.  I got most of the code working, but I got stuck
+     while starting the VMManager service on the newly created container.  The
+     service is started, the command does nto return making the openvz-adapter
+     wait forever.  I will have to figure this out.
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-02 Fri]
+     Other stuff
+
+
+* Month of July

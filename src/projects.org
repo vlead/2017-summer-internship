@@ -1,0 +1,44 @@
+#+TITLE: Projects
+#+AUTHOR: VLEAD
+#+DATE: [2017-06-01 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Projects
+  1. Experiment as a service
+  2. Lab Data Service dashboard
+  3. Re-Narration
+  4. Automation of Cluster creation
+     - automate cluster creation
+     - set up backup for all the servers
+     - setup automatic update of patches
+  5. Functional Programming - Haskell
+  6. Build Data structures lab
+  7. NPTEL <--> Virtual Labs Linking
+  8. College Cloud
+  9. Performance Improvement & Continuous integration
+     1. Build [[http://www.philchen.com/2015/08/08/how-to-make-a-scalable-python-web-app-using-flask-and-gunicorn-nginx-on-ubuntu-14-04][scalable]] flask applications using
+        gunicorn, nginx on ubuntu
+     2. build doc server
+     3. run test cases
+  10. Authentication between different software
+      services at VLEAD
+  11. Python Notebooks
+  12. use TypeScript to write all the javascript code
+      taught in the webappshort course
+  13. Build a demo for Mangal Sundar with a virtual lab
+      working with NPTEL lectures.
+  14. Build VLABS performance test bench for systems,
+      college cloud, services, etc.
+  15. Build 'Report a Bug' feature for the virtual labs
+  16. Build services around sys logs that can be used
+      within a dashboard
+  17. A dashboard for college cloud - that would
+      display the dynamic and static states of the
+      college cloud.
+  18. Live Analytics of both college cloud and other
+      vlabs installations.
+  19. Have a team work on the book for ITWS2.
+  20. Conversion of IIIT labs to FOSS

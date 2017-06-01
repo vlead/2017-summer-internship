@@ -1,0 +1,22 @@
+#+TITLE: Summer Internship at VLEAD, IIIT Hyderabada
+#+AUTHOR: VLEAD
+#+DATE: [2017-06-01 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  Summer 2017 internship program is envisaged to realize =Virtual Labs= related
+  features.
+
+* [[./on-boarding.org][On Boarding]]
+* [[./projects.org][Projects]]
+
+* [[./mapping.org][Mapping of projects to Interns]]
+
+* [[./work-logs/index.org][Work Logs]]
+
+* [[./mentor-instructions.org][Mentor Instructions]]
+
+
