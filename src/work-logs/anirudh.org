@@ -1,0 +1,18 @@
+#+TITLE: Sample Time sheet
+#+AUTHOR: Anirudh Reddy
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Installed virtual box and setup up vagrant with ubuntu 14.04 .
+   Revised some of the itws-2 course material and worked out some of the lab tasks and assignments.
+
+
