@@ -1,0 +1,22 @@
+#+TITLE: Work Logs of all interns
+#+AUTHOR: VLEAD
+#+DATE: [2017-06-01 Thu]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  This document holds the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad.
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Read the documentary regarding conversion of Flash
+     simulations into JavaScript. Watched some Flash simulations to get a rough
+     idea. Tried to understand a sample code which used JavaScript to run the
+     simulation. Cloned the required repositories and installed the necessary
+     tools required for the conversion. Need to understand the codes better to
+     be able to write them efficiently.
+
