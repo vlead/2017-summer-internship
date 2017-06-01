@@ -12,13 +12,11 @@
 
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
-   + [2017-06-01 Thu] - In the morning , we had an introduction session where 
-the team of VLEAD told us about their projects and then later
+   + [2017-06-01 Thu] - In the morning , we had an introduction session where the team of VLEAD told us about their projects and then later
 we were assigned projects. We worked on setting the developent environment on our machines.
-In the afternoon, I have set up Lab Data Service server(LDS) 
-on my machine .I had set up vagrant VM , so i had to install
-emacs,git and all the python dependancies again.After the server was setup, I had gone through
-different API's and got a clear idea what was happening.
+In the afternoon, I have set up Lab Data Service server(LDS) on my machine .
+I had set up vagrant VM , so i had to install emacs,git and all the python dependancies again.
+After the server was setup, I had gone through different API's and got a clear idea what was happening.
 Also, I have gone through the documentation of all the API's which were implemented.
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-02 Fri]
