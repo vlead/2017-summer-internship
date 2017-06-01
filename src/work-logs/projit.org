@@ -1,0 +1,24 @@
+#+TITLE: Time sheet
+#+AUTHOR: Projit Bandyopadhyay
+#+DATE: [2017-06-01 Thurs]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Worked on setting up development environment. Discussed
+     requirements for the Authentication between VLEAD Services. For rest of
+     week need to work on surveying current industrial standards for this type
+     of authentication. Created survey.org document and have looked through
+     resources to use. JWT seems to be the best option(Have pushed analysis and
+     advantages for it) for implementing the requirements but I think our
+     mentors want to to integrate with Oauth, need to find out exact scope
+     and requirements for this project.

@@ -1,0 +1,23 @@
+#+TITLE: Keshavs Time sheet
+#+AUTHOR: Keshav
+#+DATE: [2017-06-01 Thursday]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document holds the time sheets for my work during the summer internship
+  at VLEAD, IIIT
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Setting up the development environment. Researched
+     various tools for constructing virtual labs including Org mode (OG),
+     openModelica (OM), Light Table  (LT) and Jupyter Notebooks (JN). 
+   + [2017-06-02 Fri]
+   + [2017-06-03 Sat]
+   + [2017-06-04 Sun]
+
+
+* Month of July
