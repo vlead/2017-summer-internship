@@ -1,0 +1,24 @@
+#+TITLE: Sample Time sheet
+#+AUTHOR: Intern's name
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document holds the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   * [2017-06-01 Thu]
+     + Set up the working environment that included installing vagrant and
+       setting up a ubuntu 14.04 Virtual Machine.
+     + Went through the documentation of these repos
+       [[https://github.com/vlead/vlabs-platform/]] and [[https://github.com/vlead/translators/]].
+     + Discussed the project with mentor and teammate.
+     + Tried setting up the translator which creates a github repo out of the =json=
+       specification using a /Code Skeletal Generator/, but got errors.
+
+* Month of July

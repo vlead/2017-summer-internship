@@ -1,0 +1,19 @@
+#+TITLE: Time sheet
+#+AUTHOR: Aditya Todi
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+  
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu]
+     + Setting up the developer's environment including vagrant.
+     + Discussion of the project with mentor and views on adding automation in the project.
+     + Understanding the =vlabs-platform= and =translator=.
+     + Further discussion with teammate.
