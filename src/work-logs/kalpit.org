@@ -1,0 +1,19 @@
+#+TITLE: Time sheet
+#+AUTHOR: Kalpit Pokra
+#+DATE: [2017-06-01 Thurs]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+  
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Worked on setting up environments. Read the documentry
+     regarding conversion to java script of flash to understand work.Then went through some experiments to understand
+     how to work and tried to select lab and experiment as first task.
