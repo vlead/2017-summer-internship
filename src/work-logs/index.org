@@ -13,3 +13,4 @@
 * [[./sample.org][Sample Work Log]]
 * Work Log of <intern's name>
 * Work Log of [[./keshav.org][Keshav]]
+* Work Log of [[./projit.org][Projit Bandyopadhyay]]
