@@ -65,4 +65,4 @@
   Please login to IRC channel #vlead on freenode.  Hexchat is an IRC client
   that is used at VLEAD.  =apt-get install hexchat= should allow you to install
   the client on Ubuntu.  Add this program to you startup script to ensure this
-  program in up whenever the computer is rebooted. 
+  program is up whenever the computer is rebooted. 
