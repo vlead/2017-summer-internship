@@ -1,0 +1,33 @@
+#+TITLE: Atreyee Ghosal - Time sheet
+#+AUTHOR: Atreyee Ghosal
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] -
+     - The mentors were introduced and the projects were assigned in the
+       morning.
+     - Project currently being worked on is the rewriting of the
+       =web-app-short-course= in Haskell.
+     - I read the requirements, documentation and code for the =web-app-short-course=
+     - I noted ideas on how to implement it in Haskell, and the (intended)
+       differences between the original implementation and the Haskell
+       implementation. These will be later uploaded in a notes file.
+     - I also made a note of problems we will face in the implementation, and
+       discussed with my mentor about resources needed
+     - Additionally, I compared two Haskell web frameworks- Servant and
+       Yesod- to see which one is more appropriate for my implementation.
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-02 Fri]
+     Other stuff
+
+
+* Month of July
