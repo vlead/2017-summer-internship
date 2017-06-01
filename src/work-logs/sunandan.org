@@ -1,0 +1,13 @@
+#+TITLE: Sunandan Timesheet
+
+* Introduction:
+  This document holds the time sheets for my work during summer internship ar VLEAD,IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+- [2017-06-01 Thu]-Continuing automation of cluster,Worked on Creation
+  of cluster components/servers automated cluster creation using
+  ansible.Automated cluster router container configuration
+
+* Repository link
+  [[https://github.com/vlead/cluster-automation][cluster-automation repository]]  
