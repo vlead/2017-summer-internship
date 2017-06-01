@@ -1,0 +1,24 @@
+#+TITLE: kanay.org
+#+AUTHOR: Kanay gupta
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Worked on d3 framework-used as a tool in javascript to convert data into histograms,graphs etc. which is useful 
+   to make the data interesting . Also visited the various DS virtual labs that are there in the country for better understanding the working
+   of a virtual lab.
+
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-02 Fri]
+     Other stuff
+
+
+* Month of July
