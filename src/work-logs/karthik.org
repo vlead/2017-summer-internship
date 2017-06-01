@@ -1,0 +1,26 @@
+#+TITLE: Karthik Rao Timesheet
+#+AUTHOR: Karthik Rao
+#+DATE: [2017-06-01 Thu]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Automated openvz and cluster using ansible playbook in centos operating system
+   
+   
+   
+   
+**  Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-02 Fri]
+     Other stuff
+
+
+* Month of July
+
