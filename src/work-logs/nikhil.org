@@ -16,6 +16,11 @@
                         related to alloys. 
                       - Read about linux shell ans commands.
                       - Read a slide related to software abstractions
+   + [2017-16-02 Fri] 
+                      - continued working on alloys and analyzer. Read some text on it.
+                      - Read some research paper related to Linux shell and commands.
+                      - Analyzed on how can easily make shell commands easy to interpret rather than just mugging.
+                      - Thought about JS shell so that student can get info about hovering on shell commands.                      
                                           
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-02 Fri]
