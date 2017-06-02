@@ -15,7 +15,12 @@
    + [2017-06-01 Thu] - Setting up the development environment. Researched
      various tools for constructing virtual labs including Org mode (OG),
      openModelica (OM), Light Table  (LT) and Jupyter Notebooks (JN). 
-   + [2017-06-02 Fri]
+   + [2017-06-02 Fri] - Discussion with Maruthi sir,Lalit sirand Priya ma'am
+     regarding the use cases of OpenModelica and the feasibility of using them
+     in a virtual lab. Set up the work environment for OpenModelica framwork
+     and transpilation to JS and read up on the relevant documentation.
+     started working on a demo framework model to show the usefulness of
+     openmodelica in a virtual environment.
    + [2017-06-03 Sat]
    + [2017-06-04 Sun]
 
