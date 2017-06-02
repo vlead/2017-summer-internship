@@ -14,6 +14,9 @@
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
    + [2017-06-01 Thu] - Automated openvz and cluster using ansible playbook in centos operating system
    
+   + [2017-06-02 Fri] - Configured the network on the router and gave access to the internet.
+           Aautomated installation of open ssh.
+   
    
    
    
