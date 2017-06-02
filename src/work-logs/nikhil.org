@@ -1,0 +1,25 @@
+#+TITLE: nikhil.org
+#+AUTHOR: Nikhil Bansal
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu] - Learned a bit about alloys and and alloy analyzer. Downloaded some docs and books pdf
+                        related to alloys. 
+                      - Read about linux shell ans commands.
+                      - Read a slide related to software abstractions
+                                          
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-02 Fri]
+     Other stuff
+
+
+* Month of July
