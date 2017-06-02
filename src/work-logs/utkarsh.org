@@ -12,7 +12,7 @@
 
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
-   + [2017-06-01 Thu] - 
+   + [2017-06-01 Thu] 
      Today the day commenced with the brief introduction of all the projects here at vlead and then
      assignment of our projects. Basic aim was to successfully set Lab Data Service on our
      development environment. In the morning session I setted up my laptop with git, emacs and mysql and then
@@ -20,9 +20,17 @@
      be setting it up again in my virtual machine tonight, since some issues were reported with ubuntu version.
      Along with this Rest APIs were studied and a quick overview of app design was taken using the
      documentation provided in the build folder. 
-
-** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-02 Fri]
+     The day commenced with the standup of my understanding of the documentation given to be read which was 
+     followed by a thorough explaination of the implementation and the documentation by the mentor. Then I tried out
+     Rest APIs to get data from the LDS app after going through the documentation once more. Most of the requirements
+     regarding implementation of login, logout pages for the LDS were looked upon, noted and discussed. These reqirements
+     included usage of sessions, login management, user role and thoughts about databases management. Then various 
+     tutorials were studied for implementing OAuth securely (for logins) with in a small personalized flask app and then 
+     an app that used Google Auth. and Twitter Auth. were coded and tested just to brush up the concepts learnt. A little 
+     reading about schemas, security issues related to OAuth, login managers and different OAuth providers was also done.
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-05 Mon]
      
 
 
