@@ -1,0 +1,22 @@
+#+TITLE: Work Logs of all interns
+#+AUTHOR: VLEAD
+#+DATE: [2017-06-02 FRI]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  This document holds the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad.
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Thu]
+    - Get updated with the progress of renarration project.
+    - Go through HLD docs.
+    - Discuss about database implementation and design for the project.
+   + [2017-06-02 Fri]
+    - *TODO* Go through remaining docs.
+    - *TODO* Finalize database implementation.
