@@ -12,9 +12,16 @@
 
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
-   + [2017-06-01 Thu] - Worked on d3 framework-used as a tool in javascript to convert data into histograms,graphs etc. which is useful 
-   to make the data interesting . Also visited the various DS virtual labs that are there in the country for better understanding the working
-   of a virtual lab.
+   + [2017-06-01 Thu] - Worked on d3 framework-used as a tool in javascript to convert data into histograms,graphs etc. which is useful to make the data interesting pictorially. Also visited the various DS virtual labs that are there in the country for better understanding the working of this lab and changes that can be made to improve the working of this virtual lab.
+   + [2017-06-02 Fri] - Continue working on d3 framework and combined SVG(scalable vector graphics) with d3 i.e. Learnt to draw shapes and other stuff using d3 and SVG.  
+     A meeting with venkatesh sir regarding his vision of the lab and what are the various difficults that student faces while larning Ds and how can they be rectified.
+     Major tasks :
+     1. Survey and learn various technologies such as D3,processing and P5
+     2. accessing various online resources for the content available and how it can be improvised.
+     3. Why students find DS difficult?
+	
+	       	    
+
 
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-02 Fri]
