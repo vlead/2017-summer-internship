@@ -33,9 +33,17 @@ types of roles, user being added by the admin to be able to avail LDS
 services. We have brushed up the implementation of Google OAuth which
 we have decided to use for the login page.  
 
+
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-02 Fri]
-     Other stuff
+   + [2017-06-05 Mon]
+     
+In the morning we have discussed about the reuirements and data model of LDS. 
+We made a clear idea as on how to proceed further. Also, my project manager
+gave a milestone that is to be reached by friday. We have implemented 
+Google authorisation and Authentication. Sign in and Sign out were working 
+properly. We also started writing the backend for users. We created 2 tables
+,one for users and one for roles. We have implemented routes like Add User,
+Add role,Show users and show roles.
 
 
 * Month of July
