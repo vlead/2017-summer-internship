@@ -1,4 +1,4 @@
-#+TITLE: Sample Time sheet
+#+TITLE: worklog of Anirudh Reddy
 #+AUTHOR: Anirudh Reddy
 #+DATE: [2017-06-01 Fri]
 #+SETUPFILE: ../org-templates/level-1.org
