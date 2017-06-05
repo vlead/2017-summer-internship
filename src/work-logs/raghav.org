@@ -22,6 +22,7 @@
     - started working on video annotation system
     - meeting with Prof. Choppella regarding the present status of work for targetting the upcoming workshop.
     - Explored MongoDB PyMongo for NoSQL implementation of SSS-Database.
+ 
  ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
     + [2017-06-05 Mon]
     - Had a meeting with Sai sir. Discussed about the concept and implementation of SSS project.
