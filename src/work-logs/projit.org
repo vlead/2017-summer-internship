@@ -22,13 +22,21 @@
      advantages for it) for implementing the requirements but I think our
      mentors want to to integrate with Oauth, need to find out exact scope
      and requirements for this project.
-  +  [2017-06-02 Fri] - Went through JWT documentation and implementation. JWT
-    seemed to be the best way to authorize microservices in my opinion. Had a
-    discussion Maruthi Sir, which led to further clarification on the scope of
-    my project. It seems I'm supposed to build a service similar to oauth,
-    which will allow a user to "login using vlab account" into the various
-    labs. This would involve server-server flows. The other flows would be
-    handled later like: reduce need for user to keep clicking login buttons
-    when a lab is located in a different server. * Need to get confirmation
-    from Thirumal Sir whether this is the actual scope of my project, if so,
-    more resources may be required or the expectations would need to be clearly defined.
+   + [2017-06-02 Fri] - Went through JWT documentation and implementation. JWT
+     seemed to be the best way to authorize microservices in my opinion. Had a
+     discussion Maruthi Sir, which led to further clarification on the scope of
+     my project. It seems I'm supposed to build a service similar to oauth,
+     which will allow a user to "login using vlab account" into the various
+     labs. This would involve server-server flows. The other flows would be
+     handled later like: reduce need for user to keep clicking login buttons
+     when a lab is located in a different server. * Need to get confirmation
+     from Thirumal Sir whether this is the actual scope of my project, if so,
+     more resources may be required or the expectations would need to be clearly defined.
+   + [2017-06-05 Mon] - Went through further documentation on Oauth 2.0. Had an
+     extensive meeting with Thirumal Sir to evaluate what the project actually
+     entails. Conclusion was to make a prototype of the authorization using
+     JWT. Further clarification on the scope of the project was also
+     received. Did further work on creating a plan for the work-flow and
+     setting deadline. Also did further research on JWT to see its use in small
+     applications. Need to setup outreach portal application to start
+     integrating new auth system(to be built)
