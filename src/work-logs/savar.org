@@ -17,6 +17,11 @@
        project i.e. Continous Integration was done by the mentor.Following this
        I spent time configuring emacs with the required packages and installing
        Vagrant and virtual box.A readup on CI tools was also done.  
+     * [2017-06-01 Fri] Learnt more about using the virtual box using
+       Vagrant.Explored the Lab Data Service, setup the required environment
+       for it and deployed it on local host.Explored and tried understanding
+       the working of LDS.Did a reading on REST and RESTful services.Explored
+       various functions of REST APIs. 
    
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
 

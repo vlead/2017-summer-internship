@@ -1,4 +1,4 @@
-#+TITLE: Sample Time sheet
+#+TITLE: worklog of Anirudh Reddy
 #+AUTHOR: Anirudh Reddy
 #+DATE: [2017-06-01 Fri]
 #+SETUPFILE: ../org-templates/level-1.org
@@ -14,5 +14,8 @@
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
    + [2017-06-01 Thu] - Installed virtual box and setup up vagrant with ubuntu 14.04 .
    Revised some of the itws-2 course material and worked out some of the lab tasks and assignments.
+   
+   + [2017-06-02 Fri] - worked out some more assignments and lab tasks .Did some online problems and explored some new Jquery and DOM interactions.
 
-
+** Week 1 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-05 Mon] - read the documentation and ran the app which was on GitHub.Had some trouble while installing mysql and Flask in virtualbox(vagrant) and lost some time due to that.Had a meeting with the project manager and dicussed in detail about the app and the working and were given a few tasks to complete and draw the process diagram .

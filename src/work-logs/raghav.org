@@ -18,5 +18,11 @@
     - Go through HLD docs.
     - Discuss about database implementation and design for the project.
    + [2017-06-02 Fri]
-    - *TODO* Go through remaining docs.
+    - Go through remaining docs.
+    - started working on video annotation system
+    - meeting with Prof. Choppella regarding the present status of work for targetting the upcoming workshop.
+    + [2017-06-03 Sat]
     - *TODO* Finalize database implementation.
+    - *TODO* Figure out exercises, steps and tasks to be done during workshop.
+    - *TODO* Draft final schedule for workshop.
+    - *TODO* Clear all doubts regarding project (if any)
