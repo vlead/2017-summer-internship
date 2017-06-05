@@ -17,12 +17,22 @@
     - Get updated with the progress of renarration project.
     - Go through HLD docs.
     - Discuss about database implementation and design for the project.
-   + [2017-06-02 Fri]
+   + [2017-06-02 Fri] - [2017-06-03 Sat]
     - Go through remaining docs.
     - started working on video annotation system
     - meeting with Prof. Choppella regarding the present status of work for targetting the upcoming workshop.
-    + [2017-06-03 Sat]
+    - Explored MongoDB PyMongo for NoSQL implementation of SSS-Database.
+ ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+    + [2017-06-05 Mon]
+    - Had a meeting with Sai sir. Discussed about the concept and implementation of SSS project.
+    - Sai sir create a repo =SSS-Database= which contains literate documents and implementation for persistance part.
+    - Explored free MongoDB as a service platforms available. Found mlabs(as suggested by Soumya) and Mongo Altlas.
+    - Finalized with Mongo Atlas for now because it works with latest version of mongoDB i.e. v3.4.4 and provides 0.5 GB of space with replicas on 2 more servers.
+    - Made a protoype to understand the functionality of Mongo Atlas using PyMongo.
+    - Also deployed a small python app on heroku for learning purpose. Will try to talk with MongoAtlas using heroku later sometime.
+    - Had meeting with Prof. Venkatesh sir, Soumya, Sadhana and Sai sir about the concept of renarration project and also discussed about upcoming workshop and its schedule.
+    - Finalized the dates for integration, deployement, testing and workshop rehearsal.
+    + [2017-06-06 Tue]
     - *TODO* Finalize database implementation.
     - *TODO* Figure out exercises, steps and tasks to be done during workshop.
     - *TODO* Draft final schedule for workshop.
-    - *TODO* Clear all doubts regarding project (if any)
