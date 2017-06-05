@@ -31,7 +31,13 @@
      reading about schemas, security issues related to OAuth, login managers and different OAuth providers was also done.
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-05 Mon]
-     
-
+     A little change regarding to our approach previously was decided in the morning which then required me 
+     to assess the requirements and data model for the lds system again with my mentor and my partner. The 
+     morning session was utilized in this task and after this I quickly went back to the assigned issue of 
+     creating an app with Google OAuth. Solving many bugs for couple of hours I had it working an hour after
+     the lunch. Then time was spent optimizing the code and fixing some of its security flaws along with some 
+     testing. Furthermore Design and Data Implementations of Outreach Portal was done in order to help myself 
+     with the integration process that should be due for tomorrow. Thus today's issue has been done and now
+     documentation is also been provided for today.
 
 * Month of July
