@@ -14,6 +14,7 @@
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
    + [2017-06-01 Thu] - Installed virtual box and setup up vagrant with ubuntu 14.04 .
    Revised some of the itws-2 course material and worked out some of the lab tasks and assignments.
+   
    + [2017-06-02 Fri] - worked out some more assignments and lab tasks .Did some online problems and explored some new Jquery and DOM interactions.
 
 ** Week 1 [2017-06-05 Mon] till [2017-06-11 Sun]
