@@ -1,5 +1,6 @@
 #+TITLE: Keshavs Time sheet
 #+AUTHOR: Keshav
+#+EMAIL: keshavkms@gmail.com ( 956-093-3318 ) 
 #+DATE: [2017-06-01 Thursday]
 #+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
@@ -21,8 +22,16 @@
      and transpilation to JS and read up on the relevant documentation.
      started working on a demo framework model to show the usefulness of
      openmodelica in a virtual environment.
-   + [2017-06-03 Sat]
+   + [2017-06-03 Sat] 
    + [2017-06-04 Sun]
+   + [2017-06-05 Mon] - Began writing scripts for setting up environment for
+     creating modelica simulation models. Reverse engineering the script for
+     converting modelica models to JS scripts to enhance customizability of the
+     code and also automate the entire process from start to finish, so that
+     given a model, it can generate a html div that can be embedded in a
+     web page with very little modifications . 
+ 
+  
 
 
 * Month of July
