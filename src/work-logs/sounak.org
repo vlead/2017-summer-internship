@@ -1,5 +1,5 @@
-#+TITLE: Sample Time sheet
-#+AUTHOR: Intern's name
+#+TITLE: Work Log
+#+AUTHOR: Sounak Pradhan
 #+DATE: [2017-06-01 Fri]
 #+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
@@ -12,13 +12,46 @@
 
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
-   * [2017-06-01 Thu]
-     + Set up the working environment that included installing vagrant and
-       setting up a ubuntu 14.04 Virtual Machine.
-     + Went through the documentation of these repos
-       [[https://github.com/vlead/vlabs-platform/]] and [[https://github.com/vlead/translators/]].
-     + Discussed the project with mentor and teammate.
-     + Tried setting up the translator which creates a github repo out of the =json=
-       specification using a /Code Skeletal Generator/, but got errors.
+*** [2017-06-01 Thu]
++ Set up the working environment that included installing vagrant and setting up a ubuntu 14.04 Virtual Machine.
++ Went through the documentation of these repos [[https://github.com/vlead/vlabs-platform/]] and [[https://github.com/vlead/translators/]].
++ Discussed the project with mentor and teammate.
++ Tried setting up the translator which creates a github repo out of the =json=
+  specification using a /Code Skeletal Generator/, but got errors.
+
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+*** [2017-06-05 Mon]
++ Had a meeting with the mentor regarding goals (milestones) to be achieved in this week.
++ Set up the /Code Skeletal Generator/ or the /Translator/
+  ([[https://github.com/vlead/translators/]]).
++ Had to fix some bugs to make the translator work (one of them being the
+  space-hiphen inconsistency while creating github repos).
++ Successfully created the repo
+  [[https://github.com/test-platform-to-to-deleted/Final-e99233]] from the =json=
+  specification using the =create_experiment_lab= API.
+
+#+BEGIN_SRC json
+{
+        "experiment" : {
+                     "id": "e99233",
+                     "name": "Final",
+                     "overview": "This deals with eiciting how parallel and distributed processing is done",
+                     "sections" : [
+                                "Introduction",
+                                "Objective",
+                                "Tutorial",
+                                "Illustration",
+                                "Procedure",
+                                "Experiment",
+                                "Observations",
+                                "Assignment",
+                                "References"]},
+        "content-type": "org"
+}
+#+END_SRC
+
++ Also successfully created a tar file from the =json= specification using the
+  =create_openedx_lab= API.
++ Tried installing the =dogwood= VirtualBox in Vagrant, but failed.
 
 * Month of July
