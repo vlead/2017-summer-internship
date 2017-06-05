@@ -25,8 +25,7 @@
 
 
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-05 Mon]- Major documentations of all the discussions,aims and work-logs were made in the git repository.
-   Continued working on surveying and documention various data visualisation tools particularly d3,processing and p5. 	Read a few research papers regarding data structure and teaching methodologies. Discussion on visual algo with 	venkatesh sir.
+   + [2017-06-05 Mon]- Major documentations of all the discussions,aims and work-logs were made in the git repository. Continued working on surveying and documention various data visualisation tools particularly d3,processing and p5.Read a few research papers regarding data structure and teaching methodologies. Discussion on visual algo with venkatesh sir as a good option for animations regarding to algorithms.
    
 
 
