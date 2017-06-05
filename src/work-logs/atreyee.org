@@ -25,6 +25,18 @@
        discussed with my mentor about resources needed
      - Additionally, I compared two Haskell web frameworks- Servant and
        Yesod- to see which one is more appropriate for my implementation.
+   + [2017-06-02 Fri] - 
+     - The API for the webapp will be realised using the Servant web framework,
+       as this web framework ensures the type safety of routes and return
+       values.
+     - I explored the Servant API tool (using the tutorial provided with the Servant
+       documentation) and read three sample projects written in servant
+       (including one that uses the Persistent database tool to interact with
+       the database layer)
+     - I also learned the use of the stack build tool for haskell
+     - To test the feasibility of building the API using Servant and to
+       familiarise myself with Stack, I built and debugged an example web app with a single
+       route that returned a list of users when called
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-02 Fri]
      Other stuff

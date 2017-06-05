@@ -19,9 +19,31 @@ In the afternoon, I have set up Lab Data Service server(LDS) on my machine .
 I had set up vagrant VM , so i had to install emacs,git and all the python dependancies again.
 After the server was setup, I had gone through different API's and got a clear idea what was happening.
 Also, I have gone through the documentation of all the API's which were implemented.
+
+  + [2017-06-02 Fri] -
+In the morning, we had a brief standup session for around 15 minutes where
+our mentor had tested my understanding on the documentation and also 
+cleared few misconceptions and doubts. Later, my mentor explained the 
+LDS application in detail (Requirements,Design,Data Model etc).
+Then, I have gone through the implementation of all the REST API's
+along with the test cases.
+Then, I and my teammate then sat and discussed about the implementation 
+of login page. The requirements of login page came out to be sessions,
+types of roles, user being added by the admin to be able to avail LDS 
+services. We have brushed up the implementation of Google OAuth which
+we have decided to use for the login page.  
+
+
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-02 Fri]
-     Other stuff
+   + [2017-06-05 Mon]
+     
+In the morning we have discussed about the reuirements and data model of LDS. 
+We made a clear idea as on how to proceed further. Also, my project manager
+gave a milestone that is to be reached by friday. We have implemented 
+Google authorisation and Authentication. Sign in and Sign out were working 
+properly. We also started writing the backend for users. We created 2 tables
+,one for users and one for roles. We have implemented routes like Add User,
+Add role,Show users and show roles.
 
 
 * Month of July

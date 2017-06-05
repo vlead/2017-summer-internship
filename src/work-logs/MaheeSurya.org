@@ -1,5 +1,5 @@
-#+TITLE: Work Logs of all interns
-#+AUTHOR: VLEAD
+#+TITLE: Work Logs of MaheeSurya
+#+AUTHOR: MaheeSurya
 #+DATE: [2017-06-01 Thu]
 #+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
@@ -19,4 +19,13 @@
      simulation. Cloned the required repositories and installed the necessary
      tools required for the conversion. Need to understand the codes better to
      be able to write them efficiently.
-
+   + [2017-06-02 Fri] - Tried to understand the JavaScript codes of
+     Molecular-Absorption-Spectroscopy-Responsive-lab. Tried to implement a
+     basic HTML version of Colloid-and-Surface-Chemistry lab Experiment-1. Used
+     a Flash Decompiler to get all images of the swf file. Learned about Image
+     Mapping which can be used in the work. Revised the documentation of the
+     conversion of Flash into JavaScript.  
+** Week 1 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-05 Mon] - Worked on converting Experiment-1 of
+     Colloid-and-Surface-Chemistry lab. Worked on  CSS and JavaScript to get
+     the required effect on the HTML page.

@@ -16,10 +16,28 @@
                         related to alloys. 
                       - Read about linux shell ans commands.
                       - Read a slide related to software abstractions
+   + [2017-16-02 Fri] 
+                      - continued working on alloys and analyzer. Read some text on it.
+                      - Read some research paper related to Linux shell and commands.
+                      - Analyzed on how can easily make shell commands easy to interpret rather than just mugging.
+                      - Thought about JS shell so that student can get info about hovering on shell commands.                      
                                           
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-02 Fri]
-     Other stuff
+   + [2017-06-05 Mon]
+     - Gathered Some resources to learn linux shell and commands
+       - [[http://ryanstutorials.net/linuxtutorial/]] - For begineers(great tutorial and very well explained)
+       - [[https://www.tutorialspoint.com/unix/]] - for begineers to learn from basics
+       - [[http://linuxcommand.org/learning_the_shell.php]]
+       - [[https://www.linux.com/news/how-learn-unixlinux]]
+    -  worked on getting the old linux-lab run
+       - As the whole lab had been made using php framework. I have started learning php using
+         - [[https://www.w3schools.com/php/]]
+         - [[https://www.codecademy.com/learn/php]]
+       - Installed php7 on my system using commands
+         - =sudo apt-get update=
+         - =sudo apt-get install php7.0=
+       - Tried understanding and debugging the code. This took most of time
+       - After diving into the code of old-lab i found out that i need to do web-app-short course again, so, i did it again.   
 
 
 * Month of July
