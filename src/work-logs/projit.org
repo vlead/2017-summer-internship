@@ -40,3 +40,10 @@
      setting deadline. Also did further research on JWT to see its use in small
      applications. Need to setup outreach portal application to start
      integrating new auth system(to be built)
+   + [2017-06-06 Tue] - Worked on setting up the outreach portal
+     application. Encountered some problems and bugs on setup which Sripathi is
+     trying to fix. Met with Akash to discuss security related problems on JWT
+     implementation. After further research and analysis, decided that JWT is
+     not the method of implementation we will be using. The scope of the
+     project has again been redefined to making an Oauth service. Currently the
+     outreach portal uses a login with Google. Aim is to make login with vlabs.
