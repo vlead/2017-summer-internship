@@ -38,6 +38,14 @@
          - =sudo apt-get install php7.0=
        - Tried understanding and debugging the code. This took most of time
        - After diving into the code of old-lab i found out that i need to do web-app-short course again, so, i did it again.   
-
+   + [2017-06-06 Tue]
+     - Continued debugging the code of linux lab and learning php
+     - I debuged the code of linux-lab and that took most of the time 
+     - Minutes of meeting with mentor
+       - Todo     
+         - termlib.js (search the term)
+         - search about browser terminal (i.e terminal on browser(frond-end virtual-box type to execute commands with some kind of filter) and backend local-server)
+         - We can hover over command outputs on virtual-box to see details of the output. 
+         - Final architecture of design of linux-lab will be discussed in 1-2 days 
 
 * Month of July
