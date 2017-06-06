@@ -22,9 +22,33 @@
        for it and deployed it on local host.Explored and tried understanding
        the working of LDS.Did a reading on REST and RESTful services.Explored
        various functions of REST APIs. 
-   
-** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
 
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+	 *[2017-06-05 Mon] : The issue for the requirements document was raised and successfully resovled 
+	 by creating and pushing the document on our repository.The document included the basic application and
+	 functional requirements of the continuous-integration microservice.The workflow for the application was also  d		 designedand uploaded.A few open source CI tools to serve our purpose were shortlisted and further researched upon.	
+	 Their various workflow and working environment were compared and finally 
+	 after a brainstorming session with my mentor and teammate we decided to stick with Jenkins CI for our 		
+	 contiunous-integration requirement.One of the main reasons to choose Jenkins over Travis and other such CI tools
+	 was the flexibility that Jenkins can provide with hosting and configuration.	
+	 Further we also came up with the possibilty of containerising the whole micro-service into a docker container 	
+	 which would facilitate the hosting of the service. 
+	 
+	 *[2017-06-06 Tue]: In the morning we had a stand up team meeting with
+   	Thirumal Sir where we discussed our progress and goals for the week ahead.
+   	The first issue of deploying and running the Jenkins on the local machine
+  	 was successfully completed.Test were also run using sample test
+   	projects.While doing this I looked into the working of the
+   	Jenkins CI tool and understood more about it's working mechanism.Jenkins
+   	basically needs a JRE to function.This environment is provided by a
+   	servlet-container called Winstone which comes inbuilt with the .war. Other custom
+  	 web containers and web servers like Apache Tomcat,IBM WebSphere, GlassFish,
+   	Jetty,etc can also be configured to host Jenkins.We created an Ubuntu
+   	template using OpenVZ on the Base 4 server to run a full test of
+   	Jenkins.Certain issues came up with setting up JDK on the ubuntu
+   	template.We are still working on resolving these issues.
+
+	 	 
 
      
  
