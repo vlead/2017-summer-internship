@@ -20,3 +20,6 @@
    + [2017-06-02] - Tried to Understand Javascript Codes for
      experiments.Started working on exp1 of colloid-and-surface-chemistry by
      creating simple page. Also looked for other ways to convert flash to javascript.
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-05] - Continued my work on experiment-1 lab
+     colloid-and-surface-chemistry. Wrote javascript code based on video for experiment. 
