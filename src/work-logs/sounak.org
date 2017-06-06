@@ -20,7 +20,7 @@
   specification using a /Code Skeletal Generator/, but got errors.
 
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-*** [2017-06-05 Mon]
+** [2017-06-05 Mon]
 + Had a meeting with the mentor regarding goals (milestones) to be achieved in this week.
 + Set up the /Code Skeletal Generator/ or the /Translator/
   ([[https://github.com/vlead/translators/]]).
@@ -54,4 +54,12 @@
   =create_openedx_lab= API.
 + Tried installing the =dogwood= VirtualBox in Vagrant, but failed.
 
+** [2017-06-06 Tue]
+   + Set the OpenEdX Platform release Eucalyptus up in my machine.
+   + Hosted the OpenEdX studio and checked whether the =tar.gz= file created by
+     the =Translator API= yesterday is compatible with it. It created a course
+     successfully in the studio.
+   + Fixed this [[https://github.com/vlead/translators/issues/3][issue]] in the translator API.
+   + My teammate and I sat with the mentor and set the milestones for this week, which is creating the
+     LDS API. 
 * Month of July
