@@ -29,7 +29,12 @@
      converting modelica models to JS scripts to enhance customizability of the
      code and also automate the entire process from start to finish, so that
      given a model, it can generate a html div that can be embedded in a
-     web page with very little modifications . 
+     web page with very little modifications .
+   + [2017-06-06 Tue] - Almost finished writing script for environment
+     installation and generating models. Able to display model in a webpage,
+     still working on simulating it.Documentation is absent so having to
+     reverse engineer a lot of interfaces by trial and error.
+
  
   
 
