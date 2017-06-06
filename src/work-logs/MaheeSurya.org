@@ -29,3 +29,9 @@
    + [2017-06-05 Mon] - Worked on converting Experiment-1 of
      Colloid-and-Surface-Chemistry lab. Worked on  CSS and JavaScript to get
      the required effect on the HTML page.
+   + [2017-06-06 Tue] - Worked on the conversion of Experiment-1 of 
+     Colloid-and-Surface-Chemistry lab. As some images required for the
+     conversion were missing, I used screen-capture and extracted the frames of
+     the video to get the necessary images. Later, cropped all the images and
+     completed the task. I'm halfway through the conversion. Will try to
+     complete the conversion of Experiment-1 by tomorrow.

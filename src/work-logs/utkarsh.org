@@ -39,5 +39,11 @@
      testing. Furthermore Design and Data Implementations of Outreach Portal was done in order to help myself 
      with the integration process that should be due for tomorrow. Thus today's issue has been done and now
      documentation is also been provided for today.
-
+   + [2017-07-05 Tue]
+     Morning session was spent improving and making the APIs working provided by my partner and thus integrating
+     it to our app which already included login and logout apis with Google OAuth. Integration was completed till the 
+     afternoon and then all routes were tested using httprequester. Models for app was reviewed from the latest 
+     data model provided by the mentor and the APIs just implemented. Then I worked with my partner creating unit
+     testcases but we had some problems regarding registering our routes for it. So, unit testing is due tomorrow
+     but will tried to be worked till tonight. Further APIs error codes were updated along with some other changes. 
 * Month of July
