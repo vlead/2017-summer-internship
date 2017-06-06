@@ -38,8 +38,22 @@
        familiarise myself with Stack, I built and debugged an example web app with a single
        route that returned a list of users when called
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-02 Fri]
-     Other stuff
-
+   + [2017-06-05 Mon]
+     - Had a meeting with Prof. Choppella, my project mentor, in the morning
+     - Wrote a skeleton webapp with two routes, =showUsers= and =addUsers=
+     - Functions to handle these two routes have not been implemented yet-
+       currently using placeholder functions
+     - Also wrote a skeleton user data model using template haskell and
+       haskell-Persistent
+     - Wrote code to connect the skeleton API and the skeleton database model
+     - The purpose of doing this is to get a feasible working model of a server
+       using the Servant API library and the Persistent database library. Once
+       I have such a working model, I can add other aspects of the
+       implementation to it. 
+     - A significant portion of the afternoon was spent in debugging the code
+       (mostly library import issues- added all necessary libraries to
+       =webapp-tryout.cabal=)
+     - There's a bug in the type naming. Will look at it later
+     - All work done today has been committed to the =web=app-haskell= repository
 
 * Month of July
