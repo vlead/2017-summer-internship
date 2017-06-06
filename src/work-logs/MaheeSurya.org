@@ -25,3 +25,7 @@
      a Flash Decompiler to get all images of the swf file. Learned about Image
      Mapping which can be used in the work. Revised the documentation of the
      conversion of Flash into JavaScript.  
+** Week 1 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-05 Mon] - Worked on converting Experiment-1 of
+     Colloid-and-Surface-Chemistry lab. Worked on  CSS and JavaScript to get
+     the required effect on the HTML page.

@@ -17,3 +17,9 @@
      + Discussion of the project with mentor and views on adding automation in the project.
      + Understanding the =vlabs-platform= and =translator=.
      + Further discussion with teammate.
+
+** Week 2 [2017-06-05 Thu] till [2017-06-11 Sun]
+   + [2017-06-05 Mon]
+     + Set up the /Code Skeletal Generator/ for the =Tranlator= and working with it's APIs.
+     + Successfully created the repository https://github.com/test-platform-to-to-deleted/final-repo-e99237 the test-experiment and lab structur.
+     + Setting up the Dogwood version of open edx platform.
