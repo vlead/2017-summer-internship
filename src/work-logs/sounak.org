@@ -60,6 +60,6 @@
      the =Translator API= yesterday is compatible with it. It created a course
      successfully in the studio.
    + Fixed this [[https://github.com/vlead/translators/issues/3][issue]] in the translator API.
-   + I sat with the mentor and set the milestones for this week, which are the creating
+   + My teammate and I sat with the mentor and set the milestones for this week, which is creating the
      LDS API. 
 * Month of July
