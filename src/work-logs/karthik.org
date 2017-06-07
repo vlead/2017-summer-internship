@@ -21,8 +21,9 @@
    
    
 **  Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-02 Fri]
-     Other stuff
+   + [2017-06-05 Mon] - Read about elk stack which inturn means elasticsearch logstash and kibama.Elasticsearch is a juggernaut solution for your data extraction problems.Installed elk on the system and learnt the basics tools required for using kibama.
+
+  + [2017-06-06 Tue] -Started working with kibama and logstash.Giving data to indices created and visualizing the graphs from the given data.Started working on importing data from external files(.txt fies) and visualising graphs for the given parameters in kibama.
 
 
 * Month of July
