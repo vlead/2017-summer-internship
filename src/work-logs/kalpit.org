@@ -25,3 +25,6 @@
      colloid-and-surface-chemistry. Wrote javascript code based on video for experiment. 
    + [2017-06-06] - Continued my work on exp-1 for lab
      colloiid-and-surface-chemistry. Wrote  new functions for the experiment. 
+   + [2017-06-07] - Continued my work on experiment one of my lab
+     colloid-and-surface-chemistry. Wrote new functions and first experiment is
+     almost done.
