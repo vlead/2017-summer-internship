@@ -38,7 +38,7 @@
        familiarise myself with Stack, I built and debugged an example web app with a single
        route that returned a list of users when called
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-05 Mon]
+   + [2017-06-05 Monday]
      - Had a meeting with Prof. Choppella, my project mentor, in the morning
      - Wrote a skeleton webapp with two routes, =showUsers= and =addUsers=
      - Functions to handle these two routes have not been implemented yet-
@@ -69,5 +69,7 @@
        Prof. Kesav Nori and another professor about projects related to
        linguistics and Haskell, from 11:30am to 1:30pm.
      - Worked on implementing handlers for the /showUsers and /addUsers routes.
+   + [2017-06-07 Wednesday]
+     - Made a very crude version of the webapp that works.
 
 * Month of July
