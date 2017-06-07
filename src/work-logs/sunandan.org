@@ -38,6 +38,10 @@
    + [2017-06-01 Thu]-Continuing automation of cluster,Worked on Creationof cluster components/servers automated cluster creation using ansible.Automated cluster router container configuration
 
    + [2017-06-02 Fri]-Fixed some bugs in network files to make router configuration successfull.Automation of Router is Successfull with internet access.Partially Automated Configuration-node-server because of a small bug popping up when running with proxy.Fixed Proxy issue which took max time of the day.Installed Openssh in Config-node container by automation
+** Week 5 [2017-06-05] till [2017-06-11 sun]
+  + [2017-06-05 Mon]-Automated ossec-server,rsyslog-server.Stuck on config-server while creating user in remote user.Initial configuration of dns-private-server and public-server,nagios-server,rsnapshot-server,ads-server is done.Need to configure little bit after completion of config-server
+  + [2017-06-06 Tues]-Fixed user creation problem by directly running on remote user.Automated copying ssh keys of localhost to config server, Copying config-server keys to localmachine and to router.Stuck at cloning repository from bitbucket using ssh. We added .pub key on bitbucket.org in access keys section,then tried to clone repository.But we faced persistent error clonning
+ 
 * Repository link
   [[https://github.com/vlead/cluster-automation][cluster-automation repository]] 
  
