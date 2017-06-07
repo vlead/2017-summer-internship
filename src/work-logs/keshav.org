@@ -34,7 +34,12 @@
      installation and generating models. Able to display model in a webpage,
      still working on simulating it.Documentation is absent so having to
      reverse engineer a lot of interfaces by trial and error.
-
+   + [2017-06-07 Wed] - Finished work on generating models and wrote the
+     interface code for simulating the model. Worked on fixing broken
+     simulation links.Was unable to find links to the proper documentation in
+     the OMC to figure out the source of the problem.Started work on reverse
+     engineering the script code.Extended the expected deadline to Friday.
+   
  
   
 
