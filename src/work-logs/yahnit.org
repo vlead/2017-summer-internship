@@ -37,7 +37,7 @@ we have decided to use for the login page.
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-05 Mon]
      
-In the morning we have discussed about the reuirements and data model of LDS. 
+In the morning we have discussed about the requirements and data model of LDS. 
 We made a clear idea as on how to proceed further. Also, my project manager
 gave a milestone that is to be reached by friday. We have implemented 
 Google authorisation and Authentication. Sign in and Sign out were working 
@@ -45,5 +45,27 @@ properly. We also started writing the backend for users. We created 2 tables
 ,one for users and one for roles. We have implemented routes like Add User,
 Add role,Show users and show roles.
 
+  +[2017-06-06 Tue]
+
+In the morning I have implemented the following API routes. Delete User,Delete Role, Update User.
+Then, I and my teammate sat together and integrated both our codes. He has implemented Google
+Authorisation and Authentication. We have succesfully merged both our codes and all the routes
+were working perfectly fine.
+In the afternoon, I started documentation for all the routes Add User,Add role,Delete User,Delete Role,
+Show users,Show roles,Update user and completed it.
+We also started writing testcases for our code but both of us were struck and we were not able to
+debug our code for test cases.
+
+  +[2017-06-07 Wed]
+
+In the morning we have written test cases for all the API routes which we have implemented.
+For each route, we wrote atleast 3 testcases taking care of all the possible errors.
+After writing the test cases , both of us integrated our codes and made sure everything
+was working perfectly fine. I also implemented another API route which checks whether
+a user exists in the database or not, since while logging in we have to check whether the 
+user has availed to LDS or not. Then,We integrated our codes. Later we wrote HTML files
+to be showed while logging in and implemented checking the user is there in database or not.
+Then we wrote the documentation of all the test cases for all the API routes.
+Also documentation of extra routes and html was done.  
 
 * Month of July
