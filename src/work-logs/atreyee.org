@@ -38,7 +38,7 @@
        familiarise myself with Stack, I built and debugged an example web app with a single
        route that returned a list of users when called
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-05 Mon]
+   + [2017-06-05 Monday]
      - Had a meeting with Prof. Choppella, my project mentor, in the morning
      - Wrote a skeleton webapp with two routes, =showUsers= and =addUsers=
      - Functions to handle these two routes have not been implemented yet-
@@ -54,6 +54,22 @@
        (mostly library import issues- added all necessary libraries to
        =webapp-tryout.cabal=)
      - There's a bug in the type naming. Will look at it later
-     - All work done today has been committed to the =web=app-haskell= repository
+     - All work done today has been committed to the =web=app-haskell=
+       repository
+   + [2017-06-06 Tuesday]
+     - Previous day's error resolved.
+     - Went through Haskell theory, particularly relating to the concepts of
+       type-level strings, type-level lists and type families.
+     - Had an issue with Stack- namely, that it had =src= as the default source
+       code directory instead of =build/code=. Issue resolved.
+     - Fixed a few more issues. Set =Role= as an ADT- therefore ensuring the
+       type-safety of =Role= value. Found out how to write custom FromJSON and
+       ToJSON instances of ADTs.
+     - Had a meeting with my project mentor- Prof. Choppella- Prof. Soma,
+       Prof. Kesav Nori and another professor about projects related to
+       linguistics and Haskell, from 11:30am to 1:30pm.
+     - Worked on implementing handlers for the /showUsers and /addUsers routes.
+   + [2017-06-07 Wednesday]
+     - Made a very crude version of the webapp that works.
 
 * Month of July
