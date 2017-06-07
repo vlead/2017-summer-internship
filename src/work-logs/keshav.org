@@ -29,7 +29,17 @@
      converting modelica models to JS scripts to enhance customizability of the
      code and also automate the entire process from start to finish, so that
      given a model, it can generate a html div that can be embedded in a
-     web page with very little modifications . 
+     web page with very little modifications .
+   + [2017-06-06 Tue] - Almost finished writing script for environment
+     installation and generating models. Able to display model in a webpage,
+     still working on simulating it.Documentation is absent so having to
+     reverse engineer a lot of interfaces by trial and error.
+   + [2017-06-07 Wed] - Finished work on generating models and wrote the
+     interface code for simulating the model. Worked on fixing broken
+     simulation links.Was unable to find links to the proper documentation in
+     the OMC to figure out the source of the problem.Started work on reverse
+     engineering the script code.Extended the expected deadline to Friday.
+   
  
   
 

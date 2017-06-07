@@ -56,5 +56,16 @@ Show users,Show roles,Update user and completed it.
 We also started writing testcases for our code but both of us were struck and we were not able to
 debug our code for test cases.
 
+  +[2017-06-07 Wed]
+
+In the morning we have written test cases for all the API routes which we have implemented.
+For each route, we wrote atleast 3 testcases taking care of all the possible errors.
+After writing the test cases , both of us integrated our codes and made sure everything
+was working perfectly fine. I also implemented another API route which checks whether
+a user exists in the database or not, since while logging in we have to check whether the 
+user has availed to LDS or not. Then,We integrated our codes. Later we wrote HTML files
+to be showed while logging in and implemented checking the user is there in database or not.
+Then we wrote the documentation of all the test cases for all the API routes.
+Also documentation of extra routes and html was done.  
 
 * Month of July

@@ -1,0 +1,28 @@
+#+TITLE: Sample Time sheet
+#+AUTHOR: Shubh Maheshwari
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document hols the time sheets for my work during the summer internship
+  at VLEAD, IIIT Hyderabad
+
+* Month of June
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+   + [2017-06-01 Fri] - Installed VirtualBox and Vagrant to set up ubuntu14.04 on virtualMachine.Went through the microservice architure.
+ 
+ 
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+   + [2017-06-05 Mon] - Went through the code of web-app-short-course.Completed the deployment using Google Oauth2.0 and flask OAuth.
+                      - Went through the processes of Gaurd,Engine and Filter in the web-app.
+                      - Made the flow cart of flow of the program.
+   + [2017-06-06 Tue] - Learned Alloy 
+                      - Made A static data-model of the web-app-short-course in Alloy
+		      - Worked on the Gaurd of Web-app-short-course for adding the command =showalluser=
+   + [2017-06-07 Wed] - Learned dyanmic part of the Alloy Language and modified the data model
+  
+
+* Month of July
