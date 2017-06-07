@@ -47,5 +47,32 @@
          - search about browser terminal (i.e terminal on browser(frond-end virtual-box type to execute commands with some kind of filter) and backend local-server)
          - We can hover over command outputs on virtual-box to see details of the output. 
          - Final architecture of design of linux-lab will be discussed in 1-2 days 
+   + [2017-06-07 wed]
+     - Searched for the termlib.js and found that:-
+       - It is a JS library that provides a terminal obgect, which falicitates a simple and object oriented approach to generate and control a terminal like interface.
+         - [[http://www.masswerk.at/termlib/]] - resource 
+         - example:-
+                   #+BEGIN_SRC 
+                    var term = new Terminal( {handler: termHandler} );
+                    term.open();
 
+                    function termHandler() {
+                      this.newLine();
+                      var line = this.lineBuffer;
+                      if (line != "") {
+                        this.write("You typed: "+line);
+                      }
+                      this.prompt();
+                    }
+                   #+END_SRC  
+     - Searched for browser terminal and found some great examles
+       - [[https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/pwd?action=lesson_resume]] - A terminal implented like on browser
+         - On testing this terminal a found that lacks filter for commands
+           eg- I can do =rm -rf /= which can delete the files of whole system.
+         - It lacks hovering on output of commands for info
+     - I thought about how to implement terminal on browser
+       - First  I need to make a directory in which user can do whatever he wants
+       - I need to add filters through js so to restrict user to this directory only.
+       - I need to convert the convert the command typed on browser and execute it on machine and display the output on browser.
+          
 * Month of July
