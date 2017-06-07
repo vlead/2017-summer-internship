@@ -46,4 +46,12 @@
      data model provided by the mentor and the APIs just implemented. Then I worked with my partner creating unit
      testcases but we had some problems regarding registering our routes for it. So, unit testing is due tomorrow
      but will tried to be worked till tonight. Further APIs error codes were updated along with some other changes. 
+   + [2017-07-06 Wed]
+     As decided morning session started with debugging of Unittest codes codes. We were finally able to register all
+     the routes by using app's blueprint. Then test cases of all the APIs were written down (each test class has multiple
+     test cases) and tested and then with then controllers were also changed accordingly thus code was made more reliable. 
+     Documentation regarding testcases were also written. Then in the afternoon session work on errorhandling was looked 
+     upon and then redirection were checked. 404 redirection error was finally fixed, fault was found with my jinja code.
+     After this we wrote some more html files for the login and index pages. Documentation regarding all of them was
+     also written down. 
 * Month of July
