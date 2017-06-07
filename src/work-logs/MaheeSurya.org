@@ -35,3 +35,6 @@
      the video to get the necessary images. Later, cropped all the images and
      completed the task. I'm halfway through the conversion. Will try to
      complete the conversion of Experiment-1 by tomorrow.
+   + [2017-06-07 Wed] - Worked on the conversion of Experiment-1 of 
+     Colloid-and-Surface-Chemistry lab. I've completed 75% of the
+     conversion. Will complete the conversion by tomorrow.
