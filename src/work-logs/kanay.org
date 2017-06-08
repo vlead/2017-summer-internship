@@ -29,6 +29,11 @@
    
    + [2017-06-05 Tue]- Setting the developer environment needed to run processinng IDE - faced some errors but able to resolve them. Learnt processing language and made some programs demonstrating it. Then in afternoon Merge sort uml diagram was made and properly worked out using online editing tools. After that had a lengthy discussion with venkatesh sir on the elementary app that i has to build along some discussion on linux lab also .   
    
+   + [2017-06-07 Wed]- D3.js framework completed with documentation also in org mode about the syntax and it's explanations. ALong with some examples such as bar graph and line graph using d3 were coded. Afterwards some thinking on the design of the merge sort js page was done whose main points are as follows:
+   1. input from user
+   2. merge sort will be coded in javascript with output available in each level. 
+   3. with the help of js the data will be displayed upon clicks.   
+   
    
    
 
