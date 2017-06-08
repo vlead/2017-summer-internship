@@ -47,3 +47,9 @@
      not the method of implementation we will be using. The scope of the
      project has again been redefined to making an Oauth service. Currently the
      outreach portal uses a login with Google. Aim is to make login with vlabs.
+   + [2017-06-07 Wed] - Did research on different open source implementations
+     of oauth service. Found that most of the solutions are in Java. Created a
+     document with links to all the implementations I found. Currently working
+     on using a django based implementation to create the service. Have created
+     the login and sign up of the user today. Will work on integrating the
+     oauth elements from tomorrow.
