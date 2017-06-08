@@ -38,3 +38,8 @@
    + [2017-06-07 Wed] - Worked on the conversion of Experiment-1 of 
      Colloid-and-Surface-Chemistry lab. I've completed 75% of the
      conversion. Will complete the conversion by tomorrow.
+   + [2017-06-08 Thu] - Worked on the conversion of Experiment-1 of 
+     Colloid-and-Surface-Chemistry lab. I've completed the conversion of the
+     Experiment. But there are some minor errors which require attention. I'll
+     rectify them and start working on another Experiment of
+     Colloid-and-Surface-Chemistry lab by tomorrow.
