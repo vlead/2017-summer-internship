@@ -24,7 +24,7 @@
    + [2017-06-05 Mon] - Read about elk stack which inturn means elasticsearch logstash and kibama.Elasticsearch is a juggernaut solution for your data extraction problems.Installed elk on the system and learnt the basics tools required for using kibama.
 
   + [2017-06-06 Tue] -Started working with kibama and logstash.Giving data to indices created and visualizing the graphs from the given data.Started working on importing data from external files(.txt fies) and visualising graphs for the given parameters in kibama.
-
++ [2017-06-07 Wed] - Visualised graphs for more than one parameter on X-axis using kibana. worked on converted a given text file to json format which can be given to kibama nd used for visualisation.
 
 * Month of July
 
