@@ -10,16 +10,24 @@ Introduction
 This document hols the time sheets for my work during the summer internship
 at VLEAD, IIIT Hyderabad
 
-Month of June
-* Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
-*[2017-06-01 Thu] Brief introduction in the morning about VLEAD and
+*Month of June
+
+** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+
+***[2017-06-01 Thu] Brief introduction in the morning about VLEAD and
 VLABS. After that, setting up the dev environment. Detailed discussion
 with the project mentor about my allotted project. Read about continuous integration.
-**[2017-06-02 Fri] Resolved issues with the development environment. Jedi package wasn't getting installed, dual booted my laptop to run ubuntu 14.04 and started re-installing the packages. Researched and read about FLASK. Checked out different articles on tools that can be used for continuous integration.  
 
-* Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-**[2017-06-05 Mon] Faced issues with Ubuntu 14.04, drivers weren't getting installed, installed Ubuntu 16.04 and setup the environment. Checked the requirements of the project. Researched about open sourced tools used for continuous untegration and finally decided upon which tool to use. Designed a brief diagram explaining the process of continuous integration, read about dockers.
-**[2017-06-06 Tue] Had a stand up meeting with Thirumal sir and Sripathi sir, the work done so far and what has to be done in the next few days. Jenkins was decided as the final CI tool that we are going to use. Installed and setup Jenkins. Read about how Jenkins can be configured. Configured Jenkins and tested it on the local host. Tried to test it on the base4 server. Faced issues with the installation of jdk on the server. That will have to be resolved as soon as possible
-***[2017-07-07 Wed] A complete workthrough of Jenkins was also successfully done on the local host. We were able to connect the CI tool to the git repo of the LDS service. The polling mechanism was activated on the Jenkins, by doing this any changes made to our repo triggered an automatic build and a run of the test cases on the local host.Jenkins was also successfully configured to do a post build operation of posting the newly created files on the Apache doc server that we created on base 4. After that we created a container on the base4 server with the os template ubuntu 16.04. We then installed Java on the container and resolved the issues that we faced yesterday. Then we went on to install jenkins and have the ci tool ready for configuration.
+***[2017-06-02 Fri] Resolved issues with the development environment. Jedi package wasn't getting installed, dual booted my laptop to run ubuntu 14.04 and started re-installing the packages. Researched and read about FLASK. Checked out different articles on tools that can be used for continuous integration.  
+
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+
+***[2017-06-05 Mon] Faced issues with Ubuntu 14.04, drivers weren't getting installed, installed Ubuntu 16.04 and setup the environment. Checked the requirements of the project. Researched about open sourced tools used for continuous untegration and finally decided upon which tool to use. Designed a brief diagram explaining the process of continuous integration, read about dockers.
+
+***[2017-06-06 Tue] Had a stand up meeting with Thirumal sir and Sripathi sir, the work done so far and what has to be done in the next few days. Jenkins was decided as the final CI tool that we are going to use. Installed and setup Jenkins. Read about how Jenkins can be configured. Configured Jenkins and tested it on the local host. Tried to test it on the base4 server. Faced issues with the installation of jdk on the server. That will have to be resolved as soon as possible
+
+***[2017-06-07 Wed] A complete workthrough of Jenkins was also successfully done on the local host. We were able to connect the CI tool to the git repo of the LDS service. The polling mechanism was activated on the Jenkins, by doing this any changes made to our repo triggered an automatic build and a run of the test cases on the local host.Jenkins was also successfully configured to do a post build operation of posting the newly created files of the Apache doc server that we created on base 4. After that we created a container on the base4 server with the os template ubuntu 16.04. We then installed Java on the container and resolved the issues that we faced yesterday. Then we went on to install jenkins and have the ci tool ready for configuration.
+
+***[2017-06-08 Thu] A complete setup process was repeated and documented. Java and Jenkins were installed again in a separate container to try and make some changes to the port at which Jenkins runs. It was initially installed at port 8080, when we tried moving it to 80, there were lots of issues. First, even though the jenkins port was shifted to 80, the default ubuntu apache page kept opening. When apache was purged from the container, there was an error which said connection to the ip address failed, various methods were tried to shift the port from 8080 to 80, it still hasn't been resolved, will need to be resolved as early as possible. Apart from that, the doc server setup up on the base4 was given a public IP. A few tests were run with Jenkins CI setup on the base4 server and the Apache serving on the doc server. The doc files were successfully being posted on the Apache web server. With this the first milestone was reached. 
 
 * Month of July
