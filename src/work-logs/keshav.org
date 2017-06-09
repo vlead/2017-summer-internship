@@ -44,7 +44,10 @@
    + [2017-06-08 Thu] - Couldn't make any discernible progress today. Spent
      time working on resolving dependencies in the various scripts and writing
      glue code to patch everything up ,but still haven't ended up at a working
-     prototype yet.functionally stuck at where i was yesterday 
+     prototype yet.functionally stuck at where i was yesterday.
+   + [2017-06-09 Fri] - Tried to fix the Front end Node.Js requirement.Had the
+     presentation today.Was suggested by maruthi sir to read back the modelica
+     documentation . Started to work out a plan to work from scratch.   
  
   
 
