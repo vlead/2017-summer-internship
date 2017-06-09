@@ -63,4 +63,14 @@
      In the afternoon final datamodel was reviewed, so I had to implement left out checks in each of the routes to make it fully 
      specify the database model followed. Documentation for APIs were updated and error codes were added. Further styling will be done
      by tomorrow.
+   + [2017-06-09 Fri]  
+     I worked upon HTML and more CSS, JS whole night which was inregrated today in our codes, changes were also made in to the
+     documentation regarding the same. All the routes and Unitest cases were tetsed for the presentation. Multi user login at the same 
+     time was tested using many browser and incognito sessions. Changes were made accordingly. Unittesting still needs some attention
+     due to extra required admin auth decorator, which I would be tackling tonight. Later part of morning session went in presentation.
+     Afternoon session was used to acknowledge the feedback given by other mentors regarding new APIs frameworks such as Jango and
+     Swagger. Tutorials and documentation were readed and will be further explored in the weekend. Also tried a bit of angular js as 
+     suggested in the feedback. Build still needs some fixing rest works fine, documentation was updated with fixed data structure in
+     the evening with my partner.
+
 * Month of July
