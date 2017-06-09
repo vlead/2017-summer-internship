@@ -85,4 +85,13 @@ For that , we have implemented sessions. We also stored the role of the user
 in the session so that we could display it on the Home page.
 Documentation of Config files and init files were added.
 
+ +[2017-06-09 Fri]
+
+In the morning, We added the remaining html and css code to the documentation .
+ Then we had project presentation for 3 hours. Later, i have gone through 
+swagger which one of my mentors suggested to go through.
+ I also made adjustments to the documentation making sure that everything was in the 
+right place. We we made sure that make file ran without any errors. I adjuested
+our code according the directory strucure . 
+
 * Month of July
