@@ -31,3 +31,7 @@
    + [2017-06-08 Thu] - Continued my work on exp-1 on lab
      colloid-and-surface-chemistry. Completed first Experiment. Read about some
      tools helpful for conversion of flash to java.
+   + [2017-06-09 Fri] - As the 1st experiment was done, today I went through
+     experiments of  Lab "physical-chemistry-iiith". I looked for some tools on
+     net helpful for me and read about those tools. Also Presented our lab
+     experiment to all in presentation Room.
