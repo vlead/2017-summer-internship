@@ -70,4 +70,8 @@
    + Corrected the code of the =/map= API in and commited it in LDS.
    + Studied about the layers of the code, viz., Object, Persistance, etc.
    + Discussed about Experiment as a Service with the mentor.
+** [2017-06-09 Thu]
+   + Weekly Presentation.
+   + Researched about Multimedia Database Management System (MMDBMS) as we
+     needed to store the resources.
 * Month of July
