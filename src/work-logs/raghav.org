@@ -33,7 +33,13 @@
     - Also deployed a small python app on heroku for learning purpose. Will try to talk with MongoAtlas using heroku later sometime.
     - Had meeting with Prof. Venkatesh sir, Soumya, Sadhana and Sai sir about the concept of renarration project and also discussed about upcoming workshop and its schedule.
     - Finalized the dates for integration, deployement, testing and workshop rehearsal.
-  + [2017-06-06 Tue]
-    - *TODO* Finalize database implementation.
-    - *TODO* Figure out exercises, steps and tasks to be done during workshop.
-    - *TODO* Draft final schedule for workshop.
+  + [2017-06-06 Tue - 2017-06-07 Wed]
+    - Had meeting with Sai sir. We discussed about the datamodel which is to be made in MongoDB.
+    - Desinged a RESTful API which will be used to talk with SSS-Maker and SSS-Renderer and MongoDB Atlas cloud.
+    - Built the proposed API in flask. Faced some difficulties like in choosing the best suited library for the implementation. Libraries which I tried are MongoEngine, MongoAlchemy, PyMongo and Eve Framework. All of them consist of PyMongo. I choosed PyMongo for implementation because it gives a lot of flexibility and control over database operations. I found other libraries less flexible but surely they are more robust and better tested prebuilt functions. Will look forward to use one of these but for now we have less time to put into backend aesthetics.
+  + [2017-06-08 Thur]
+    - *TODO* Write functions for all the API endpoints.
+    - *TODO* Write test cases and automated test functions.
+    - *TODO* Explore possiblities in other libraries for MongoDB.
+    - *TODO* Create user login form.
+    - *TODO* Complete the docs.

@@ -68,4 +68,21 @@ to be showed while logging in and implemented checking the user is there in data
 Then we wrote the documentation of all the test cases for all the API routes.
 Also documentation of extra routes and html was done.  
 
+  +[2017-06-08 Thu]
+
+In the morning we have made changes to our login routes. After the Login page is shown,
+if the user clicks the login button, we redirected him to the google Auth page and
+then made a check if the user is there in the database or not.If the user is there 
+we navigated him to the index page. I have written HTML code for Guest and Admin
+pages and added all the links of LDS though the routes have not been linked yet.
+To the Admin index page,we have added CRUD operations though we have'nt implemented
+frontend for that.
+I implemented roles.For performing certain operations like Add,Delete or Update
+I wrote functions to check the authorisation. My teammate worked on styling.
+Later we have integrated our codes. We have redirected the user to Admin page
+if he is an admin or redirected him to guest page if he is a guest.
+For that , we have implemented sessions. We also stored the role of the user
+in the session so that we could display it on the Home page.
+Documentation of Config files and init files were added.
+
 * Month of July

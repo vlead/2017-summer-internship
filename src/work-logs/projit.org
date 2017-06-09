@@ -13,7 +13,7 @@
 
 
 * Month of June
-** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+** Week 1 [2017-06-01 Thu] till [2017-06-02 Fri]
    + [2017-06-01 Thu] - Worked on setting up development environment. Discussed
      requirements for the Authentication between VLEAD Services. For rest of
      week need to work on surveying current industrial standards for this type
@@ -32,6 +32,8 @@
      when a lab is located in a different server. * Need to get confirmation
      from Thirumal Sir whether this is the actual scope of my project, if so,
      more resources may be required or the expectations would need to be clearly defined.
+
+** Week 2 [2017-06-05 Mon] till [2017-06-09 Fri]
    + [2017-06-05 Mon] - Went through further documentation on Oauth 2.0. Had an
      extensive meeting with Thirumal Sir to evaluate what the project actually
      entails. Conclusion was to make a prototype of the authorization using
@@ -53,3 +55,9 @@
      on using a django based implementation to create the service. Have created
      the login and sign up of the user today. Will work on integrating the
      oauth elements from tomorrow.
+   + [2017-06-08 Thurs] - Went through possible implementations of the oauth
+     service. Two possible ways: implementing from almost scratch using django
+     or using a blackbox java version(present in documentation). Hit a
+     roadblock in the django implementation with redirect URIs. Also
+     helped(unsuccessfully) figure out how to compile OpenModelica scripts. Will
+     explore the java blackbox alternative tomorrow.

@@ -62,4 +62,12 @@
    + Fixed this [[https://github.com/vlead/translators/issues/3][issue]] in the translator API.
    + My teammate and I sat with the mentor and set the milestones for this week, which is creating the
      LDS API. 
+** [2017-06-07 Wed]
+   + Setup the Lab Development Service in developer environment.
+   + Wrote the API =/map= in LDS which generates the resource ids for all the section
+     of the environment.
+** [2017-06-08 Thu]
+   + Corrected the code of the =/map= API in and commited it in LDS.
+   + Studied about the layers of the code, viz., Object, Persistance, etc.
+   + Discussed about Experiment as a Service with the mentor.
 * Month of July
