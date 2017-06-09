@@ -21,7 +21,17 @@
      experiments.Started working on exp1 of colloid-and-surface-chemistry by
      creating simple page. Also looked for other ways to convert flash to javascript.
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-05] - Continued my work on experiment-1 lab
+   + [2017-06-05 Mon] - Continued my work on experiment-1 lab
      colloid-and-surface-chemistry. Wrote javascript code based on video for experiment. 
-   + [2017-06-06] - Continued my work on exp-1 for lab
+   + [2017-06-06 Tue] - Continued my work on exp-1 for lab
      colloiid-and-surface-chemistry. Wrote  new functions for the experiment. 
+   + [2017-06-07 Wed] - Continued my work on experiment one of my lab
+     colloid-and-surface-chemistry. Wrote new functions and first experiment is
+     almost done.
+   + [2017-06-08 Thu] - Continued my work on exp-1 on lab
+     colloid-and-surface-chemistry. Completed first Experiment. Read about some
+     tools helpful for conversion of flash to java.
+   + [2017-06-09 Fri] - As the 1st experiment was done, today I went through
+     experiments of  Lab "physical-chemistry-iiith". I looked for some tools on
+     net helpful for me and read about those tools. Also Presented our lab
+     experiment to all in presentation Room.

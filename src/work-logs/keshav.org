@@ -24,6 +24,8 @@
      openmodelica in a virtual environment.
    + [2017-06-03 Sat] 
    + [2017-06-04 Sun]
+
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun] 
    + [2017-06-05 Mon] - Began writing scripts for setting up environment for
      creating modelica simulation models. Reverse engineering the script for
      converting modelica models to JS scripts to enhance customizability of the
@@ -39,7 +41,10 @@
      simulation links.Was unable to find links to the proper documentation in
      the OMC to figure out the source of the problem.Started work on reverse
      engineering the script code.Extended the expected deadline to Friday.
-   
+   + [2017-06-08 Thu] - Couldn't make any discernible progress today. Spent
+     time working on resolving dependencies in the various scripts and writing
+     glue code to patch everything up ,but still haven't ended up at a working
+     prototype yet.functionally stuck at where i was yesterday 
  
   
 
