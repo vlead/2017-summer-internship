@@ -20,4 +20,5 @@
    + [2017-06-05 Mon] - read the documentation and ran the app which was on GitHub.Had some trouble while installing mysql and Flask in virtualbox(vagrant) and lost some time due to that.Had a meeting with the project manager and dicussed in detail about the app and the working and were given a few tasks to complete and draw the process diagram .
    + [2017-06-06 Tue] - We had a meeting with our project manager in the morning and were asked to install ALLOY analyzer which is a specification language which can used to check the model.Me and my project-mate set up a milestone for the coming friday.In the afternoon I spent reading the alloy tutorials and then tried the alloy analyzer.I added a work-flow chart of the engine-gaurd diagram through google.docs.
    + [2017-06-07 Wed] - Did some examples of models in Alloy analyzer. Tried to build the model of web app short course but was not able to implement/code in the alloy analyzer properly.Working on some more concepts and tutorials of alloy.
-   + [2017-06-08 Thu] - made a few example models in alloy and did some of the alloy tutorials.
+   + [2017+-06-08 Thu] - made a few example models in alloy and did some of the alloy tutorials.
+   + [2017+-06-08 Thu] - made a static model of Webapp-short-course in Alloy and  implemented the operation AddUser and checked some cases with assertion.
