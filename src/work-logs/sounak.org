@@ -66,4 +66,8 @@
    + Setup the Lab Development Service in developer environment.
    + Wrote the API =/map= in LDS which generates the resource ids for all the section
      of the environment.
+** [2017-06-08 Thu]
+   + Corrected the code of the =/map= API in and commited it in LDS.
+   + Studied about the layers of the code, viz., Object, Persistance, etc.
+   + Discussed about Experiment as a Service with the mentor.
 * Month of July

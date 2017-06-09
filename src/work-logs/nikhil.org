@@ -74,5 +74,23 @@
        - First  I need to make a directory in which user can do whatever he wants
        - I need to add filters through js so to restrict user to this directory only.
        - I need to convert the convert the command typed on browser and execute it on machine and display the output on browser.
-          
+   
+   + [2017-06-08 Thr]
+     - Read the documentation of older linux lab.
+       - Some problems encountered with this linux lab
+         - The current state of the problem is that the communication between the Linux lab and ldap server is not happening properly.
+         - ldapscripts called from the linux lab are not able to register user in the ldap server.
+         - The communication between gateone server and ssh is not established.
+       - Working 
+         1. User visits the virtual lab webpage
+         2. The webpage loads some scripts
+         3. The script makes a connection to backend 'Gateone' gateway server using WebSockets
+         4. The gateway server then connects to a backend SSH server via the SSH protocol
+         5. The gateway server also emulates a terminal to the SSH server
+         6. The contents of the emulated terminal are sent to the user's web page and get displayed
+         7. All the user's input is forwarded via the gateway the SSH server
+         8. For security, there are several limitations put up on the user's account in the restricted shell SSH server
+         9. The user account information comes from an OpenLDAP server setup separately
+         10. Accounts on the OpenLDAP server get created when the user registers for virtual labs
+         11. Home directories for the user's are on a NFS mount which is served by a central NFS server with quotas setup 
 * Month of July
