@@ -61,3 +61,11 @@
      roadblock in the django implementation with redirect URIs. Also
      helped(unsuccessfully) figure out how to compile OpenModelica scripts. Will
      explore the java blackbox alternative tomorrow.
+   + [2017-06-09 Fri] - Organized directory structure to comply with norms and
+     vlabs makefile. Presented various findings and failures. Discussed to
+     great extent the implications of creating an oauth service. The mentors
+     agreed that this would be very difficult to create. Maruthi Sir suggested
+     I continue to go through the oauth documentation, and that implementations
+     in node are preferred over all. I currently have found an implementation
+     in node and will be looking into it from next week. Also need to have
+     further discussions to understand and get help to create this project.

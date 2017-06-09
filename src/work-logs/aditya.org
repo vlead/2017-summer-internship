@@ -37,3 +37,6 @@
    + [2017-06-08 Thr]
      + Written the test cases for the =/map= API lab-data-service.
      + Understood the workflow of LDS from madhavi mam.
+
+   + [2017-06-09 Fri]
+     + Given a short presentation as a customary and discussed some points in that.

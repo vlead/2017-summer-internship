@@ -53,5 +53,24 @@
      Documentation regarding testcases were also written. Then in the afternoon session work on errorhandling was looked 
      upon and then redirection were checked. 404 redirection error was finally fixed, fault was found with my jinja code.
      After this we wrote some more html files for the login and index pages. Documentation regarding all of them was
-     also written down. 
+     also written down.
+   + [2017-07-07 Thurs]
+     Login page, Autherization, 404 pages were written from the scratch today and then bootstrap and css were also implemented 
+     to them and Guest and Admin pages were also written and worked upon. Now we have a home page which has a login button in 
+     order to go the google auth page and then user is check in the database. Couple of login errors were fixed and 
+     JavaScripts were also written. UnitTest cases were updated. Roles were finally integrated in the controllers using sessions 
+     which made me to some of the routes and furthermore sending user data to home pages was also implemented in the index home page. 
+     In the afternoon final datamodel was reviewed, so I had to implement left out checks in each of the routes to make it fully 
+     specify the database model followed. Documentation for APIs were updated and error codes were added. Further styling will be done
+     by tomorrow.
+   + [2017-06-09 Fri]  
+     I worked upon HTML and more CSS, JS whole night which was inregrated today in our codes, changes were also made in to the
+     documentation regarding the same. All the routes and Unitest cases were tetsed for the presentation. Multi user login at the same 
+     time was tested using many browser and incognito sessions. Changes were made accordingly. Unittesting still needs some attention
+     due to extra required admin auth decorator, which I would be tackling tonight. Later part of morning session went in presentation.
+     Afternoon session was used to acknowledge the feedback given by other mentors regarding new APIs frameworks such as Jango and
+     Swagger. Tutorials and documentation were readed and will be further explored in the weekend. Also tried a bit of angular js as 
+     suggested in the feedback. Build still needs some fixing rest works fine, documentation was updated with fixed data structure in
+     the evening with my partner.
+
 * Month of July
