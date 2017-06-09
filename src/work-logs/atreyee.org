@@ -71,5 +71,10 @@
      - Worked on implementing handlers for the /showUsers and /addUsers routes.
    + [2017-06-07 Wednesday]
      - Made a very crude version of the webapp that works.
+   + [2017-06-08 Thursday]
+     - Worked on implementing login/logout routes.
+   + [2017-06-09 Friday]
+     - Finished implementation of login/logout routes and index page route. 
+     - Gave a presentation about progress in this project so far.
 
 * Month of July

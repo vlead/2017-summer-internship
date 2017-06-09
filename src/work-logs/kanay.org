@@ -34,7 +34,9 @@
    2. merge sort will be coded in javascript with output available in each level. 
    3. with the help of js the data will be displayed upon clicks.   
    
-   
+
+   + [2017-06-08 Thu]- Continued working of processing and p5.js. Survey of p5.js was completed. Found p5.js to be a better working library than d3.js but they are based on different ideologies so it would not be valid to compare but p5 does have more options of sounds , images and animations. Then the design of merge page was thought upon .  Also many animations were already there on the ds lab which iw went through and analysed .
+      
    
 
 
