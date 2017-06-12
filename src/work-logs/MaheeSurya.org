@@ -27,7 +27,7 @@
      conversion of Flash into JavaScript.  
 ** Week 1 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-05 Mon] - Worked on converting Experiment-1 of
-     Colloid-and-Surface-Chemistry lab. Worked on  CSS and JavaScript to get
+     Colloid-and-Surface-Chemistry lab. Worked on CSS and JavaScript to get
      the required effect on the HTML page.
    + [2017-06-06 Tue] - Worked on the conversion of Experiment-1 of 
      Colloid-and-Surface-Chemistry lab. As some images required for the
@@ -43,3 +43,12 @@
      Experiment. But there are some minor errors which require attention. I'll
      rectify them and start working on another Experiment of
      Colloid-and-Surface-Chemistry lab by tomorrow.
+   + [2017-06-09 Fri] - Worked on fixing some errors in Experiment-1 of
+     Colloid-And-Surface-Chemistry lab. Added mouse pointers on hover to some
+     objects. Read the documentary on svg images. Trying to explore other
+     methods of conversion of flash to JavaScript.
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon] - Worked on understanding different methods for the
+     conversion of flash to javascript. Tried to learn about haxe and
+     openfl. Also, I tried to explore Google Web Designer and CreateJS. Will
+     try to decide a suitable way for the conversion by tomorrow.
