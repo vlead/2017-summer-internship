@@ -73,4 +73,17 @@
      suggested in the feedback. Build still needs some fixing rest works fine, documentation was updated with fixed data structure in
      the evening with my partner.
 
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon]
+     - Debugging the build failed for the second consecutive day, talked with the mentor; suggestions were implemented, move closer to
+       the success.
+     - Directory structure was tried to be fixed along with addition for __ini__.py tangle codes to make the directory represented as 
+       python modules.
+     - Unittesting was worked upon, still needs a way out of the login redirection, need to look at flask session a little more.
+     - Angular JS framework was studied and cli was set up and a basic app was deployed and worked upon, made few components, added css. 
+       Futher w3 documentations were also studied.
+     - PHP was studied and xampp was set up and run inorder to help another intern. Learnt how to access files in htdocs, enabling closing
+       services etc. Very basic php scripting was done and tried to viewed through the browser.
+     - Plans were made to fix a little bug in controllers, couldn't fix it now so probably will have a look of it again at night.
+
 * Month of July
