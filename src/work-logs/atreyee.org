@@ -77,4 +77,9 @@
      - Finished implementation of login/logout routes and index page route. 
      - Gave a presentation about progress in this project so far.
 
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+
+   + [2017-06-12 Mon]
+     - Unsuccessfully attempted to implement authentication.
+     - Had a short meeting with the project mentor- Prof. Choppella.
 * Month of July
