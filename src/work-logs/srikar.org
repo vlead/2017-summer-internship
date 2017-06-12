@@ -32,4 +32,6 @@ with the project mentor about my allotted project. Read about continuous integra
 
 ***[2017-06-09 Fri] We had our first weekly presentation today, where we presented the progress and the current staus of our project, and got a brief overview of everyone elses too. A lot of suggestions and takeways were received from the heads, and they were duly taken note of. We were looking into incorporating these changes in our work. Later in the afternoon there was a discussion with Lalith sir, who had worked with Jenkins in the past. We discussed our current plan and the chain of processes that we are going to follow and we got some advice from him as well. After that I read up about how the core part of Jenkins works and understood the chain of flow of different processes. 
 
+***[2017-06-12 Mon] We finished the work of the first milestone and no new work was assigned. I watched tutorials to configure Jenkins to have a deeper understanding on the CI tool. I looked into the CI tool used by Microsoft, and we decided it isn't very suitable to our needs
+
 * Month of July
