@@ -35,3 +35,9 @@
      experiments of  Lab "physical-chemistry-iiith". I looked for some tools on
      net helpful for me and read about those tools. Also Presented our lab
      experiment to all in presentation Room.
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon] - Today I searched for different tools on web that can
+     make conversion easier. I read about "google web developer" which makes
+     conversion into html5 easier and some other tools like  : Adobe
+     Wallaby,Haxe,AS3JS. At Last I found a website "createjs.com" which has
+     some libraries which can make animation work easier.

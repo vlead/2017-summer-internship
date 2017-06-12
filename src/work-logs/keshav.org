@@ -44,9 +44,17 @@
    + [2017-06-08 Thu] - Couldn't make any discernible progress today. Spent
      time working on resolving dependencies in the various scripts and writing
      glue code to patch everything up ,but still haven't ended up at a working
-     prototype yet.functionally stuck at where i was yesterday 
- 
-  
+     prototype yet.functionally stuck at where i was yesterday.
+   + [2017-06-09 Fri] - Tried to fix the Front end Node.Js requirement.Had the
+     presentation today.Was suggested by maruthi sir to read back the modelica
+     documentation . Started to work out a plan to work from scratch.    
 
+** Week 3 [2017-06-12 Mon] till [2015-06-18 Sun]
+   + [2017-06-12 Mon] - Was stuck at a major roadblock,decided to scrap the
+     work and start over. recompiled the openmodelica and emscripten
+     installation from scratch from the source code and manually verified paths
+     to all the proper directories. ran all the sanity checks for the
+     environment,and worked on fixing on fixing the few that failed.
+     working on fixing non functional c compiler
 
 * Month of July
