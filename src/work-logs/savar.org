@@ -56,6 +56,7 @@
 	 	 
 	[2017-06-09 Fri]: We had our first weekly presentation were we presented our current progress and got a brief overview of 	  everyone elses too. A lot of useful suggestions and takeways were received from the heads.We were looking into how to go 	   about incorporating these changes in our work.Team discussions regarding this also took place.Variuous valuable inputs 	  from Lalit sir who has had prior experience with Jenkins were also received.I spent a little time exploring and 	  understanding the Java source code of the Jenkins CI.I also did a bit of research on coupling Jenkins with AWS.
 
+[2017-06-12 Sat]:We had successfully finished our work for the milestone and no new work had been assinged, so I din't have anything specific to work on today.I spent most of my time doing more research on CI tools.I looked into Microsoft Team Foundation Build which had been recommended by Lalit sir.TFB would not be a good option becuase of it's minimal support for Open Source projects.I reasearched more about Continuous Integration in agile, with the aim of finding the stages where we could use CI tools to improve our release process.I learnt a lot about the current industry standards with CI.
      
  
 * Month of July
