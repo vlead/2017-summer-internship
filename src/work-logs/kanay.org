@@ -41,7 +41,7 @@
    	1. Know your project completely before doing anything.
    	2. Discuss with mentor before doing anything as to what is it and how it should be done.
    	2nd part of the day was spent is completing the merge sort design as well as completing all the documentation.
-   + [2017-06-12 Mon]- Design part was done and coding also complete of merge sort. Faced some difficulties in placing html elements in form of a binary tree. Tried a few techniques but was not able to find a concrete solution. Will be able to complete it by today night. 
+   + [2017-06-12 Mon]- Design part was done and coding also complete of merge sort. Faced some difficulties in placing html elements in form of a binary tree. Tried a few techniques but was not able to find a concrete solution. Will be able to complete it by today night. Solved the problem of placement and working js. Now only Animation and some minor modifications to the html have to be made along with buttons.
    
    
       
