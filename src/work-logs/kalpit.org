@@ -41,3 +41,6 @@
      conversion into html5 easier and some other tools like  : Adobe
      Wallaby,Haxe,AS3JS. At Last I found a website "createjs.com" which has
      some libraries which can make animation work easier.
+   + [2017-06-13 Tue] - Today I  started my work on exp-6 of lab physical-chemistry-iiith.
+     I almost completed the Experiment. I also read about "createjs", this provides some libraries, 
+     which makes conversion easier, I also watched tutorials on use of these libraries.
