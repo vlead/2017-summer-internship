@@ -82,4 +82,7 @@
    + [2017-06-12 Mon]
      - Unsuccessfully attempted to implement authentication.
      - Had a short meeting with the project mentor- Prof. Choppella.
+   + [2017-06-13 Tue]
+     - Successfully implemented login and admin authentication.
+     - Tested the app. Ran into issues.
 * Month of July
