@@ -94,4 +94,17 @@ swagger which one of my mentors suggested to go through.
 right place. We we made sure that make file ran without any errors. I adjuested
 our code according the directory strucure . 
 
+
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+
+ +[2017-06-12 Mon]
+
+In the morning, i have tried to implement front end for add user, add role etc.
+But, I could'nt do it. There was some problem with the directory structure.
+So, i had to fix the directory structure and tangling problems. Later, i have
+gone through Jinja templates which we decided to use for frontend. I referred 
+many tutorials in the internet and understood the actual implementation of
+Jinja templates.
+
+
 * Month of July
