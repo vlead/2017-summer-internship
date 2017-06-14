@@ -60,4 +60,7 @@
  
 [2017-06-12 Tue]:In the morning we had our team meeting with Thirumal sir where we were assinged new tasks.The new tasks have been raised as issues on our repo.I had been assinged to use web sockets to create a feature to continuously display the logs from ADS.I started my work on this shortly after the meeting.I was able to use tornado websockets on a small scale application.This helped me get a clear picture of the working mechanism.To further enhance my understanding I further read articles and watched video tutorials.To understand the working of ADS, I tried deploying it on my machine.There were some issues that I faced setting up and runnning centos.Hopefully once I am done running ADS I will start my work on the feature.
 
+[2017-06-13 Wed]:The initial Design for the Output Console feature after being approved by Thirumal sir was made and pushed.The required workflow and implemantaion methodology was also added to the repo. After experimenting with websocket on small scale applications I was able to further plan my implentation better.After discussing with my mentor Mr.Sripathi we decided to use Java Script on the Client end i.e. Controller Server and stick to Tornado on the server side i.e. Log Server.
+All the further work related to this feature is going to be pushed to the outputConsole folder.
+
 * Month of July
