@@ -56,3 +56,7 @@
      decided to use CreateJS this time as could not understand how to use
      OpenFl in the conversion while Google Web Designer is only a tool for
      building a HTML page. Started working on Experiment-5.
+   + [2017-06-14 Wed] - Working on conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Trying a different approach provided in
+     the documentary. About 20% of the conversion is completed. Need two more
+     days for complete conversion. 

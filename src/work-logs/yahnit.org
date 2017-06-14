@@ -114,9 +114,18 @@ the test cases keeping in mind login and admin authorisation.We faced a lot
 of build errors while running make. We have fixed all the build errors 
 and our app has tangles perfectly well and was working fine. Thirumal sir
 has explained about the web app short course and asked us to go through it
-because we will be implementing lds dashboard in a similar way. I cloned
-it and set up the web-app short course on my machine.
+because we will be implementing lds dashboard in a similar way.
 
++[2017-06-14 Wed]
+
+Deployment has been done with whatever we have done. I have setup web-app
+short course on my machine. The application did not work perfectly as we
+have faced problems with the google oauth.However, i have looked at the code
+and tried to understand how the API's were implemented and also understood
+the implementation of frontend.Thirumal sir has taught us user directory
+with hash routing in the ITWS2 course. I have downloaded that and had a look
+at how the hash routing was implemented.I also browsed about single page
+applications.
 
 
 * Month of July
