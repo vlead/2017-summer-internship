@@ -44,3 +44,5 @@
    + [2017-06-13 Tue] - Today I  started my work on exp-6 of lab physical-chemistry-iiith.
      I almost completed the Experiment. I also read about "createjs", this provides some libraries, 
      which makes conversion easier, I also watched tutorials on use of these libraries.
+   + [2017-06-14 Wed] - Completed first experiment of "physical-chemistry-iiith" lab, and started 
+     2nd experiment as well. Also read about some other libraries useful for conversion of flash to javascript.

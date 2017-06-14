@@ -12,8 +12,11 @@
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
 | No. |          Id | Proj                   | Interns         | Mentor      | Repository                                          |
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
-|   1 |          1. | Exp as a service       | Sounak (1)      | Thirumal    |                                                     |
-|     |             |                        | Aditya (2)      |             |                                                     |
+|   1 |          1. | Exp as a service       | Sounak (1)      | Thirumal    | https://github.com/vlead/vlabs-platform             |
+|     |             |                        | Aditya (2)      |             | https://github.com/vlead/resource-generator         |
+|     |             |                        |                 |             | https://github.com/vlead/lab-data-service           |
+|     |             |                        |                 |             | https://github.com/vlead/translators                |
+|     |             |                        |                 |             | https://github.com/test-platform-to-to-deleted      |
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
 |   2 |          2. | LDS dashboard          | Yahnit (3)      | Madhavi     | https://github.com/vlead/lab-data-service-dashboard |
 |     |             |                        | Ukarsh (4)      |             |                                                     |
@@ -22,7 +25,7 @@
 |     |             |                        | Raghav (20)     |             |                                                     |
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
 |   4 |  4, 14, 15, | Automation of          | Karthik (18)    | Thirumal    |                                                     |
-|     | 16, 17, 18. | cluster and            | Pullagura (19)  | Siva        |                                                     |
+|     | 16, 17, 18. | cluster and            | Sunandan (19)   | Siva        | https://github.com/vlead/cluster-automation         |
 |     |             | services for vlabs     |                 | Maruthi Rao |                                                     |
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
 |   5 |          5. | FP and Haskell         | Athreyee (8)    | Venkatesh   |                                                     |
