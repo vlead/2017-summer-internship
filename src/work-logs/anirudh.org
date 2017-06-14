@@ -24,3 +24,5 @@
    + [2017+-06-09 Fri] - made a static model of Webapp-short-course in Alloy and  implemented the operation AddUser and checked some cases with assertion.
 ** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]  
    + [2017+-06-12 Mon] - Completed the documentation of the Alloy model of web app short course
+   + [2017+-06-13 Tue] - Edited and improved documentataion of the Alloy model of web app short course
+   + [2017+-06-14 Wed] - Working on building session entity in the Alloy model created before for web app short course
