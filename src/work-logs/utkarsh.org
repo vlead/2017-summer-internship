@@ -73,4 +73,30 @@
      suggested in the feedback. Build still needs some fixing rest works fine, documentation was updated with fixed data structure in
      the evening with my partner.
 
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon]
+     - Debugging the build failed for the second consecutive day, talked with the mentor; suggestions were implemented, move closer to
+       the success.
+     - Directory structure was tried to be fixed along with addition for __ini__.py tangle codes to make the directory represented as 
+       python modules.
+     - Unittesting was worked upon, still needs a way out of the login redirection, need to look at flask session a little more.
+     - Angular JS framework was studied and cli was set up and a basic app was deployed and worked upon, made few components, added css. 
+       Futher w3 documentations were also studied.
+     - PHP was studied and xampp was set up and run inorder to help another intern. Learnt how to access files in htdocs, enabling closing
+       services etc. Very basic php scripting was done and tried to viewed through the browser.
+     - Plans were made to fix a little bug in controllers, couldn't fix it now so probably will have a look of it again at night.
+   + [2017-06-13 Tue]
+     - Today finally the build was fixed but test cases began to fail. So I worked upon fixing the test cases.
+     - One of the major problems I got during fixing the test cases was bypassing/disabling our custom made route decorators but I cleverly
+       found a way to deal with it. Even login decorator problem was fixed. 
+     - After the test cases were fixed various changed to app.org was done in order to remove the errors like db and login_user funciton we 
+       faced during building the app. Then I worked upon fixing db issue and finally the lgoin_user which was fixed till midnight.
+     - Issue was created and worked upon for the review we had on Friday. 
+     - In the evening Thirumal sir has explained about the web app short course and asked us to go through it because we will be implementing 
+       lds dashboard in a similar way. I will be setting it on my machine today.
+     - A talk was attended in the evening on the topic of renarration where we had a little discussion regarding liability and credibility
+       when it come reannotate somebody else's work.
+     - Currently finding a way to automate certificate generation script and not include them in the main documentation. Will be working on
+       this today.
+
 * Month of July

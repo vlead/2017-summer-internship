@@ -93,4 +93,21 @@
          9. The user account information comes from an OpenLDAP server setup separately
          10. Accounts on the OpenLDAP server get created when the user registers for virtual labs
          11. Home directories for the user's are on a NFS mount which is served by a central NFS server with quotas setup 
+   + [2017-06-09 Fri]
+      - Most of the time out for weekly presentation
+      - Points raised during presentation are :-
+        - Discuss every thing with your mentor and asked all your doubts.
+        - Think of new ideas of improving lab and discuss it with your mentor.
+        - Don't do anything that is already available. Think of something new.
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon]
+      - Learn PHP using online tutorial 
+        - made some simple php programs for practise.
+        - Tried to debug the previous linux lab.
+   + [2017-06-13 Tue]
+     - Able to run the lab on local server.
+     - Experiments are not running.
+     - As far as I know connection to LDAP server has some issues.
+     - I installed the LDAP server and configured it.
+     - And tried to add some entries in it but it's showing some errors.
 * Month of July

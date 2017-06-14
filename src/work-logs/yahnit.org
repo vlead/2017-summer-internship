@@ -94,4 +94,29 @@ swagger which one of my mentors suggested to go through.
 right place. We we made sure that make file ran without any errors. I adjuested
 our code according the directory strucure . 
 
+
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+
+ +[2017-06-12 Mon]
+
+In the morning, i have tried to implement front end for add user, add role etc.
+But, I could'nt do it. There was some problem with the directory structure.
+So, i had to fix the directory structure and tangling problems. Later, i have
+gone through Jinja templates which we decided to use for frontend. I referred 
+many tutorials in the internet and understood the actual implementation of
+Jinja templates.
+
++[2017-06-13 Tue]
+
+In the morning we have fixed the testcases. Testcases were done last week only
+but at that point of time login and authorisation was not done.We have fixed
+the test cases keeping in mind login and admin authorisation.We faced a lot 
+of build errors while running make. We have fixed all the build errors 
+and our app has tangles perfectly well and was working fine. Thirumal sir
+has explained about the web app short course and asked us to go through it
+because we will be implementing lds dashboard in a similar way. I cloned
+it and set up the web-app short course on my machine.
+
+
+
 * Month of July
