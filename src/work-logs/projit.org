@@ -83,5 +83,10 @@
      small bug on the final view response. But the passing of credentials is
      correct.). Will take a look at other implementations too. Also attended a
      talk on renarration at the end of the day.
+   + [2017-06-14 Wed] - Worked on fixing the flask server today. Met with
+     maruthi sir and discussed the flow and how to conceptualize oauth2 user
+     flow. Figured out how to run both example servers(was proxy issue) and was
+     able to run them once. However currently unable to replicate results so
+     will work on that tomorrow.
   
      
