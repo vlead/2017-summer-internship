@@ -24,7 +24,7 @@
 |   3 |   3, 7, 13. | Renarration            |                 | Sai         |                                                     |
 |     |             |                        | Raghav (20)     |             |                                                     |
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
-|   4 |  4, 14, 15, | Automation of          | Karthik (18)    | Thirumal    |                                                     |
+|   4 |  4, 14, 15, | Automation of          | Karthik (18)    | Thirumal    |   https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/tests/graphs-elkstack                                             |
 |     | 16, 17, 18. | cluster and            | Sunandan (19)   | Siva        | https://github.com/vlead/cluster-automation         |
 |     |             | services for vlabs     |                 | Maruthi Rao |                                                     |
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
