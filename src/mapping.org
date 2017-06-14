@@ -22,7 +22,7 @@
 |     |             |                        | Raghav (20)     |             |                                                     |
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
 |   4 |  4, 14, 15, | Automation of          | Karthik (18)    | Thirumal    |                                                     |
-|     | 16, 17, 18. | cluster and            | Pullagura (19)  | Siva        |                                                     |
+|     | 16, 17, 18. | cluster and            | Sunandan (19)   | Siva        | https://github.com/vlead/cluster-automation                                                    |
 |     |             | services for vlabs     |                 | Maruthi Rao |                                                     |
 |-----+-------------+------------------------+-----------------+-------------+-----------------------------------------------------|
 |   5 |          5. | FP and Haskell         | Athreyee (8)    | Venkatesh   |                                                     |

@@ -38,8 +38,19 @@
     - Desinged a RESTful API which will be used to talk with SSS-Maker and SSS-Renderer and MongoDB Atlas cloud.
     - Built the proposed API in flask. Faced some difficulties like in choosing the best suited library for the implementation. Libraries which I tried are MongoEngine, MongoAlchemy, PyMongo and Eve Framework. All of them consist of PyMongo. I choosed PyMongo for implementation because it gives a lot of flexibility and control over database operations. I found other libraries less flexible but surely they are more robust and better tested prebuilt functions. Will look forward to use one of these but for now we have less time to put into backend aesthetics.
   + [2017-06-08 Thur]
-    - *TODO* Write functions for all the API endpoints.
+    - Write functions for all the API endpoints.
     - *TODO* Write test cases and automated test functions.
-    - *TODO* Explore possiblities in other libraries for MongoDB.
+    - *Explore possiblities in other libraries for MongoDB.
     - *TODO* Create user login form.
-    - *TODO* Complete the docs.
+    - Complete the docs.
+  + [2017-06-09 Fri]
+    - Lost some work due to wrong git command while trying to unstage changes. =git clean -f= removed everything from local directory.
+    - Sometimes its good to lose. Came up with a much better design. Present design follows OOP concepts and gives more functionality to user.
+  + [2017-06-12 Mon]
+    - Meeting with TB Dinesh Sir
+      - Discussed about available open source tools for renarration and annotation.
+      - How we can integrate it with our project.
+      - Dr. Choppella also hinted to me that I can also convert this into my project for 6 months and make a fully fledged software product out of it.
+      - Dinesh sir discussed about the following tools: 'narrows story teller', 'pandora', 'padma tool', 'Hyperaudio.io'.
+   + [2017-06-13 Tue]
+   

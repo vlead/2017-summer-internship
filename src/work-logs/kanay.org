@@ -36,6 +36,16 @@
    
 
    + [2017-06-08 Thu]- Continued working of processing and p5.js. Survey of p5.js was completed. Found p5.js to be a better working library than d3.js but they are based on different ideologies so it would not be valid to compare but p5 does have more options of sounds , images and animations. Then the design of merge page was thought upon .  Also many animations were already there on the ds lab which iw went through and analysed .
+   
+   + [2017-06-09 Fri]- More than half of the way went to the weekly presentations. Summary of it is:
+   	1. Know your project completely before doing anything.
+   	2. Discuss with mentor before doing anything as to what is it and how it should be done.
+   	2nd part of the day was spent is completing the merge sort design as well as completing all the documentation.
+   + [2017-06-12 Mon]- Design part was done and coding also complete of merge sort. Faced some difficulties in placing html elements in form of a binary tree. Tried a few techniques but was not able to find a concrete solution. Will be able to complete it by today night. Solved the problem of placement and working js. Now only Animation and some minor modifications to the html have to be made along with buttons.
+   
+   + [2017-06-13 Tue]- Completed the code and proper orientation of all the arrays along with the buttons required.Later bootstrap was added so as to make the page look better.  Now only things left is including input buttons and adding arrows and animation using p5 or d3 which will help the merge sort html to look beautiful and meaningful. 
+   
+   
       
    
 
