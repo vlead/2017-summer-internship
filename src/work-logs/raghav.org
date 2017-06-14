@@ -52,7 +52,7 @@
       - How we can integrate it with our project.
       - Dr. Choppella also hinted to me that I can also convert this into my project for 6 months and make a fully fledged software product out of it.
       - Dinesh sir discussed about the following tools: 'narrows story teller', 'pandora', 'padma tool', 'Hyperaudio.io'.
-   + [2017-06-13 Tue]
+  + [2017-06-13 Tue]
    - Worked on RESTful API. Its nearly complete now.
    - Attended a talk by TB Dinesh Sir on "renarrations".
    - Made classes more flexible.
