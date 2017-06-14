@@ -1,5 +1,5 @@
 #+TITLE: Keshavs Time sheet
-#+AUTHOR: Keshav
+#+AUTHOR: Keshav.
 #+EMAIL: keshavkms@gmail.com ( 956-093-3318 ) 
 #+DATE: [2017-06-01 Thursday]
 #+SETUPFILE: ../org-templates/level-1.org
@@ -56,5 +56,8 @@
      to all the proper directories. ran all the sanity checks for the
      environment,and worked on fixing on fixing the few that failed.
      working on fixing non functional c compiler
-
+   + [2017-06-13 Tue] - Worked on OAuth server implementation. tested a
+     rudimentary model of a basic app server. Attended the lecture on
+     re - narration of content. Discussed basic ideas and problems in the
+     domain of re - narration  
 * Month of July
