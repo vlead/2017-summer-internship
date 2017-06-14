@@ -104,5 +104,10 @@
       - Learn PHP using online tutorial 
         - made some simple php programs for practise.
         - Tried to debug the previous linux lab.
-
+   + [2017-06-13 Tue]
+     - Able to run the lab on local server.
+     - Experiments are not running.
+     - As far as I know connection to LDAP server has some issues.
+     - I installed the LDAP server and configured it.
+     - And tried to add some entries in it but it's showing some errors.
 * Month of July
