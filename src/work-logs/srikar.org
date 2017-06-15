@@ -36,4 +36,6 @@ with the project mentor about my allotted project. Read about continuous integra
 
 ***[2017-06-13 Tue] In the morning we had a meeting with Thriumal sir and Lalith sir. We discussed the auto-deployement of the Jenkins server. Later issues were raised on the repository. I started working on setting up the environment on a Ubuntu 12.04 server. There were issues with various commands as they weren't operational in older versions of Ubuntu. I also made a document which upon using in the ADS, automatically starts and deploys the jenkins server. There were some issues with Apache and Ports for which I'll take Sripathi sir's help.
 
+***[2017-06-14 Wed] Spoke to Thirumal sir and updated him on the progress we've made so far. I started working on resolving the apache and port issues on Ubuntu 12.04 and read that a few packages necessary aren't supported in 12.04. Made a json file which sets up the environment and jenkins automatically when deployed using ADS.
+
 * Month of July
