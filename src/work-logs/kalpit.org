@@ -46,3 +46,4 @@
      which makes conversion easier, I also watched tutorials on use of these libraries.
    + [2017-06-14 Wed] - Completed first experiment of "physical-chemistry-iiith" lab, and started 
      2nd experiment as well. Also read about some other libraries useful for conversion of flash to javascript.
+   + [2017-06-15 Thu] - Completed second experiment of lab physical-chemistry-iiith. Also read about some new functions can be useful in animation.

@@ -63,4 +63,6 @@
 [2017-06-13 Wed]:The initial Design for the Output Console feature after being approved by Thirumal sir was made and pushed.The required workflow and implemantaion methodology was also added to the repo. After experimenting with websocket on small scale applications I was able to further plan my implentation better.After discussing with my mentor Mr.Sripathi we decided to use Java Script on the Client end i.e. Controller Server and stick to Tornado on the server side i.e. Log Server.
 All the further work related to this feature is going to be pushed to the outputConsole folder.
 
+[2017-05-14 Thu]:I spent time familiarizing myself with Tornado and going through the documentation.I am currently working on the log server end.Simultanouesly I have all started documenting the previously written code as instructed by Thirumal sir.Currently I am facing a few issues understanding the code flow of the previuosly written code.Once I am able to establish a thorough understanding of it I would be able to start incoporating the WebScoket  and the respective handlers on the Server side.
+
 * Month of July

@@ -127,5 +127,14 @@ with hash routing in the ITWS2 course. I have downloaded that and had a look
 at how the hash routing was implemented.I also browsed about single page
 applications.
 
++[2017-06-15 Thu]
+
+We have done the release today. I have started writing the specifications
+of the JSON file which will be used to render html.I have given the
+specifications for the add-user container. I and Thirumal sir
+sat and discussed on how to decode the json file and we 
+have decided on an alogorithm to decode the json spec file.
+I then wrote a javascript function to decode the JSON and render into html.
+
 
 * Month of July
