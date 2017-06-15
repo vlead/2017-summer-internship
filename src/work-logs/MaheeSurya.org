@@ -60,3 +60,6 @@
      Colloid-and-Surface-Chemistry lab. Trying a different approach provided in
      the documentary. About 20% of the conversion is completed. Need two more
      days for complete conversion. 
+   + [2017-06-15 Thu] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Unable to use CreateJS. Rolling back to
+     previous method. Need two more days to complete the conversion.
