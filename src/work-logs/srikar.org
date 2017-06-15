@@ -38,4 +38,6 @@ with the project mentor about my allotted project. Read about continuous integra
 
 ***[2017-06-14 Wed] Spoke to Thirumal sir and updated him on the progress we've made so far. I started working on resolving the apache and port issues on Ubuntu 12.04 and read that a few packages necessary aren't supported in 12.04. Made a json file which sets up the environment and jenkins automatically when deployed using ADS.
 
+***[2017-06-15 Thu] Setup the environment in Ubuntu 14.04 since there were issues with 12.04. Completed the labspec.json file. Was able to run the mod_proxy and succesfully open Jenkins on port 80. Deployed the labspec file using the ads on base4, there were issues with the template wherein a package necessary for the auto deployment wasn't installed in the os template.
+
 * Month of July
