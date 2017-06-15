@@ -46,6 +46,7 @@
   + [2017-06-09 Fri]
     - Lost some work due to wrong git command while trying to unstage changes. =git clean -f= removed everything from local directory.
     - Sometimes its good to lose. Came up with a much better design. Present design follows OOP concepts and gives more functionality to user.
+** Week 3 [2017-06-12 Mon] till [2017-06-17 Sat]
   + [2017-06-12 Mon]
     - Meeting with TB Dinesh Sir
       - Discussed about available open source tools for renarration and annotation.
@@ -56,3 +57,6 @@
    - Worked on RESTful API. Its nearly complete now.
    - Attended a talk by TB Dinesh Sir on "renarrations".
    - Made classes more flexible.
+  + [2017-06-14 Wed to 2017-06-15 Fri]
+    - Documenting the work done by me till now.
+    - Writing tests for RESTful API
