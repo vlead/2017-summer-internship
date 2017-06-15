@@ -27,5 +27,12 @@
 + [2017-06-09 Fri] - Started working on getting logs from the system using logstash. Tried converting text files to json files using logstash plugins.
 + [2017-06-12 Mon] - Installed elk stack in a container.Started working on coverting text files to json files using logstash plugins. visualized graphs for some logs using kibana.
 
++ [2017-06-13 Tue] - Started working on elkstack and configured filebeat.Working on giving bulkdata to kibana using elasticsearch database and generating graphs.
+
++ [2017-06-14 Wed] - Working on logstashplugins which utomatically takes logs from syslogs and convert them into json format and export to elasticsearch  which is connected kibana.
+
+
+
+
 * Month of July
 

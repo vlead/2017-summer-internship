@@ -109,5 +109,14 @@
      - Experiments are not running.
      - As far as I know connection to LDAP server has some issues.
      - I installed the LDAP server and configured it.
-     - And tried to add some entries in it but it's showing some errors.
+     - And tried to add some entries in it but it's showing some errors
+   + [2017-06-14 wed]
+     - Continued learning about server specially LDAP server.
+     - Configured LDAP om my machine.
+     - created some entries and attributes (i.e edited DIT)
+     - Moved on to learning about NFS server and how to configure it.
+     - Studied the architecture of the linux lab and again tried to debug it.
+     - Figured the problem with the linux lab:-
+       - Problem with the LDAP script to register the user.
+       - Able to run the terminal on the linux lab.
 * Month of July
