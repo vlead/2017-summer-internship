@@ -105,5 +105,11 @@
      - Mentor instructed for a single page application design so web app short course was set up on the machine and then all the codes were read.
      - Instructions were written inorder to run the lds dashboard and all the org files for instructions were updated and then from scratch were tested.
      - Tutorials were shared from another intern in order to help him with his project.
-
+   + [2017-06-15 Thurs]
+     - Worked with my mentor debugging the problems with the automated deployment. Had everything fixed till the afternoon and we had our =FIRST RELEASE= here in the evening.
+     - Went through the autodeployment scripts in order to understand more about it.
+     - Watched some tutorials and and read a book about JSON and Single Page Applications tackling its needs, profits and challanges. 
+     - Started work at front end from the scratch. Initial overview seems to work fine. Had faced some problem in dereferencing the HTML object but it was fixed till the evening.
+     - Currently wokring on finding appropiate functions in order to get logged in state and sesssion state of current user from the google sign-in documentation. Still haven't got it to work, maybe till midnight it will be done.
+     - Test cases were fixed for some errors faced due to the update in the functions of our modals.
 * Month of July
