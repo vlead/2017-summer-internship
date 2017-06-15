@@ -59,5 +59,15 @@
    + [2017-06-13 Tue] - Worked on OAuth server implementation. tested a
      rudimentary model of a basic app server. Attended the lecture on
      re - narration of content. Discussed basic ideas and problems in the
-     domain of re - narration  
+     domain of re - narration
+   + [2017-06-14 Wed] - Worked on basic llvm to javascript compilation from
+     scratch.Helped out on a survey of virtual reality environments.
+     got rudimentary programs like "hello world" compiled to js .spent the rest
+     of the time debugging errors in escripten's version of clang.
+   + [2017-06-15 Thu] - extended work on compilation . able to compile programs
+     with standard io and able to use emscripten macros. also able to expose
+     functions to js. accidentally had misplaced c standard library so spent
+     the remaining time fixing that up.
+
+ 
 * Month of July
