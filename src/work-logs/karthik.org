@@ -29,8 +29,8 @@
 
 + [2017-06-13 Tue] - Started working on elkstack and configured filebeat.Working on giving bulkdata to kibana using elasticsearch database and generating graphs.
 
-+ [2017-06-14 Wed] - Working on logstashplugins which utomatically takes logs from syslogs and convert them into json format and export to elasticsearch  which is connected kibana.
-
++ [2017-06-14 Wed] - Working on logstashplugins which automatically takes logs from syslogs and convert them into json format and export to elasticsearch  which is connected kibana.
++ [2017-06-15 Thu] - Wrote a filter for configuring logstash which takes logs directly and give it to elasticsearch.There were some errors in data insertion to elasticserch.working to solve those errors
 
 
 
