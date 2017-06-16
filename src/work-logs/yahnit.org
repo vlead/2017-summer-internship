@@ -68,4 +68,73 @@ to be showed while logging in and implemented checking the user is there in data
 Then we wrote the documentation of all the test cases for all the API routes.
 Also documentation of extra routes and html was done.  
 
+  +[2017-06-08 Thu]
+
+In the morning we have made changes to our login routes. After the Login page is shown,
+if the user clicks the login button, we redirected him to the google Auth page and
+then made a check if the user is there in the database or not.If the user is there 
+we navigated him to the index page. I have written HTML code for Guest and Admin
+pages and added all the links of LDS though the routes have not been linked yet.
+To the Admin index page,we have added CRUD operations though we have'nt implemented
+frontend for that.
+I implemented roles.For performing certain operations like Add,Delete or Update
+I wrote functions to check the authorisation. My teammate worked on styling.
+Later we have integrated our codes. We have redirected the user to Admin page
+if he is an admin or redirected him to guest page if he is a guest.
+For that , we have implemented sessions. We also stored the role of the user
+in the session so that we could display it on the Home page.
+Documentation of Config files and init files were added.
+
+ +[2017-06-09 Fri]
+
+In the morning, We added the remaining html and css code to the documentation .
+ Then we had project presentation for 3 hours. Later, i have gone through 
+swagger which one of my mentors suggested to go through.
+ I also made adjustments to the documentation making sure that everything was in the 
+right place. We we made sure that make file ran without any errors. I adjuested
+our code according the directory strucure . 
+
+
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+
+ +[2017-06-12 Mon]
+
+In the morning, i have tried to implement front end for add user, add role etc.
+But, I could'nt do it. There was some problem with the directory structure.
+So, i had to fix the directory structure and tangling problems. Later, i have
+gone through Jinja templates which we decided to use for frontend. I referred 
+many tutorials in the internet and understood the actual implementation of
+Jinja templates.
+
++[2017-06-13 Tue]
+
+In the morning we have fixed the testcases. Testcases were done last week only
+but at that point of time login and authorisation was not done.We have fixed
+the test cases keeping in mind login and admin authorisation.We faced a lot 
+of build errors while running make. We have fixed all the build errors 
+and our app has tangles perfectly well and was working fine. Thirumal sir
+has explained about the web app short course and asked us to go through it
+because we will be implementing lds dashboard in a similar way.
+
++[2017-06-14 Wed]
+
+Deployment has been done with whatever we have done. I have setup web-app
+short course on my machine. The application did not work perfectly as we
+have faced problems with the google oauth.However, i have looked at the code
+and tried to understand how the API's were implemented and also understood
+the implementation of frontend.Thirumal sir has taught us user directory
+with hash routing in the ITWS2 course. I have downloaded that and had a look
+at how the hash routing was implemented.I also browsed about single page
+applications.
+
++[2017-06-15 Thu]
+
+We have done the release today. I have started writing the specifications
+of the JSON file which will be used to render html.I have given the
+specifications for the add-user container. I and Thirumal sir
+sat and discussed on how to decode the json file and we 
+have decided on an alogorithm to decode the json spec file.
+I then wrote a javascript function to decode the JSON and render into html.
+
+
 * Month of July

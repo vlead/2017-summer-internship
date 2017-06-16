@@ -29,3 +29,14 @@
      + Discussing the week's plan with the mentor that includes
        + creating a new service =html-gen=.
        + creating a new API =ID Resource Mapper= in =Lab Data Service=.
+   + [2017-06-07 Wed]
+     + Setting the developer's environment of =lab-data= service and making it run on the local machine.
+     + Making the =API= as described in the milestone.
+     + Learnt about =github hooks= which is required in =html-gen= service as planned.
+   
+   + [2017-06-08 Thr]
+     + Written the test cases for the =/map= API lab-data-service.
+     + Understood the workflow of LDS from madhavi mam.
+
+   + [2017-06-09 Fri]
+     + Given a short presentation as a customary and discussed some points in that.

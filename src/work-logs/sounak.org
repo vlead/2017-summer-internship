@@ -20,7 +20,7 @@
   specification using a /Code Skeletal Generator/, but got errors.
 
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-** [2017-06-05 Mon]
+*** [2017-06-05 Mon]
 + Had a meeting with the mentor regarding goals (milestones) to be achieved in this week.
 + Set up the /Code Skeletal Generator/ or the /Translator/
   ([[https://github.com/vlead/translators/]]).
@@ -54,7 +54,7 @@
   =create_openedx_lab= API.
 + Tried installing the =dogwood= VirtualBox in Vagrant, but failed.
 
-** [2017-06-06 Tue]
+*** [2017-06-06 Tue]
    + Set the OpenEdX Platform release Eucalyptus up in my machine.
    + Hosted the OpenEdX studio and checked whether the =tar.gz= file created by
      the =Translator API= yesterday is compatible with it. It created a course
@@ -62,4 +62,30 @@
    + Fixed this [[https://github.com/vlead/translators/issues/3][issue]] in the translator API.
    + My teammate and I sat with the mentor and set the milestones for this week, which is creating the
      LDS API. 
+*** [2017-06-07 Wed]
+   + Setup the Lab Development Service in developer environment.
+   + Wrote the API =/map= in LDS which generates the resource ids for all the section
+     of the environment.
+*** [2017-06-08 Thu]
+   + Corrected the code of the =/map= API in and commited it in LDS.
+   + Studied about the layers of the code, viz., Object, Persistance, etc.
+   + Discussed about Experiment as a Service with the mentor.
+*** [2017-06-09 Fri]
+   + Weekly Presentation.
+   + Researched about Multimedia Database Management System (MMDBMS) as we
+     needed to store the resources.
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+*** [2017-06-12 Mon]
+    + Researched about MMDBMS (Multimedia Database Management System) to store
+      resources.
+    + Started working on the Resource Generator Microservice (mostly research work)
+*** [2017-06-13 Tue]
+    + Started coding the Resource Generator microservice
+    + Completed one of the APIs (/resource) which generates the resource (html
+      files) from the Github repos of experiments containing md/org files.
+    + Noticed some bugs in the app.
+
+*** [2017-06-14 Wed]
+    + Resolved the bugs in the app (Resource Generator Microservice).
+    + Started writing tests for the functions in the app.
 * Month of July

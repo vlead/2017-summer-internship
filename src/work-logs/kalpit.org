@@ -21,7 +21,29 @@
      experiments.Started working on exp1 of colloid-and-surface-chemistry by
      creating simple page. Also looked for other ways to convert flash to javascript.
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-   + [2017-06-05] - Continued my work on experiment-1 lab
+   + [2017-06-05 Mon] - Continued my work on experiment-1 lab
      colloid-and-surface-chemistry. Wrote javascript code based on video for experiment. 
-   + [2017-06-06] - Continued my work on exp-1 for lab
+   + [2017-06-06 Tue] - Continued my work on exp-1 for lab
      colloiid-and-surface-chemistry. Wrote  new functions for the experiment. 
+   + [2017-06-07 Wed] - Continued my work on experiment one of my lab
+     colloid-and-surface-chemistry. Wrote new functions and first experiment is
+     almost done.
+   + [2017-06-08 Thu] - Continued my work on exp-1 on lab
+     colloid-and-surface-chemistry. Completed first Experiment. Read about some
+     tools helpful for conversion of flash to java.
+   + [2017-06-09 Fri] - As the 1st experiment was done, today I went through
+     experiments of  Lab "physical-chemistry-iiith". I looked for some tools on
+     net helpful for me and read about those tools. Also Presented our lab
+     experiment to all in presentation Room.
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon] - Today I searched for different tools on web that can
+     make conversion easier. I read about "google web developer" which makes
+     conversion into html5 easier and some other tools like  : Adobe
+     Wallaby,Haxe,AS3JS. At Last I found a website "createjs.com" which has
+     some libraries which can make animation work easier.
+   + [2017-06-13 Tue] - Today I  started my work on exp-6 of lab physical-chemistry-iiith.
+     I almost completed the Experiment. I also read about "createjs", this provides some libraries, 
+     which makes conversion easier, I also watched tutorials on use of these libraries.
+   + [2017-06-14 Wed] - Completed first experiment of "physical-chemistry-iiith" lab, and started 
+     2nd experiment as well. Also read about some other libraries useful for conversion of flash to javascript.
+   + [2017-06-15 Thu] - Completed second experiment of lab physical-chemistry-iiith. Also read about some new functions can be useful in animation.

@@ -47,5 +47,76 @@
          - search about browser terminal (i.e terminal on browser(frond-end virtual-box type to execute commands with some kind of filter) and backend local-server)
          - We can hover over command outputs on virtual-box to see details of the output. 
          - Final architecture of design of linux-lab will be discussed in 1-2 days 
+   + [2017-06-07 wed]
+     - Searched for the termlib.js and found that:-
+       - It is a JS library that provides a terminal obgect, which falicitates a simple and object oriented approach to generate and control a terminal like interface.
+         - [[http://www.masswerk.at/termlib/]] - resource 
+         - example:-
+                   #+BEGIN_SRC 
+                    var term = new Terminal( {handler: termHandler} );
+                    term.open();
 
+                    function termHandler() {
+                      this.newLine();
+                      var line = this.lineBuffer;
+                      if (line != "") {
+                        this.write("You typed: "+line);
+                      }
+                      this.prompt();
+                    }
+                   #+END_SRC  
+     - Searched for browser terminal and found some great examles
+       - [[https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/pwd?action=lesson_resume]] - A terminal implented like on browser
+         - On testing this terminal a found that lacks filter for commands
+           eg- I can do =rm -rf /= which can delete the files of whole system.
+         - It lacks hovering on output of commands for info
+     - I thought about how to implement terminal on browser
+       - First  I need to make a directory in which user can do whatever he wants
+       - I need to add filters through js so to restrict user to this directory only.
+       - I need to convert the convert the command typed on browser and execute it on machine and display the output on browser.
+   
+   + [2017-06-08 Thr]
+     - Read the documentation of older linux lab.
+       - Some problems encountered with this linux lab
+         - The current state of the problem is that the communication between the Linux lab and ldap server is not happening properly.
+         - ldapscripts called from the linux lab are not able to register user in the ldap server.
+         - The communication between gateone server and ssh is not established.
+       - Working 
+         1. User visits the virtual lab webpage
+         2. The webpage loads some scripts
+         3. The script makes a connection to backend 'Gateone' gateway server using WebSockets
+         4. The gateway server then connects to a backend SSH server via the SSH protocol
+         5. The gateway server also emulates a terminal to the SSH server
+         6. The contents of the emulated terminal are sent to the user's web page and get displayed
+         7. All the user's input is forwarded via the gateway the SSH server
+         8. For security, there are several limitations put up on the user's account in the restricted shell SSH server
+         9. The user account information comes from an OpenLDAP server setup separately
+         10. Accounts on the OpenLDAP server get created when the user registers for virtual labs
+         11. Home directories for the user's are on a NFS mount which is served by a central NFS server with quotas setup 
+   + [2017-06-09 Fri]
+      - Most of the time out for weekly presentation
+      - Points raised during presentation are :-
+        - Discuss every thing with your mentor and asked all your doubts.
+        - Think of new ideas of improving lab and discuss it with your mentor.
+        - Don't do anything that is already available. Think of something new.
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon]
+      - Learn PHP using online tutorial 
+        - made some simple php programs for practise.
+        - Tried to debug the previous linux lab.
+   + [2017-06-13 Tue]
+     - Able to run the lab on local server.
+     - Experiments are not running.
+     - As far as I know connection to LDAP server has some issues.
+     - I installed the LDAP server and configured it.
+     - And tried to add some entries in it but it's showing some errors
+   + [2017-06-14 wed]
+     - Continued learning about server specially LDAP server.
+     - Configured LDAP om my machine.
+     - created some entries and attributes (i.e edited DIT)
+     - Moved on to learning about NFS server and how to configure it.
+     - Studied the architecture of the linux lab and again tried to debug it.
+     - Figured the problem with the linux lab:-
+       - Problem with the LDAP script to register the user.
+       - Able to run the terminal on the linux lab.
 * Month of July

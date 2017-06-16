@@ -27,7 +27,7 @@
      conversion of Flash into JavaScript.  
 ** Week 1 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-05 Mon] - Worked on converting Experiment-1 of
-     Colloid-and-Surface-Chemistry lab. Worked on  CSS and JavaScript to get
+     Colloid-and-Surface-Chemistry lab. Worked on CSS and JavaScript to get
      the required effect on the HTML page.
    + [2017-06-06 Tue] - Worked on the conversion of Experiment-1 of 
      Colloid-and-Surface-Chemistry lab. As some images required for the
@@ -35,3 +35,31 @@
      the video to get the necessary images. Later, cropped all the images and
      completed the task. I'm halfway through the conversion. Will try to
      complete the conversion of Experiment-1 by tomorrow.
+   + [2017-06-07 Wed] - Worked on the conversion of Experiment-1 of 
+     Colloid-and-Surface-Chemistry lab. I've completed 75% of the
+     conversion. Will complete the conversion by tomorrow.
+   + [2017-06-08 Thu] - Worked on the conversion of Experiment-1 of 
+     Colloid-and-Surface-Chemistry lab. I've completed the conversion of the
+     Experiment. But there are some minor errors which require attention. I'll
+     rectify them and start working on another Experiment of
+     Colloid-and-Surface-Chemistry lab by tomorrow.
+   + [2017-06-09 Fri] - Worked on fixing some errors in Experiment-1 of
+     Colloid-And-Surface-Chemistry lab. Added mouse pointers on hover to some
+     objects. Read the documentary on svg images. Trying to explore other
+     methods of conversion of flash to JavaScript.
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon] - Worked on understanding different methods for the
+     conversion of flash to javascript. Tried to learn about haxe and
+     openfl. Also, I tried to explore Google Web Designer and CreateJS. Will
+     try to decide a suitable way for the conversion by tomorrow.
+   + [2017-06-13 Tue] - Watched some tutorials on CreateJS and OpenFl. I've
+     decided to use CreateJS this time as could not understand how to use
+     OpenFl in the conversion while Google Web Designer is only a tool for
+     building a HTML page. Started working on Experiment-5.
+   + [2017-06-14 Wed] - Working on conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Trying a different approach provided in
+     the documentary. About 20% of the conversion is completed. Need two more
+     days for complete conversion. 
+   + [2017-06-15 Thu] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Unable to use CreateJS. Rolling back to
+     previous method. Need two more days to complete the conversion.
