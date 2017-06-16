@@ -53,5 +53,63 @@
      Documentation regarding testcases were also written. Then in the afternoon session work on errorhandling was looked 
      upon and then redirection were checked. 404 redirection error was finally fixed, fault was found with my jinja code.
      After this we wrote some more html files for the login and index pages. Documentation regarding all of them was
-     also written down. 
+     also written down.
+   + [2017-07-07 Thurs]
+     Login page, Autherization, 404 pages were written from the scratch today and then bootstrap and css were also implemented 
+     to them and Guest and Admin pages were also written and worked upon. Now we have a home page which has a login button in 
+     order to go the google auth page and then user is check in the database. Couple of login errors were fixed and 
+     JavaScripts were also written. UnitTest cases were updated. Roles were finally integrated in the controllers using sessions 
+     which made me to some of the routes and furthermore sending user data to home pages was also implemented in the index home page. 
+     In the afternoon final datamodel was reviewed, so I had to implement left out checks in each of the routes to make it fully 
+     specify the database model followed. Documentation for APIs were updated and error codes were added. Further styling will be done
+     by tomorrow.
+   + [2017-06-09 Fri]  
+     I worked upon HTML and more CSS, JS whole night which was inregrated today in our codes, changes were also made in to the
+     documentation regarding the same. All the routes and Unitest cases were tetsed for the presentation. Multi user login at the same 
+     time was tested using many browser and incognito sessions. Changes were made accordingly. Unittesting still needs some attention
+     due to extra required admin auth decorator, which I would be tackling tonight. Later part of morning session went in presentation.
+     Afternoon session was used to acknowledge the feedback given by other mentors regarding new APIs frameworks such as Jango and
+     Swagger. Tutorials and documentation were readed and will be further explored in the weekend. Also tried a bit of angular js as 
+     suggested in the feedback. Build still needs some fixing rest works fine, documentation was updated with fixed data structure in
+     the evening with my partner.
+
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon]
+     - Debugging the build failed for the second consecutive day, talked with the mentor; suggestions were implemented, move closer to
+       the success.
+     - Directory structure was tried to be fixed along with addition for __ini__.py tangle codes to make the directory represented as 
+       python modules.
+     - Unittesting was worked upon, still needs a way out of the login redirection, need to look at flask session a little more.
+     - Angular JS framework was studied and cli was set up and a basic app was deployed and worked upon, made few components, added css. 
+       Futher w3 documentations were also studied.
+     - PHP was studied and xampp was set up and run inorder to help another intern. Learnt how to access files in htdocs, enabling closing
+       services etc. Very basic php scripting was done and tried to viewed through the browser.
+     - Plans were made to fix a little bug in controllers, couldn't fix it now so probably will have a look of it again at night.
+   + [2017-06-13 Tue]
+     - Today finally the build was fixed but test cases began to fail. So I worked upon fixing the test cases.
+     - One of the major problems I got during fixing the test cases was bypassing/disabling our custom made route decorators but I cleverly
+       found a way to deal with it. Even login decorator problem was fixed. 
+     - After the test cases were fixed various changed to app.org was done in order to remove the errors like db and login_user funciton we 
+       faced during building the app. Then I worked upon fixing db issue and finally the lgoin_user which was fixed till midnight.
+     - Issue was created and worked upon for the review we had on Friday. 
+     - In the evening Thirumal sir has explained about the web app short course and asked us to go through it because we will be implementing 
+       lds dashboard in a similar way. I will be setting it on my machine today.
+     - A talk was attended in the evening on the topic of renarration where we had a little discussion regarding liability and credibility
+       when it come reannotate somebody else's work.
+     - Currently finding a way to automate certificate generation script and not include them in the main documentation. Will be working on
+       this today.
+   + [2017-06-14 Wed]
+     - Build was fixed again today after I was instructed to export config from rest that included another two hours of heavily changing many things.
+     - Databases were shifted from sqllite to MySql for the main app but for the test cases it was was made to stay the same. This was done in order to keep our original database clean. 
+     - Everything was tested and work on shell scripts to copy static folder was initiated. 
+     - Mentor instructed for a single page application design so web app short course was set up on the machine and then all the codes were read.
+     - Instructions were written inorder to run the lds dashboard and all the org files for instructions were updated and then from scratch were tested.
+     - Tutorials were shared from another intern in order to help him with his project.
+   + [2017-06-15 Thurs]
+     - Worked with my mentor debugging the problems with the automated deployment. Had everything fixed till the afternoon and we had our =FIRST RELEASE= here in the evening.
+     - Went through the autodeployment scripts in order to understand more about it.
+     - Watched some tutorials and and read a book about JSON and Single Page Applications tackling its needs, profits and challanges. 
+     - Started work at front end from the scratch. Initial overview seems to work fine. Had faced some problem in dereferencing the HTML object but it was fixed till the evening.
+     - Currently wokring on finding appropiate functions in order to get logged in state and sesssion state of current user from the google sign-in documentation. Still haven't got it to work, maybe till midnight it will be done.
+     - Test cases were fixed for some errors faced due to the update in the functions of our modals.
 * Month of July
