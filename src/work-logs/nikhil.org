@@ -119,4 +119,16 @@
      - Figured the problem with the linux lab:-
        - Problem with the LDAP script to register the user.
        - Able to run the terminal on the linux lab.
+   + [2017-06-15 Thr]
+     - Proposed plan for the Linux Lab is as follows:
+          1. Read the documentation of the lab and understand the architecture.
+          2. Based on the understanding try to host the existing lab code manually with all components of the lab in working state.
+          3. Meeting to discuss the requirements and design of the lab.
+          4. Create a separate branch in existing repository https://github.com/Virtual-Labs/linux-lab-iiith
+          5. Write down requirements and design in org-mode document.
+          6. Review of the design document.
+          7. Start implementation of the requirements.
+          8. Review after implementation.
+     - I started working on the lab from begining.
+     - Now , I started redin the architecture and design of linux-lab
 * Month of July
