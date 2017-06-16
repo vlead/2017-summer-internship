@@ -88,9 +88,13 @@
      flow. Figured out how to run both example servers(was proxy issue) and was
      able to run them once. However currently unable to replicate results so
      will work on that tomorrow.
-   + [2016-06-15 Thurs] - Figured out how to run the example severs multiple
+   + [2017-06-15 Thurs] - Figured out how to run the example severs multiple
      times(issue with logout, has been documented). Worked on further
      documentation of things done so far, creating diagrams and explanations.
+   + [2017-06-16 Fri] - Presented my findings. Had a meeting with Chopella Sir,
+     Akash, and Thirumal Sir. We discussed alternative ideas in my project like
+     outsourcing the authentication server to some provider. Will clarify
+     scope(possibly new) on Monday.
   
      
    
