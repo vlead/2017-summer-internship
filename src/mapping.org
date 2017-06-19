@@ -16,7 +16,7 @@
 |     |             |                        | Aditya (2)      |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
 |   2 |          2. | LDS dashboard          | Yahnit (3)      | Madhavi     | [[https://github.com/vlead/lab-data-service-dashboard][repo]]       |
-|     |             |                        | Ukarsh (4)      |             |            |
+|     |             |                        | Utkarsh (4)     |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
 |   3 |   3, 7, 13. | Renarration            |                 | Sai         |            |
 |     |             |                        | Raghav (20)     |             |            |
@@ -49,9 +49,3 @@
 |  12 |          9. | Continuous             | Savar (9)       | Sripathi    | [[https://github.com/vlead/continuous-integration][repo]]       |
 |     |             | integration            | Srikara (16)    |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
-
-* Unmapped
- - Neha Motlani (13)
- - Trunapushpa (17)
-* Confirmed, not arrived yet
- - Shubh (12)
