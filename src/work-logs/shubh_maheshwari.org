@@ -22,7 +22,40 @@
    + [2017-06-06 Tue] - Learned Alloy 
                       - Made A static data-model of the web-app-short-course in Alloy
 		      - Worked on the Gaurd of Web-app-short-course for adding the command =showalluser=
+  
    + [2017-06-07 Wed] - Learned dyanmic part of the Alloy Language and modified the data model
   
+   + [2017-06-08 Thu] - Started the work on the Dynamic Alloy model added various ternary relation in the state object.
+   	              - Worked on the ShowUser predicate and understood the use many alloy commands	    
+
+   + [2017-06-09 Fri] - Gave the presentation on the current working of alloy
+   		      - Worked on AddUser and DeleteUser which needed many fixes to work properly 	 
+
+
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon] - Completed The Dyanmic Model of alloy
+   		      - Working of updateUser completed  which was showing various strange cases like interchanging of users on update. 
+
+   
+   + [2017-06-13 Tue] - Worked for the talk 
+   	              - Made some fixes
+   		      - Made a static model for the alloy model which was used for the presentaion
+   		      - Did the documentation of the whole dynamic model of alloy,including adding pictures,various linking,use of litrate-tools. 
+
+   + [2017-06-14 Wed] - Many Fixes were made in the Web-app-short-course with the help of Thirumal Sir
+   		      - How to install alloy was documented and saved in the src/imp/deployment.
+   		      - Deletion of unnecessary files like extra images of alloy model.
+   		      - Linking of various files
+   		      - Updating the alloy org for minor fixes    
+
+   + [2017-06-15 Thu] - Had an interactive talk with Venkatesh Chopellla Sir and Thirumal Sir
+   			about the static model of the alloy and how we can use object oriented programming as a methodology.
+   			
+	  	      - Hence we defined universal sets for all these objects and added specific fields which define an object relation with other objeccts.
+
+	  	      - The static model was made again with the perspective of OOP and hence we defined relations that exist only in the State and also the cardinality constrains were added seprately
+
+	  	       - In the evening we talked again with both of our mentors and discussed about various topics Like:argby (Alloy extension for Ruby),Program Synthesis,SDN,Use of alloy for the Cluster Networkds in VLEAD.
+
 
 * Month of July

@@ -69,3 +69,42 @@
      in node are preferred over all. I currently have found an implementation
      in node and will be looking into it from next week. Also need to have
      further discussions to understand and get help to create this project.
+** Week 3 [2017-06-12 Mon] till [2017-06-16 Fri]
+   + [2017-06-12 Mon] - Read further on oauth documentation, and created notes
+     on different parts of the implementation that would be required by
+     us. Created a diagram to show to flow of tokens in the system. Also
+     contributed to helping out other mentors with some javascript work, as I
+     was waiting for clarification from Thirumal Sir on how to approach the
+     project going forwards.
+   + [2017-06-13 Tue] - Met with Thirumal Sir to discuss the project. Ideas
+     that came up include: looking at gitlab source code to see implementation
+     of their auth service, and looking at flask implementations(found
+     online). Worked on testing one flask server(successfully except for a
+     small bug on the final view response. But the passing of credentials is
+     correct.). Will take a look at other implementations too. Also attended a
+     talk on renarration at the end of the day.
+   + [2017-06-14 Wed] - Worked on fixing the flask server today. Met with
+     maruthi sir and discussed the flow and how to conceptualize oauth2 user
+     flow. Figured out how to run both example servers(was proxy issue) and was
+     able to run them once. However currently unable to replicate results so
+     will work on that tomorrow.
+   + [2017-06-15 Thurs] - Figured out how to run the example severs multiple
+     times(issue with logout, has been documented). Worked on further
+     documentation of things done so far, creating diagrams and explanations.
+   + [2017-06-16 Fri] - Presented my findings. Had a meeting with Chopella Sir,
+     Akash, and Thirumal Sir. We discussed alternative ideas in my project like
+     outsourcing the authentication server to some provider. Will clarify
+     scope(possibly new) on Monday.
+  
+     
+   
+** Week 3 [2017-06-19 Mon] till [2017-06-13 Fri]
+   + [2017-06-19 Mon] - Was reading through Flask Oauthlib to see documentation
+     of the library and start implementing the authentication server. Then had
+     a long meeting with Chopella Sir, Thirumal Sir,Akash, and Maruthi Sir to
+     determine the use of creating our authentication server. Current
+     conclusion stands at using Google's free registration of client
+     applications to register our services and try to create the triangle
+     structure discussed. Have looked through developer's console given by
+     google which allows authentication of users(i think). Need to look for the
+     services equivalent of this.

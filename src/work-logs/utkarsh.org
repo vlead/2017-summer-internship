@@ -85,5 +85,49 @@
      - PHP was studied and xampp was set up and run inorder to help another intern. Learnt how to access files in htdocs, enabling closing
        services etc. Very basic php scripting was done and tried to viewed through the browser.
      - Plans were made to fix a little bug in controllers, couldn't fix it now so probably will have a look of it again at night.
+   + [2017-06-13 Tue]
+     - Today finally the build was fixed but test cases began to fail. So I worked upon fixing the test cases.
+     - One of the major problems I got during fixing the test cases was bypassing/disabling our custom made route decorators but I cleverly
+       found a way to deal with it. Even login decorator problem was fixed. 
+     - After the test cases were fixed various changed to app.org was done in order to remove the errors like db and login_user funciton we 
+       faced during building the app. Then I worked upon fixing db issue and finally the lgoin_user which was fixed till midnight.
+     - Issue was created and worked upon for the review we had on Friday. 
+     - In the evening Thirumal sir has explained about the web app short course and asked us to go through it because we will be implementing 
+       lds dashboard in a similar way. I will be setting it on my machine today.
+     - A talk was attended in the evening on the topic of renarration where we had a little discussion regarding liability and credibility
+       when it come reannotate somebody else's work.
+     - Currently finding a way to automate certificate generation script and not include them in the main documentation. Will be working on
+       this today.
+   + [2017-06-14 Wed]
+     - Build was fixed again today after I was instructed to export config from rest that included another two hours of heavily changing many things.
+     - Databases were shifted from sqllite to MySql for the main app but for the test cases it was was made to stay the same. This was done in order to keep our original database clean. 
+     - Everything was tested and work on shell scripts to copy static folder was initiated. 
+     - Mentor instructed for a single page application design so web app short course was set up on the machine and then all the codes were read.
+     - Instructions were written inorder to run the lds dashboard and all the org files for instructions were updated and then from scratch were tested.
+     - Tutorials were shared from another intern in order to help him with his project.
+   + [2017-06-15 Thurs]
+     - Worked with my mentor debugging the problems with the automated deployment. Had everything fixed till the afternoon and we had our =FIRST RELEASE= here in the evening.
+     - Went through the autodeployment scripts in order to understand more about it.
+     - Watched some tutorials and and read a book about JSON and Single Page Applications tackling its needs, profits and challanges. 
+     - Started work at front end from the scratch. Initial overview seems to work fine. Had faced some problem in dereferencing the HTML object but it was fixed till the evening.
+     - Currently wokring on finding appropiate functions in order to get logged in state and sesssion state of current user from the google sign-in documentation. Still haven't got it to work, maybe till midnight it will be done.
+     - Test cases were fixed for some errors faced due to the update in the functions of our modals.
+   + [2017-06-16 Fri]
+     - Worked on checking logged in state of the user with no success. No goole api seemed to work even after sourcing the required stuff. Session cookies didn't work, couldn't really 
+       know why. Tried to have a workaround for this but failed. Will look for it in the weekend.
+     - We had our presentation where we explained this week's work. I gave insights upon the deployment of the app.
+     - Then I attended the tech talk organized which is indeed a great initiative.
+     - Read more about single page applications and plus about cookies and thier attributes to find a workaround inorder to create a nav bar with button toggling b/w login and logout on base
+       of the session.
+     - Did some changed in Rest APIs in order to make it compatible for the SPA structure. 
 
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+   + [2017-06-19 Mon]
+     - Again started working for the workaround. Problem was found in the session cookie, that it carry =HTTPOnly = True= attribute and thus js couldn't read it. So instead I created an ajax call to
+       check for the session from server side.
+     - Since my partner had trouble making funcions for add role, user; I then worked upon those and all of them were functional till evening. Now only update delete reamins.
+     - APIs code was further changed in order for them to support our ajax calls. 
+     - Event handlers have been created for buttons and now work will be done regarding hiding the divs and data on pressing of the buttons. 
+     - Navbar is ready and data has been now populated on the console, just needs to be exported on the html page which would require a little more change in our APIs.
+ 
 * Month of July

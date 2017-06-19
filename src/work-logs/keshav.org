@@ -1,6 +1,6 @@
 #+TITLE: Keshavs Time sheet
-#+AUTHOR: Keshav
-#+EMAIL: keshavkms@gmail.com ( 956-093-3318 ) 
+#+AUTHOR: Keshav.
+#+EMAIL: keshavkms@gmail.com ( 956-093-3318 )
 #+DATE: [2017-06-01 Thursday]
 #+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
@@ -15,17 +15,17 @@
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
    + [2017-06-01 Thu] - Setting up the development environment. Researched
      various tools for constructing virtual labs including Org mode (OG),
-     openModelica (OM), Light Table  (LT) and Jupyter Notebooks (JN). 
+     openModelica (OM), Light Table  (LT) and Jupyter Notebooks (JN).
    + [2017-06-02 Fri] - Discussion with Maruthi sir,Lalit sirand Priya ma'am
      regarding the use cases of OpenModelica and the feasibility of using them
      in a virtual lab. Set up the work environment for OpenModelica framwork
      and transpilation to JS and read up on the relevant documentation.
      started working on a demo framework model to show the usefulness of
      openmodelica in a virtual environment.
-   + [2017-06-03 Sat] 
+   + [2017-06-03 Sat]
    + [2017-06-04 Sun]
 
-** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun] 
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-05 Mon] - Began writing scripts for setting up environment for
      creating modelica simulation models. Reverse engineering the script for
      converting modelica models to JS scripts to enhance customizability of the
@@ -47,14 +47,30 @@
      prototype yet.functionally stuck at where i was yesterday.
    + [2017-06-09 Fri] - Tried to fix the Front end Node.Js requirement.Had the
      presentation today.Was suggested by maruthi sir to read back the modelica
-     documentation . Started to work out a plan to work from scratch.    
+     documentation . Started to work out a plan to work from scratch.
 
-** Week 3 [2017-06-12 Mon] till [2015-06-18 Sun]
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
    + [2017-06-12 Mon] - Was stuck at a major roadblock,decided to scrap the
      work and start over. recompiled the openmodelica and emscripten
      installation from scratch from the source code and manually verified paths
      to all the proper directories. ran all the sanity checks for the
      environment,and worked on fixing on fixing the few that failed.
      working on fixing non functional c compiler
+   + [2017-06-13 Tue] - Worked on OAuth server implementation. tested a
+     rudimentary model of a basic app server. Attended the lecture on
+     re - narration of content. Discussed basic ideas and problems in the
+     domain of re - narration
+   + [2017-06-14 Wed] - Worked on basic llvm to javascript compilation from
+     scratch.Helped out on a survey of virtual reality environments.
+     got rudimentary programs like "hello world" compiled to js .spent the rest
+     of the time debugging errors in escripten's version of clang.
+   + [2017-06-15 Thu] - extended work on compilation . able to compile programs
+     with standard io and able to use emscripten macros. also able to expose
+     functions to js. accidentally had misplaced c standard library so spent
+     the remaining time fixing that up.
+   + [2017-06-16 Fri] - Presentation of the progress made last week.Attended the tech talk 
+     on thinking and presenting and creating tools to facilitate thinking.
 
-* Month of July
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun] 
+   + [2017-06-19 Mon] - Worked on compiling openmodelica and emscripten to
+     source from scratch. repaired the file paths of the installation.and tried to get the script working
