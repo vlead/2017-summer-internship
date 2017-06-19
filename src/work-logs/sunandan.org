@@ -24,7 +24,7 @@
 ** Week 3 [2017-05-22 Mon] till [2017-05-28 Sun]
    + [2017-05-22 Mon] - Absent
    + [2017-05-23 Tues] - Reinstalled my machine with ubuntu as the OS crashed hard disk and hard-disk became completely empty.Clarified some doubts in python with prakash sir.
-   + [2017-05-24 Wed] - Absent
+   + [2017-05-24 Wed] - Assigned automation of cluster task as a part of internship.Gone through the documentation and got hands on ansbible
    + [2017-05-25 Thurs] - Installed Emacs and learned how to write .org files and started to work on Automation of cluster.Mentored by siva sir
    + [2017-05-26 Fri] - Started learning Ansible-playbook and started Automating the initial step - Bridging
    
@@ -49,6 +49,9 @@
   + [2017-06-13 Tues]- Fixed some bugs in site.yaml.Changed some iptables files in system-model repository.Site.yaml works fine.Need to look into ADS server to fix some changes and should automate it
   + [2017-06-14 Wed]- Started rechecking all the files again and changed some variables and included some variables.Completed automating ads.Started to write literate document which is our upcoming milestone
   + [2017-06-15 Thurs]-Documented base-machine setup,openvz installation,cluster setup which is our upcoming milestone.Worked on changing some variables and introducing new variables in all files and make sure they are working fine.
+  + [2017-06-16 Fri]-Morning sessions is packed with presentations.Later disccused about next weeks milestone and updated accordingly.Day ended with tech-talk.
+** Week 7 [2017-06-19 Mon] till [2017-06-25 Sun]
+   + [2017-06-19 Mon]- Created org files for all the containers and updated them with all code that has been written.Modified all the playbooks with some variable changes,Some renames etc.Org files working fine .Tangling is fine.Working good.Need to test on other host machine tomorrow
 * Repository link
   [[https://github.com/vlead/cluster-automation][cluster-automation repository]] 
  
