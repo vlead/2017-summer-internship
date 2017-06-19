@@ -1,4 +1,4 @@
-#+TITLE: Sample Time sheet
+#+TITLE: Srikar's Worklog
 #+AUTHOR: Srikar
 #+DATE: [2017-06-01 Fri]
 #+SETUPFILE: ../org-templates/level-1.org
@@ -7,7 +7,7 @@
 #+OPTIONS: ^:nil
 
 Introduction
-This document hols the time sheets for my work during the summer internship
+This document holds the time sheets for my work during the summer internship
 at VLEAD, IIIT Hyderabad
 
 * Month of June
