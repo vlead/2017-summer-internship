@@ -35,7 +35,7 @@
 |     |             | between                |                 | Sripathi    |            |
 |     |             | VLEAD services         |                 |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
-|   9 |         20. | Conversion of          | Maheesurya (10) | Lalit       |            |
+|   9 |         20. | Conversion of          | Maheesurya (10) | Lalit       |   [[https://github.com/integration-team-iiith/colloid-and-surface-chemistry-iiith-javascript-lab][repo]]         |
 |     |             | IIITH labs             | Kalpit (6)      |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
 |  10 |    12., 19. | Webapp short           | Shubh (12)      | Venkatesh   | [[https://gitlab.com/itws2/web-app-short-course][repo]]       |
