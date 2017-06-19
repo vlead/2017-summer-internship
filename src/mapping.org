@@ -42,7 +42,7 @@
 |     |             | course                 | Anirudh (11)    | Thirumal    |            |
 |     |             |                        |                 |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
-|     |         11. | Lab authoring tools    | Keshav (15)     | Maruthi Rao |            |
+|     |         11. | Lab authoring tools    | Keshav (15)     | Maruthi Rao | [[https://github.com/keshavkms/JS_transpilation][repo]]
 |  11 |             | (Python notebook, Org, |                 | Lalit       |            |
 |     |             | Open Modelica)         |                 |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
