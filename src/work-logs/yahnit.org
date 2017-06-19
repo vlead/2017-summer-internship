@@ -136,5 +136,27 @@ sat and discussed on how to decode the json file and we
 have decided on an alogorithm to decode the json spec file.
 I then wrote a javascript function to decode the JSON and render into html.
 
++[2017-06-16 Fri]
+
+We made a slight change to the function do decode the JSON file.
+We had used a reccursive approach , basically its like a tree.
+Then we had project presentation from 11-1.30. Later, i wrote
+the JSON specifications for all the other CRUD operations also,
+Add role, Edir User,Delete User,Delete Role,Show Roles and Users.
+And then we had a Tech talk.
+
+
+
+
+
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+
++[2017-06-19 Mon]
+
+I started writing event handlers for the frontend of CRUD operations.
+I have written the event handlers for Add user and Add role operations.
+Based on a JSON object,the html is displayed.To perform the operations
+i used AJAX calls and based on the response from the server side,i 
+have generated specific messages.
 
 * Month of July
