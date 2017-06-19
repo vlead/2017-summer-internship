@@ -67,7 +67,7 @@ All the further work related to this feature is going to be pushed to the output
 
 [2017-05-16 Fri]:Our weekly Friday presenatation took place where I spoke about our work on Continuous Integration and the Console Output feature.Today also I worked on the log server.A few inputs from Thirumal sir were also received which I am incorporating.Later in the evening we had a tech talk presentation by Brit Victor which was pretty informative.
 
-[2017-05-17 Mon]:I finished the server and client side implemenation of the websocket.I had some issue testing the whole scaled up thing on the local machine so I decided to use the base4 server for it.I setup the Centos template and made the required configurations and setup the enivronment to run the services.Container ID 999 Container IP 10.4.12.65.Once this successfully runs the tests I can implement on the client side a user visible console. 
+[2017-05-19 Mon]:I finished the server and client side implemenation of the websocket.I had some issue testing the whole scaled up thing on the local machine so I decided to use the base4 server for it.I setup the Centos template and made the required configurations and setup the enivronment to run the services.Container ID 999 Container IP 10.4.12.65.Once this successfully runs the tests I can implement on the client side a user visible console. 
 
 
 * Month of July
