@@ -98,3 +98,13 @@
   
      
    
+** Week 3 [2017-06-19 Mon] till [2017-06-13 Fri]
+   + [2017-06-19 Mon] - Was reading through Flask Oauthlib to see documentation
+     of the library and start implementing the authentication server. Then had
+     a long meeting with Chopella Sir, Thirumal Sir,Akash, and Maruthi Sir to
+     determine the use of creating our authentication server. Current
+     conclusion stands at using Google's free registration of client
+     applications to register our services and try to create the triangle
+     structure discussed. Have looked through developer's console given by
+     google which allows authentication of users(i think). Need to look for the
+     services equivalent of this.
