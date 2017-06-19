@@ -51,7 +51,7 @@
   + [2017-06-15 Thurs]-Documented base-machine setup,openvz installation,cluster setup which is our upcoming milestone.Worked on changing some variables and introducing new variables in all files and make sure they are working fine.
   + [2017-06-16 Fri]-Morning sessions is packed with presentations.Later disccused about next weeks milestone and updated accordingly.Day ended with tech-talk.
 ** Week 7 [2017-06-19 Mon] till [2017-06-25 Sun]
-   + [2017-06-19 Mon]- Created org files for all the containers and updated them with all code that has been written.Modified all the playbooks with some variable changes,Some renames etc.Org files working fine .Tangling is fine.Working good.Need to test on other host machine tomorrow
+   + [2017-06-19 Mon]- Created org files for all the containers and updated them with all code that has been written tilldate.Modified all the playbooks with some variable changes,Some renames etc.Org files working fine .Tangling is working fine.Need to test on other host machine tomorrow
 * Repository link
   [[https://github.com/vlead/cluster-automation][cluster-automation repository]] 
  
