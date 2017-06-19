@@ -49,7 +49,7 @@
      presentation today.Was suggested by maruthi sir to read back the modelica
      documentation . Started to work out a plan to work from scratch.
 
-** Week 3 [2017-06-12 Mon] till [2015-06-18 Sun]
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
    + [2017-06-12 Mon] - Was stuck at a major roadblock,decided to scrap the
      work and start over. recompiled the openmodelica and emscripten
      installation from scratch from the source code and manually verified paths
@@ -71,4 +71,6 @@
    + [2017-06-16 Fri] - Presentation of the progress made last week.Attended the tech talk 
      on thinking and presenting and creating tools to facilitate thinking.
 
-* Month of July
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun] 
+   + [2017-06-19 Mon] - Worked on compiling openmodelica and emscripten to
+     source from scratch. repaired the file paths of the installation.and tried to get the script working
