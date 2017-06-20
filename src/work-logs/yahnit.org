@@ -10,6 +10,7 @@
   This document hols the time sheets for my work during the summer internship
   at VLEAD, IIIT Hyderabad
 
+
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
    + [2017-06-01 Thu] - 
@@ -158,5 +159,14 @@ I have written the event handlers for Add user and Add role operations.
 Based on a JSON object,the html is displayed.To perform the operations
 i used AJAX calls and based on the response from the server side,i 
 have generated specific messages.
+
++[2017-06-20 Tue]
+
+We are done with login-logout. When a User is not logged in,the LOGIN
+button is shown and when the user is logges in,LOGOUT button is shown.
+We have integrated the handlers of Add User and Add role. While adding
+a user,initially we provided a text box,but we have placed a dropdown
+box so that the admin can choose from the available roles. We have
+now taken our JSON spec object and generated HTML based on the JSOn file.
 
 * Month of July
