@@ -131,4 +131,21 @@
           8. Review after implementation.
      - I started working on the lab from begining.
      - Now , I started redin the architecture and design of linux-lab
-* Month of July
+   + [2017-06-16 Fri]
+        - Most of the time out for weekly presentation
+        -  Points raised during presentation are :-
+        - Prepare your presentation before delieviring with your friends.
+        - Think of new ideas of improving lab and discuss it with your mentor.
+        - Don't do anything that is already available. Think of something new.
+** Week 3 [2017-06-19 Mon] till [2017-06-25 Sun]
+   + [2017-06-19 Mon]
+       - Worked on the linux-lab debugging 
+       - Able to run the lab on base4 machine using different containers:
+         - I made a significant progress today
+         - Today I am able to register and login the user
+         - Browser-terminal is also working 
+         - Minutes
+           - Set up the lab on local machine and show it to mentor.
+           - And then work on security features of the lab. 
+         - updated the architecture and efforts to fix linux-lab org file  
+* Month of  July
