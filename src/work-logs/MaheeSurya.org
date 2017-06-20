@@ -75,3 +75,7 @@
      the Web-Worker idea, I might fail in my attempt. So, I'm choosing a short
      experiment as even if I fail the experiment will be completed within the
      time. 
+   + [2017-06-20 Tue] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Completed 60% of the conversion. Stuck
+     at the issue of simulating torch light. Will try to find a solution for
+     the issue by tomorrow.
