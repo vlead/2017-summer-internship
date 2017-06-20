@@ -48,4 +48,6 @@ with the project mentor about my allotted project. Read about continuous integra
 
 [2017-06-19 Mon] The ADS was deployed, there were issues with the connection and a few commands weren't working properly every time. The issues were resolved and Jenkins was succesfully auto-deployed. The configuration process has been started, it will be complete very soon. Then connecting Jenkins to the doc server using ssh will be done.
 
+[2017-06-20 Tue] The ADS was deployed. A separate container was created to be used as the doc server. I was configuring Jenkins on the base4 machine(ci.base4.vlabs.ac.in), when the entire projects direction changed completely. Jenkins was found to be unstable for a few things necessary for the project, so a completely different direction was taken. I was reading stuff to get to work on the new direction.
+
 * Month of July
