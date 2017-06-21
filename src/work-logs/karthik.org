@@ -56,5 +56,8 @@
 
 + [2017-06-16 Fri] -  Presentation of the progress made last week.Later in the evening we had a tech talk presentation by Brit Victor.
 
++ [2017-06-19 Mon] - Working on filebeats and logstash filters. Solved some errors while giving data to elasticsearch from kibana.
+ 
+
 * Month of July
 
