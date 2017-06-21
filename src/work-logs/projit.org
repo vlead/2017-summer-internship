@@ -97,8 +97,7 @@
      scope(possibly new) on Monday.
   
      
-   
-** Week 3 [2017-06-19 Mon] till [2017-06-13 Fri]
+** Week 4 [2017-06-19 Mon] till [2017-06-13 Fri]
    + [2017-06-19 Mon] - Was reading through Flask Oauthlib to see documentation
      of the library and start implementing the authentication server. Then had
      a long meeting with Chopella Sir, Thirumal Sir,Akash, and Maruthi Sir to
@@ -108,3 +107,10 @@
      structure discussed. Have looked through developer's console given by
      google which allows authentication of users(i think). Need to look for the
      services equivalent of this.
+   + [2017-06-20 Tue] - Went through the LDS dashboard documentation. Also went
+     through google oauth documentation to see requirements to register an
+     application with their services(LDS had some documentation but it wasn't
+     sufficient). Will register some applications tomorrow and start building
+     the cluster. Was still not able to find proper documentation on
+     registering service.
+
