@@ -107,4 +107,10 @@
      - Fixed an issue with test suite (connection error)
      - Got test suite to successfully run
      - Had a meeting with project mentor. Discussed modularising webapp
+
+   + [2017-06-21 Wed]
+     - Wrote test cases for all six routes 
+     - Solved test suite issues
+     - Test cases all running successfully
+     - Started work on making a modular version of the webapp
 * Month of July
