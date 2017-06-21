@@ -169,4 +169,14 @@ a user,initially we provided a text box,but we have placed a dropdown
 box so that the admin can choose from the available roles. We have
 now taken our JSON spec object and generated HTML based on the JSOn file.
 
++[2017-06-21 Wed]
+
+All the necessary event handlers have been written.We are now done 
+with all the CRUD operations.We have created a JSON file with which 
+creates necessaty form and displays.All the operations are working 
+well.We were hiding and displaying things based on the
+operations without any routing. We have been adviced to use hash
+routing, so we started implementing hash routing.
+
+
 * Month of July
