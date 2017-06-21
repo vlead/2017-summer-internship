@@ -18,7 +18,7 @@
      + Understanding the =vlabs-platform= and =translator=.
      + Further discussion with teammate.
 
-** Week 2 [2017-06-05 Thu] till [2017-06-11 Sun]
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-05 Mon]
      + Set up the /Code Skeletal Generator/ for the =Tranlator= and working with it's APIs.
      + Successfully created the repository https://github.com/test-platform-to-to-deleted/final-repo-e99237 the test-experiment and lab structur.
@@ -40,3 +40,14 @@
 
    + [2017-06-09 Fri]
      + Given a short presentation as a customary and discussed some points in that.
+
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   + [2017-06-12 Mon]
+     + Started working on the Resource Generator Microservice (mostly research work)
+   + [2017-06-13 Tue]
+     + Started with the new resource generator microservice.
+     + Written the =/resource= API and tested with few test cases and found some bugs.
+   + [2017-06-14 Wed]
+     + Resolved the bugs and wrote test cases for each section of the service for full assaurance of working the microserivce.
+   + [2017-06-15 Thr]
+     + Sick leave.

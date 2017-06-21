@@ -56,3 +56,26 @@
      decided to use CreateJS this time as could not understand how to use
      OpenFl in the conversion while Google Web Designer is only a tool for
      building a HTML page. Started working on Experiment-5.
+   + [2017-06-14 Wed] - Working on conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Trying a different approach provided in
+     the documentary. About 20% of the conversion is completed. Need two more
+     days for complete conversion. 
+   + [2017-06-15 Thu] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Unable to use CreateJS. Rolling back to
+     previous method. Need two more days to complete the conversion.
+   + [2017-06-16 Fri] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Completed around 30% of the conversion.
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+   + [2017-06-19 Mon] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab.Completed 50% of the conversion. Watched
+     some tutorials on Velocity.js. Will complete the converion by
+     Wednesday. I'm planning to use web-workers for multi-threading in
+     JavaScript. So, I'm planning to convert a small experiment of
+     Physical-Chemistry lab by using this concept. As I don't know much about
+     the Web-Worker idea, I might fail in my attempt. So, I'm choosing a short
+     experiment as even if I fail the experiment will be completed within the
+     time. 
+   + [2017-06-20 Tue] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Completed 60% of the conversion. Stuck
+     at the issue of simulating torch light. Will try to find a solution for
+     the issue by tomorrow.
