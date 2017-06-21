@@ -129,5 +129,12 @@
      - APIs code was further changed in order for them to support our ajax calls. 
      - Event handlers have been created for buttons and now work will be done regarding hiding the divs and data on pressing of the buttons. 
      - Navbar is ready and data has been now populated on the console, just needs to be exported on the html page which would require a little more change in our APIs.
- 
+   + [2017-06-20 Tue]
+     - Worked totally on JavaScript today. I wrote almost most of the required event handlers today. These include onClick, onChange event functions.
+     - Had a talk with Mentor about the direction of the project. Took note of some very essential guidelines but failed to implement them in the code.
+     - Left out AJAX calls will be written tomorrow along with the integration of already written functions of hash routing, window location etc.
+     - Fixed a severe bug with our function to create elements using JSON data which included not adding of classes and onclick values. The major problem was they were treated as an attribute for the 
+       DOM object when they are not. Seperate condition specification is the provided workaround.
+     - Worked on code efficiency, this will continue tomorrow too. Limiting the use of global variables, using various internet resources to find out about the same.
+     - Fixed a severe bug with our JSON file that was imported from web-app-short-course. The bug included data types that were not available in JSON format, this was leading to JSON.parse error.
 * Month of July
