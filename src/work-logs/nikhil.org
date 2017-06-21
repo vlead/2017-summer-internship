@@ -109,5 +109,43 @@
      - Experiments are not running.
      - As far as I know connection to LDAP server has some issues.
      - I installed the LDAP server and configured it.
-     - And tried to add some entries in it but it's showing some errors.
-* Month of July
+     - And tried to add some entries in it but it's showing some errors
+   + [2017-06-14 wed]
+     - Continued learning about server specially LDAP server.
+     - Configured LDAP om my machine.
+     - created some entries and attributes (i.e edited DIT)
+     - Moved on to learning about NFS server and how to configure it.
+     - Studied the architecture of the linux lab and again tried to debug it.
+     - Figured the problem with the linux lab:-
+       - Problem with the LDAP script to register the user.
+       - Able to run the terminal on the linux lab.
+   + [2017-06-15 Thr]
+     - Proposed plan for the Linux Lab is as follows:
+          1. Read the documentation of the lab and understand the architecture.
+          2. Based on the understanding try to host the existing lab code manually with all components of the lab in working state.
+          3. Meeting to discuss the requirements and design of the lab.
+          4. Create a separate branch in existing repository https://github.com/Virtual-Labs/linux-lab-iiith
+          5. Write down requirements and design in org-mode document.
+          6. Review of the design document.
+          7. Start implementation of the requirements.
+          8. Review after implementation.
+     - I started working on the lab from begining.
+     - Now , I started redin the architecture and design of linux-lab
+   + [2017-06-16 Fri]
+        - Most of the time out for weekly presentation
+        -  Points raised during presentation are :-
+        - Prepare your presentation before delieviring with your friends.
+        - Think of new ideas of improving lab and discuss it with your mentor.
+        - Don't do anything that is already available. Think of something new.
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+   + [2017-06-19 Mon]
+       - Worked on the linux-lab debugging 
+       - Able to run the lab on base4 machine using different containers:
+         - I made a significant progress today
+         - Today I am able to register and login the user
+         - Browser-terminal is also working 
+         - Minutes
+           - Set up the lab on local machine and show it to mentor.
+           - And then work on security features of the lab. 
+         - updated the architecture and efforts to fix linux-lab org file  
+* Month of  July

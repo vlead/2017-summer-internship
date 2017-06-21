@@ -10,6 +10,7 @@
   This document hols the time sheets for my work during the summer internship
   at VLEAD, IIIT Hyderabad
 
+
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
    + [2017-06-01 Thu] - 
@@ -114,9 +115,68 @@ the test cases keeping in mind login and admin authorisation.We faced a lot
 of build errors while running make. We have fixed all the build errors 
 and our app has tangles perfectly well and was working fine. Thirumal sir
 has explained about the web app short course and asked us to go through it
-because we will be implementing lds dashboard in a similar way. I cloned
-it and set up the web-app short course on my machine.
+because we will be implementing lds dashboard in a similar way.
 
++[2017-06-14 Wed]
+
+Deployment has been done with whatever we have done. I have setup web-app
+short course on my machine. The application did not work perfectly as we
+have faced problems with the google oauth.However, i have looked at the code
+and tried to understand how the API's were implemented and also understood
+the implementation of frontend.Thirumal sir has taught us user directory
+with hash routing in the ITWS2 course. I have downloaded that and had a look
+at how the hash routing was implemented.I also browsed about single page
+applications.
+
++[2017-06-15 Thu]
+
+We have done the release today. I have started writing the specifications
+of the JSON file which will be used to render html.I have given the
+specifications for the add-user container. I and Thirumal sir
+sat and discussed on how to decode the json file and we 
+have decided on an alogorithm to decode the json spec file.
+I then wrote a javascript function to decode the JSON and render into html.
+
++[2017-06-16 Fri]
+
+We made a slight change to the function do decode the JSON file.
+We had used a reccursive approach , basically its like a tree.
+Then we had project presentation from 11-1.30. Later, i wrote
+the JSON specifications for all the other CRUD operations also,
+Add role, Edir User,Delete User,Delete Role,Show Roles and Users.
+And then we had a Tech talk.
+
+
+
+
+
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+
++[2017-06-19 Mon]
+
+I started writing event handlers for the frontend of CRUD operations.
+I have written the event handlers for Add user and Add role operations.
+Based on a JSON object,the html is displayed.To perform the operations
+i used AJAX calls and based on the response from the server side,i 
+have generated specific messages.
+
++[2017-06-20 Tue]
+
+We are done with login-logout. When a User is not logged in,the LOGIN
+button is shown and when the user is logges in,LOGOUT button is shown.
+We have integrated the handlers of Add User and Add role. While adding
+a user,initially we provided a text box,but we have placed a dropdown
+box so that the admin can choose from the available roles. We have
+now taken our JSON spec object and generated HTML based on the JSOn file.
+
++[2017-06-21 Wed]
+
+All the necessary event handlers have been written.We are now done 
+with all the CRUD operations.We have created a JSON file with which 
+creates necessaty form and displays.All the operations are working 
+well.We were hiding and displaying things based on the
+operations without any routing. We have been adviced to use hash
+routing, so we started implementing hash routing.
 
 
 * Month of July
