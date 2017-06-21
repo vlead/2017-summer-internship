@@ -54,3 +54,10 @@
    2. all the experiments have to be converted .
    3. The design is good but would have to be further improved to capture the whole idea.
    Later half was spent in redesigning the whole thing and ended with the amazing talk by Bret victor by the name "Media for thinking the unthinkable"
+   
+   ** Week 3 [2017-06-19 Mon] till [2017-06-23 Fri]
+   
+   + [2017-06-19 Mon] - Had a discussion with chopella sir about the further incorporation of this design . He wanted a better object oriented design . So he gave me a rough design of the experiment again for which i had to code the complete thing again . So i began the coding part but i was facing some difficulties in placing the divs. But finalyy the crude design is ready.
+   
+   + [2017-06-19 Tue] - I continued working on the design and coding part. Was finally able to complete it and went to chopella sir for his aproval. His advice was to add some arrows and make it better in terms of visuals. But i struggled a lot beacuse it becomes harder to add arrows across divs. Later in the day i had a discussion with thiruval sir regarding the writing of the code in literate manner. Further had some discussions with sripathi regarding how to write the code in literate way. Will start working on this tomorrow.
+	

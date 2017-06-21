@@ -27,3 +27,8 @@
    + [2017+-06-13 Tue] - Edited and improved documentataion of the Alloy model of web app short course
    + [2017+-06-14 Wed] - Working on building session entity in the Alloy model created before for web app short course
    + [2017+-06-15 Thu] - Had a discussion with prof Venkatesh and Mr.Thirumal about where our work is added and Also made a static model including the session.
+   + [2017+-06-16 Fri] - worked on the presentation.Had a discussion with Prof venkatesh and Akash about FIM and its vulnerabilities.Was asked to look at the papers of Ganesh on CORP and read about FIM.
+** Week 3 [2017-06-19 Mon] till [2017-06-25 Sun]
+   + [2017+-06-19 Mon] - worked on the Alloy model and included session entity to it and working on the dynamic model with session.
+   + [2017+-06-20 Tue] - Added the login and logout and completed the alloy model of webapp short course with session and dynamic operations. Akash asked us to read about the vulnerabilities in FIM and some papers found on google.
+   + [2017+-06-21 Wed] - Had a discussion with Prof Venkatesh and Mr.Thirumal and i was asked to comple the routing of the webapp short course. I explored all routings in Webapp short course and installed some of the required software for my mac.
