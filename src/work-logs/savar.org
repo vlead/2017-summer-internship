@@ -69,5 +69,6 @@ All the further work related to this feature is going to be pushed to the output
 
 [2017-05-19 Mon]:I finished the server and client side implemenation of the websocket.I had some issue testing the whole scaled up thing on the local machine so I decided to use the base4 server for it.I setup the Centos template and made the required configurations and setup the enivronment to run the services.Container ID 999 Container IP 10.4.12.65.Once this successfully runs the tests I can implement on the client side a user visible console. 
 
+[2017-06-20 Tue]:In the morning I spent time debugging my code of the output console.More or less it has been completed.Around lunch time we had a meeting with Thirumal Sir.Our proposed project has undergone a complete overhual.We have to redesign the whole thing from scratch agian.Later part of my time was spent surveying various technologies for implementation and discussing the design with my team.
 
 * Month of July

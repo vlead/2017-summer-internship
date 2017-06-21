@@ -78,11 +78,33 @@
      - Gave a presentation about progress in this project so far.
 
 ** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
-
+   
    + [2017-06-12 Mon]
      - Unsuccessfully attempted to implement authentication.
      - Had a short meeting with the project mentor- Prof. Choppella.
    + [2017-06-13 Tue]
      - Successfully implemented login and admin authentication.
      - Tested the app. Ran into issues.
+   + [2017-06-14 Wed]
+     - Implemented six routes- /index, /login, /addUser, /showUsers,
+       /deleteUser, /logout
+     - Wrote a bash script for testing
+   + [2017-06-15 Thu]
+     - Set up a basic test file system
+     - Designed a test suite for the system
+     - Explored the haskell hspec library for implementing test suite
+     - Read related literature on comparative studies of software programs
+   + [2017-06-16 Fri]
+     - Had a project presentation in the morning
+     - Started implementation of test suite using hspec
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+
+   + [2017-06-19 Mon]
+     - Continued implementation of test suite in hspec
+     - Had a meeting with my project mentor in the afternoon
+     
+   + [2017-06-20 Tue]
+     - Fixed an issue with test suite (connection error)
+     - Got test suite to successfully run
+     - Had a meeting with project mentor. Discussed modularising webapp
 * Month of July
