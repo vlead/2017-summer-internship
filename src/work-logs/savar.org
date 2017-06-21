@@ -71,4 +71,6 @@ All the further work related to this feature is going to be pushed to the output
 
 [2017-06-20 Tue]:In the morning I spent time debugging my code of the output console.More or less it has been completed.Around lunch time we had a meeting with Thirumal Sir.Our proposed project has undergone a complete overhual.We have to redesign the whole thing from scratch agian.Later part of my time was spent surveying various technologies for implementation and discussing the design with my team.
 
+[2017-06-21 Wed]:Today I finished up the documentation and pushed the work I had done on websockets in the websockets folder in the Contnuous Integration repo.We started our work on building our custom CI tool.Two features were successfully implemented.First one being the funcionlility of reconginzing a change made to the repo was implemented using the help of webhooks.Second the functionality of cloning the repo on host machine using a few modules to manipulate the JSON and run certain shell commands.
+
 * Month of July
