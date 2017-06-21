@@ -57,7 +57,7 @@
 + [2017-06-16 Fri] -  Presentation of the progress made last week.Later in the evening we had a tech talk presentation by Brit Victor.
 
 + [2017-06-19 Mon] - Working on filebeats and logstash filters. Solved some errors while giving data to elasticsearch from kibana.
- 
++ [2017-06-21 Wed] - Able to push some logfiles into kibana using logstash filters but unable to convert the logfiles into json format and push it to elasticsearch.
 
 * Month of July
 
