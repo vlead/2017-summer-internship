@@ -102,4 +102,9 @@
    + [2017-06-19 Mon]
      - Continued implementation of test suite in hspec
      - Had a meeting with my project mentor in the afternoon
+     
+   + [2017-06-20 Tue]
+     - Fixed an issue with test suite (connection error)
+     - Got test suite to successfully run
+     - Had a meeting with project mentor. Discussed modularising webapp
 * Month of July
