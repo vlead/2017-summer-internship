@@ -79,3 +79,7 @@
      Colloid-and-Surface-Chemistry lab. Completed 60% of the conversion. Stuck
      at the issue of simulating torch light. Will try to find a solution for
      the issue by tomorrow.
+   + [2017-06-22 Thu] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Completed 90% of the conversion. Will
+     complete the rest of the experiment and test cases by tonight. The
+     conversion will be ready for presentation by tomorrow.

@@ -137,4 +137,13 @@
        DOM object when they are not. Seperate condition specification is the provided workaround.
      - Worked on code efficiency, this will continue tomorrow too. Limiting the use of global variables, using various internet resources to find out about the same.
      - Fixed a severe bug with our JSON file that was imported from web-app-short-course. The bug included data types that were not available in JSON format, this was leading to JSON.parse error.
+   + [2017-06-21 Wed]
+     - I wrote all the event handlers required today. They were tried and tested. Only now thing left is the new update user layout which will take a little more while inorder to have workaround
+       in my understanding of tackling the problem.
+     - All the AJAX calls were written and tested, I had to change some routes definitions inorder to take a JSON payload. 
+     - Finally I integrated whole of the hashrouting, have tested it thoroughly and now everything work regarding the hash routing. I am creating the hashes using id button clicked inorder to make 
+       our code more efficient and to enhance strongness of id naming pattern.
+     - Most of the bugs I found are now fixed, added few more constraints to APIs definition as discussed in database model discussion today.
+     - JSON file has been updated and will be further updated for the new update user layout.
+     - Started the work for the documentation regarding the JS file.
 * Month of July
