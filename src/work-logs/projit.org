@@ -117,4 +117,11 @@
      of book on microservices and created notes for it. Evaluated different
      proposals given in it. The book and the notes are listed as a closed issue
      in this repo.
+   + [2017-06-22 Thurs] - Tried registering applications on google. Encountered
+     some issues. Tried to install the lds dashboard but again encountered
+     errors. Researching into google service accounts: current conclusions are
+     that they can be used for server-server interactions between google and us
+     but not between two of our accounts. Even the specified interactions do
+     not meet our requirements.
 
+     
