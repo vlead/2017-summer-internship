@@ -18,7 +18,7 @@
 |   2 |          2. | LDS dashboard          | Yahnit (3)      | Madhavi     | [[https://github.com/vlead/lab-data-service-dashboard][repo]]       |
 |     |             |                        | Utkarsh (4)     |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
-|   3 |   3, 7, 13. | Renarration            | Raghav (20)     | Sai         |            |
+|   3 |   3, 7, 13. | Renarration            | Raghav (20)     | Sai         |  [[https://gitlab.com/renarration][group]]          |
 |     |             |                        |                 |             |            |
 |-----+-------------+------------------------+-----------------+-------------+------------|
 |   4 |  4, 14, 15, | Automation of          | Karthik (18)    | Thirumal    | [[https://github.com/vlead/cluster-automation][repo]]       |
