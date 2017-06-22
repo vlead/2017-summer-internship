@@ -1,6 +1,6 @@
 #+TITLE: nikhil.org
 #+AUTHOR: Nikhil Bansal
-#+DATE: [2017-06-01 Fri]
+#+DATE: 
 #+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
@@ -139,13 +139,27 @@
         - Don't do anything that is already available. Think of something new.
 ** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
    + [2017-06-19 Mon]
-       - Worked on the linux-lab debugging 
-       - Able to run the lab on base4 machine using different containers:
-         - I made a significant progress today
-         - Today I am able to register and login the user
-         - Browser-terminal is also working 
-         - Minutes
-           - Set up the lab on local machine and show it to mentor.
-           - And then work on security features of the lab. 
-         - updated the architecture and efforts to fix linux-lab org file  
+     - Worked on the linux-lab debugging 
+     - Able to run the lab on base4 machine using different containers:
+       - I made a significant progress today
+       - Today I am able to register and login the user
+       - Browser-terminal is also working 
+       - Minutes
+	 - Set up the lab on local machine and show it to mentor.
+	 - And then work on security features of the lab. 
+       - updated the architecture and efforts to fix linux-lab org file
+   + [2017-06-20 Tue]
+     - Worked on the linux lab.
+     - I am able to run the lab on a single container updated the architecture of the lab and the steps to set up the lab 
+     - This is the link for the new documentation for hosting the lab:
+       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/fix-linux-lab/fix-and-host-linux-lab.org]]
+       - the above is for hosting the lab on several containers
+  + [2017-06-21 Wed]
+    - Today we have to work on hosting the linux lab on single container
+    - I created a new branch of the existing lab to work on the given task
+      - The name of the new branch is  =linux-lab-on-single-container=
+      - Here, is the link of this new branch : [[https://github.com/Virtual-Labs/linux-lab-iiith/tree/linux-lab-on-single-host]] 
+      - This is the link to the complete documentation of the how to host the linux-lab on single container:[[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/lab-on-single-host.org]]
+      - Then I wrote the bash-script to automate the process of setting up the whole lab.
+      - Here is the link to this script : [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/scripts/build.sh]]
 * Month of  July
