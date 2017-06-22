@@ -11,7 +11,7 @@
   at VLEAD, IIIT Hyderabad
 
 
-
+  
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-02 Fri]
    + [2017-06-01 Thu] - Worked on setting up development environment. Discussed
@@ -96,7 +96,6 @@
      outsourcing the authentication server to some provider. Will clarify
      scope(possibly new) on Monday.
   
-     
 ** Week 4 [2017-06-19 Mon] till [2017-06-13 Fri]
    + [2017-06-19 Mon] - Was reading through Flask Oauthlib to see documentation
      of the library and start implementing the authentication server. Then had
@@ -113,4 +112,9 @@
      sufficient). Will register some applications tomorrow and start building
      the cluster. Was still not able to find proper documentation on
      registering service.
+   + [2017-06-21 Wed] - Went through documentation for google's oauth. Also
+     registered an app but functionality issues persist. Went through Chapter 9
+     of book on microservices and created notes for it. Evaluated different
+     proposals given in it. The book and the notes are listed as a closed issue
+     in this repo.
 

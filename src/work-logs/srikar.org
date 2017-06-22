@@ -50,4 +50,7 @@ with the project mentor about my allotted project. Read about continuous integra
 
 [2017-06-20 Tue] The ADS was deployed. A separate container was created to be used as the doc server. I was configuring Jenkins on the base4 machine(ci.base4.vlabs.ac.in), when the entire projects direction changed completely. Jenkins was found to be unstable for a few things necessary for the project, so a completely different direction was taken. I was reading stuff to get to work on the new direction.
 
+[2017-06-21 Wed] We discussed the scope of the project with Maruthi sir and with Thirumal sir and started working on the CI tool.
+The design for the new process of continuous integration was made and uploaded onto the design folder. The functionality of recognising a change made to the repository was implemented using webhooks.
+
 * Month of July
