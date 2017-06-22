@@ -115,4 +115,10 @@
     + Created the =makefile= so that the =make= command can build all the
       resources using =literate-tools=.
     + Discussed the UI of the experiment with mentors.
-* Month of July
+
+*** [2017-06-22 Thu]
+    + Changed the =translators= micro-service so that it can produce a similar
+      structure to the one dicussed yesterday.
+    + Now the =translator= also adds a README.org, init.sh and makefile so that
+      one can build the resources.
+    + Discussed about the =Content Server= micro-service.
