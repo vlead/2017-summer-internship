@@ -123,5 +123,13 @@
      that they can be used for server-server interactions between google and us
      but not between two of our accounts. Even the specified interactions do
      not meet our requirements.
+   + [2017-06-23 Fri] - Did not work on authentication today. Worked on
+     evaluating different publishing tools. Went through olabs(Amrita), to try
+     and see how they have created their own labs. Looked at other examples
+     like nicely made animations by colorado state university. Will try to
+     reach out to the makers of the animations. Also experimented with GDevelop
+     software used to make games. Created a simple game which shows that things
+     created using this software can be easily integrated with the
+     browser. Further scaling needs to be looked at it.
 
      
