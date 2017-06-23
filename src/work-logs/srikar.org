@@ -53,4 +53,6 @@ with the project mentor about my allotted project. Read about continuous integra
 [2017-06-21 Wed] We discussed the scope of the project with Maruthi sir and with Thirumal sir and started working on the CI tool.
 The design for the new process of continuous integration was made and uploaded onto the design folder. The functionality of recognising a change made to the repository was implemented using webhooks.
 
+[2017-06-22 Tue] We discussed the course, I started working on using gunicorn and nginx over flask. There were various errors with the gunicorn deployement, I could resolve most of them and took Thirumal sir's help for a few, and finally could succesfully get gunicorn to work on top of flask. Work on nginx has begun and it'll be done soon.
+
 * Month of July

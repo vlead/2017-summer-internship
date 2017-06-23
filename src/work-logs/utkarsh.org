@@ -146,4 +146,13 @@
      - Most of the bugs I found are now fixed, added few more constraints to APIs definition as discussed in database model discussion today.
      - JSON file has been updated and will be further updated for the new update user layout.
      - Started the work for the documentation regarding the JS file.
+   + [2017-06-22 Thur]
+     - I implemented couple of major changes in the JS for the changed implementation of the Dashboard by the mentor.
+     - New Role and User Update layouts have been now implemented and they are working.
+     - Push all the updated codes into the documentation has the code, I will be writing the literate tomorrow.
+     - Changes regarding new implementation was put in the JSON and tested.
+     - Changed major things regarding hash routing and hash access which arised due to the new implementation. It was
+       was tested and it works for now.
+     - Wrote a little bit styling for the front-end.
+     - Working on Event Listener Persistance bug. No luck till now. 
 * Month of July

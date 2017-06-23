@@ -76,3 +76,8 @@
     - Gone through webapp short course on recommandation of Venkatesh sir.
     - Created literate doc structure.
     - Converting earlier work into literate docs.
++ [2017-06-22 Thur]
+    - setup literate docs for code review.
+    - met Sai sir to discuss and clear doubts regarding current task of DOM manipulation.
+    - met Saumya mam to clear doubts regarding literate docs and makefile.
+    - created docs by following the web app short course.
