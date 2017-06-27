@@ -133,3 +133,11 @@
      browser. Further scaling needs to be looked at it.
 
      
+** Week 5 [2017-06-27 Tue] till [2017-06-30 Fri]
+   + [2017-06-27 Tue] - Project is officially now to work on lab authoring
+     tools. Created and configured the new repository with norms. Looked
+     through different tools online notably: Molecular Workbench, PHET, CMU's
+     virtual lab. Wrote about Molecular Workbench and its potential. JNLP seems
+     to be a viable solution for other issues encountered. Discussed
+     programming model for creating the tools and potential to collaborate with
+     those working on conversion of flash labs to javascript.
