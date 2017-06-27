@@ -162,4 +162,27 @@
       - This is the link to the complete documentation of the how to host the linux-lab on single container:[[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/lab-on-single-host.org]]
       - Then I wrote the bash-script to automate the process of setting up the whole lab.
       - Here is the link to this script : [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/scripts/build.sh]]
+  + [2017-06-22 Thr]
+    - Tested the script by making a single container of ubuntu 14.04 on my base4 machine
+    - corrected some of the errors that in script.
+    - Started working on experiments - exp4, exp5 etc.
+    - updated the documentation of the new branch 
+    - Here, is the link to the updated docmentation :- https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/lab-on-single-host.org
+    - Please refer to the documentation for more details
+  
+  + [2017-06-23 Fri]
+    - Tested the lab on my friends computer
+    - It's showing some errors on testing on a virtual-box while it's working fine on a container on base4 machine.
+    - Made changes to scripts to solve error 
+    - Go through the commits to see the changes made
+    - updated the documentation - added the architecture 
+    - Tech-talk
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun]
+   + [2017-07-27 Tue]
+     - Converted the whole code of the the initialise.sh into org-mode
+     - Converted the whole code of build.sh into org-mode
+     - Here are the links to the updated literate-codes
+       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
+       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
+ 
 * Month of  July

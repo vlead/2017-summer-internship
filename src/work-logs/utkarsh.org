@@ -146,4 +146,35 @@
      - Most of the bugs I found are now fixed, added few more constraints to APIs definition as discussed in database model discussion today.
      - JSON file has been updated and will be further updated for the new update user layout.
      - Started the work for the documentation regarding the JS file.
+   + [2017-06-22 Thur]
+     - I implemented couple of major changes in the JS for the changed implementation of the Dashboard by the mentor.
+     - New Role and User Update layouts have been now implemented and they are working.
+     - Push all the updated codes into the documentation has the code, I will be writing the literate tomorrow.
+     - Changes regarding new implementation was put in the JSON and tested.
+     - Changed major things regarding hash routing and hash access which arised due to the new implementation. It was
+       was tested and it works for now.
+     - Wrote a little bit styling for the front-end.
+     - Working on Event Listener Persistance bug. No luck till now. 
+   + [2017-06-23 Fri]
+     - Started working on update profile page plus finally decided to seperate out the side navigation bar from the hardcoded html. Though it was time consuming process but had to be done, in order
+       to implement session roles in a better manner.
+     - Fixed the bug regarding persistance of the event listener. Had to go through various documentations till I got to know the issue was created due to bubbling in the attachment of the event 
+       listener on the document level. Now it works fine.
+     - Fixed another major bug regard syntax error at DOCTYPE HTML, which used to be output out in the console whenever I used to navigate to #home. This was caused by an illegal character reference
+       in my DOM button element's onclick attribute.
+     - Started working on guest dashboard, it need to have only one basic route as of now; which would be update profile.
+     - Started documentation, ie. adding literate to my JavaScript finally.
+     - Noted out problems still in mind regarding our implementation of the dashboard, marked them in order to discuss them with the mentor. 
+** Week 5 [2017-06-27 Tue] till [2017-07-02 Sun]
+   + [2017-06-27 Tue]
+     - Major Bug fixing was done today which included a bug relating to pre-creating of 'admin' role in our database. This was due to overwriting of database uri in the test cases which 
+       I was able to fix today. 
+     - Further literal programming was expanded and documentation was continued with.
+     - Tangling details of the JavaScript was added and then tested. I carried out heavy changes in both api.org and web-frontend.org in order to prepare for our second release of the
+       month.
+     - LDS was set up on the system, had some trouble fixing apache2 not running on localhost was able to fix it by defining a global instance of the servername as localhost in apache2.conf.
+     - I further started with laying of plans essential for the integration of the code related to AJAX calls for the LDS. Precisely I am finding decent ways to proceed with the integration
+       process, which seems a little difficult as of now.
+     - Testing of the new and old both AJAX calls were done.
+     - Still trying to fix the bug related to access to server routes, discussed this issue in the morning with our mentor and Tirumal sir. 
 * Month of July
