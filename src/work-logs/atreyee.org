@@ -113,4 +113,30 @@
      - Solved test suite issues
      - Test cases all running successfully
      - Started work on making a modular version of the webapp
+   + [2017-06-22 Thu]
+     - Created a modular version of the webapp
+     - Wrote documentation for the webapp code
+   + [2017-06-23 Fri]
+     - Cloned literate-tools to web-app-haskell repository and
+       configured the repository according to the literate-tools
+       format
+     - Ran a makefile. Makefile issue present: makefile deletes
+       build/code directory, thus app unable to run after makefile
+     - Worked on literate-tools issue (also raised an issue
+       in the github repository)
+     - Attended a code review from 11.00am to 2.00pm
+     - Attended tech talk in the afternoon from 4:30om
+       
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun]
+
+   + [2017-06-27 Tue]
+     - Started work on NLP applications in Haskell
+     - Read through papers on dependency parsing techniques (papers
+       provided in reading list) and paper Dependency 
+       Grammars as Haskell Programs
+     - Wrote a tutorial implementing the parser engine from
+       the paper. The purpose of writing this is to under-
+       stand the parser engine demonstrated in the paper,
+       as well as to make a demonstration tool to explain the 
+       paper.
 * Month of July

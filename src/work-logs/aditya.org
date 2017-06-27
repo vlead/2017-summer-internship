@@ -51,3 +51,28 @@
      + Resolved the bugs and wrote test cases for each section of the service for full assaurance of working the microserivce.
    + [2017-06-15 Thr]
      + Sick leave.
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+*** [2017-06-19 Mon]
+    + Leave.
+
+*** [2017-06-20 Tue]
+    + Merged the =/update_experiment= with the =/create_experiment=. Now
+      =/create_experiment= can update an experiment if the experiment already
+      exists.
+    + Started building the resources for an existing experiment, Numerical Approximations.
+    + The resource files are ready except =simulation= section.
+
+*** [2017-06-21 Wed]
+    + Made the =simulation= resources.
+    + Created the =makefile= so that the =make= command can build all the
+      resources using =literate-tools=.
+    + Discussed the UI of the experiment with mentors.
+
+*** [2017-06-22 Thu]
+    + Changed the =translators= micro-service so that it can produce a similar
+      structure to the one dicussed yesterday.
+    + Now the =translator= also adds a README.org, init.sh and makefile so that
+      one can build the resources.
+    + Discussed about the =Content Server= micro-service.
+*** [2017-06-23 Fri]
+    + Added narration to =system= and =system-interface= part of the translator module.
