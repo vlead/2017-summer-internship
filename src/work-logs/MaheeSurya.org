@@ -79,6 +79,7 @@
      Colloid-and-Surface-Chemistry lab. Completed 60% of the conversion. Stuck
      at the issue of simulating torch light. Will try to find a solution for
      the issue by tomorrow.
+   + [2017-06-21 Wed] - On leave.
    + [2017-06-22 Thu] - Working on the conversion of Experiment-5 of
      Colloid-and-Surface-Chemistry lab. Completed 90% of the conversion. Will
      complete the rest of the experiment and test cases by tonight. The
@@ -86,3 +87,7 @@
    + [2017-06-23 Fri] - Completed the conversion of Experiment-5 of
      Colloid-and-Surface-Chemistry lab. Need to update the documentary and make
      a good org file. Might take one day.
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun] 
+   + [2017-06-27 Tue] - Working on the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Converting images to animated GIF
+     format. Built an outline of the HTML page.
