@@ -177,4 +177,12 @@
     - Go through the commits to see the changes made
     - updated the documentation - added the architecture 
     - Tech-talk
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun]
+   + [2017-07-27 Tue]
+     - Converted the whole code of the the initialise.sh into org-mode
+     - Converted the whole code of build.sh into org-mode
+     - Here are the links to the updated literate-codes
+       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
+       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
+ 
 * Month of  July
