@@ -200,4 +200,18 @@ has joined us and after a long effort we could fix that issue.
 we have then pushed our code into the org files and documentation
 was written.
 
+
+** Week 5 [2017-06-27 Tue] till [2017-07-02 Sun]
+
++[2017-06-27 Tue]
+
+A part of Documentation was changed , we have written in more detail
+as suggested by Thirumal Sir.For each and very piece of code we have
+started wrotong description in detail. However we could do only for 
+4 pieces of code.I then worked on writing frontend for the LDS dashboard.
+Added some event listeners and also placed dropdowns for assets,developers,
+etc which will be used while adding a lab or experiment.I have tested whether
+the dropdowns were being populated properly or not.
+
+
 * Month of July
