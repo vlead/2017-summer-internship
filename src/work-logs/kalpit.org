@@ -54,5 +54,6 @@
      new functions and library (Velocity.js and so on).
    + [2017-06-20 Tue] - Completed 3rd experiment and Started 4th experiment of lab Physical-chemistry-iiith.
      Implemented Some new functions with help of library "velocityJs".
-   + [2017-06-21 Wed] - Worked on  3rd experiment of lab Physical-Chemistry-iiith. wrote some new functions using
+   + [2017-06-21 Wed] - Worked on  4rd experiment of lab Physical-Chemistry-iiith. wrote some new functions using
      "velocityJs library".
+   + [2017-06-22 Thu] - Completed 4th & 5th experiment of lab physical-chemistry-iiith.Also Wrote test cases for all experiments.
