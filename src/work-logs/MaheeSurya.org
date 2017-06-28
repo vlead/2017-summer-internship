@@ -91,3 +91,6 @@
    + [2017-06-27 Tue] - Working on the conversion of Experiment-14 of
      Colloid-and-Surface-Chemistry lab. Converting images to animated GIF
      format. Built an outline of the HTML page.
+     
+
+Approved - Lalit Mohan    
