@@ -176,5 +176,11 @@
      - I further started with laying of plans essential for the integration of the code related to AJAX calls for the LDS. Precisely I am finding decent ways to proceed with the integration
        process, which seems a little difficult as of now.
      - Testing of the new and old both AJAX calls were done.
-     - Still trying to fix the bug related to access to server routes, discussed this issue in the morning with our mentor and Tirumal sir. 
+     - Still trying to fix the bug related to access to server routes, discussed this issue in the morning with our mentor and Tirumal sir.
+   + [2017-06-27 Tue]
+     - Integration with the the main LDS routes started as of today with no success as of such since I am still stuck with cross origin ajax calls.
+     - Problems were faced because of CORS in the LDS. More measures will be taken tonight to fix this issue.
+     - Access to server routes were fixed with the help of a decorator.
+     - Documentation was done for more function in client-side JavaScript and API.
+     - Some more bugs were also fixed. 
 * Month of July
