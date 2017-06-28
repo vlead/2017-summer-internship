@@ -7,7 +7,7 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document hols the time sheets for my work during the summer internship
+  This document holds the time sheets for my work during the summer internship
   at VLEAD, IIIT Hyderabad.
   * Month of May
 ** Week 1 [2017-05-10 Wed] till [2017-05-14 Sun]
@@ -29,7 +29,7 @@
    
 ** Week 4 [2017-05-29 Mon] till [2017-05-31 Wed]
    + [2017-05-29 Mon] - Resolved some issues while bridging network.Completed automation of bridge network part.Pushed to github link is mentioned below.Bridge part is in basesetup in src/roles directory
-   + [2017-05-30 Tues] - Automated installing openvz part but there is some trouble for installing proxy in ansible while installing git 
+   + [2017-05-30 Tues] - Automated installing openvz part but there is some trouble for installing proxy in ansible while installing git.
    + [2017-05-31 Wed] - Resolved issue of proxy by using environment module in ansible.Finally completed the openvz installation and automation of it 
 
 * Month of June
@@ -62,6 +62,8 @@
 + [2017-06-23 Fri] - Installed and started Using the nmon Tool for Monitoring Systems Performance. Read about the nmon tool and how to extract logs and stats into a new csv file.
 
 + [2017-06-27 Mon] - Visualized the logs of the logs of the sysytem using nmon and generated graphs. Converted .nmon file to .html format using nmonchart and generated graphs using nmon. 
++ [2017-06-27 Mon] - Genearted graphs for a particular interval of time and made documentation of the whole process. Tried parsing previous logs of the system using nmon.
+
  Month of July
 * Repository link
   [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack repository]] 
