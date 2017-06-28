@@ -87,3 +87,8 @@
     + Written test cases for translator.
     + Minor bug fix in update functionally of translator.
     + Some research about tangling in MD.  
+*** [2017-06-28 Wed]
+    + Added narration for =resource-generator=.
+    + Discussion with Thirumal sir regarding new microservice =content-server=.
+    + Started working and pushed the initial directory structure and basic app design for =content-server=.
+    + Gathered information for data base which is used in the microservice.
