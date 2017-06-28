@@ -53,5 +53,3 @@
 * Unmapped
  - Neha Motlani (13)
  - Trunapushpa (17)
-* Confirmed, not arrived yet
- - Shubh (12)

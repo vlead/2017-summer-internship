@@ -112,4 +112,69 @@
      - Started work at front end from the scratch. Initial overview seems to work fine. Had faced some problem in dereferencing the HTML object but it was fixed till the evening.
      - Currently wokring on finding appropiate functions in order to get logged in state and sesssion state of current user from the google sign-in documentation. Still haven't got it to work, maybe till midnight it will be done.
      - Test cases were fixed for some errors faced due to the update in the functions of our modals.
+   + [2017-06-16 Fri]
+     - Worked on checking logged in state of the user with no success. No goole api seemed to work even after sourcing the required stuff. Session cookies didn't work, couldn't really 
+       know why. Tried to have a workaround for this but failed. Will look for it in the weekend.
+     - We had our presentation where we explained this week's work. I gave insights upon the deployment of the app.
+     - Then I attended the tech talk organized which is indeed a great initiative.
+     - Read more about single page applications and plus about cookies and thier attributes to find a workaround inorder to create a nav bar with button toggling b/w login and logout on base
+       of the session.
+     - Did some changed in Rest APIs in order to make it compatible for the SPA structure. 
+
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+   + [2017-06-19 Mon]
+     - Again started working for the workaround. Problem was found in the session cookie, that it carry =HTTPOnly = True= attribute and thus js couldn't read it. So instead I created an ajax call to
+       check for the session from server side.
+     - Since my partner had trouble making funcions for add role, user; I then worked upon those and all of them were functional till evening. Now only update delete reamins.
+     - APIs code was further changed in order for them to support our ajax calls. 
+     - Event handlers have been created for buttons and now work will be done regarding hiding the divs and data on pressing of the buttons. 
+     - Navbar is ready and data has been now populated on the console, just needs to be exported on the html page which would require a little more change in our APIs.
+   + [2017-06-20 Tue]
+     - Worked totally on JavaScript today. I wrote almost most of the required event handlers today. These include onClick, onChange event functions.
+     - Had a talk with Mentor about the direction of the project. Took note of some very essential guidelines but failed to implement them in the code.
+     - Left out AJAX calls will be written tomorrow along with the integration of already written functions of hash routing, window location etc.
+     - Fixed a severe bug with our function to create elements using JSON data which included not adding of classes and onclick values. The major problem was they were treated as an attribute for the 
+       DOM object when they are not. Seperate condition specification is the provided workaround.
+     - Worked on code efficiency, this will continue tomorrow too. Limiting the use of global variables, using various internet resources to find out about the same.
+     - Fixed a severe bug with our JSON file that was imported from web-app-short-course. The bug included data types that were not available in JSON format, this was leading to JSON.parse error.
+   + [2017-06-21 Wed]
+     - I wrote all the event handlers required today. They were tried and tested. Only now thing left is the new update user layout which will take a little more while inorder to have workaround
+       in my understanding of tackling the problem.
+     - All the AJAX calls were written and tested, I had to change some routes definitions inorder to take a JSON payload. 
+     - Finally I integrated whole of the hashrouting, have tested it thoroughly and now everything work regarding the hash routing. I am creating the hashes using id button clicked inorder to make 
+       our code more efficient and to enhance strongness of id naming pattern.
+     - Most of the bugs I found are now fixed, added few more constraints to APIs definition as discussed in database model discussion today.
+     - JSON file has been updated and will be further updated for the new update user layout.
+     - Started the work for the documentation regarding the JS file.
+   + [2017-06-22 Thur]
+     - I implemented couple of major changes in the JS for the changed implementation of the Dashboard by the mentor.
+     - New Role and User Update layouts have been now implemented and they are working.
+     - Push all the updated codes into the documentation has the code, I will be writing the literate tomorrow.
+     - Changes regarding new implementation was put in the JSON and tested.
+     - Changed major things regarding hash routing and hash access which arised due to the new implementation. It was
+       was tested and it works for now.
+     - Wrote a little bit styling for the front-end.
+     - Working on Event Listener Persistance bug. No luck till now. 
+   + [2017-06-23 Fri]
+     - Started working on update profile page plus finally decided to seperate out the side navigation bar from the hardcoded html. Though it was time consuming process but had to be done, in order
+       to implement session roles in a better manner.
+     - Fixed the bug regarding persistance of the event listener. Had to go through various documentations till I got to know the issue was created due to bubbling in the attachment of the event 
+       listener on the document level. Now it works fine.
+     - Fixed another major bug regard syntax error at DOCTYPE HTML, which used to be output out in the console whenever I used to navigate to #home. This was caused by an illegal character reference
+       in my DOM button element's onclick attribute.
+     - Started working on guest dashboard, it need to have only one basic route as of now; which would be update profile.
+     - Started documentation, ie. adding literate to my JavaScript finally.
+     - Noted out problems still in mind regarding our implementation of the dashboard, marked them in order to discuss them with the mentor. 
+** Week 5 [2017-06-27 Tue] till [2017-07-02 Sun]
+   + [2017-06-27 Tue]
+     - Major Bug fixing was done today which included a bug relating to pre-creating of 'admin' role in our database. This was due to overwriting of database uri in the test cases which 
+       I was able to fix today. 
+     - Further literal programming was expanded and documentation was continued with.
+     - Tangling details of the JavaScript was added and then tested. I carried out heavy changes in both api.org and web-frontend.org in order to prepare for our second release of the
+       month.
+     - LDS was set up on the system, had some trouble fixing apache2 not running on localhost was able to fix it by defining a global instance of the servername as localhost in apache2.conf.
+     - I further started with laying of plans essential for the integration of the code related to AJAX calls for the LDS. Precisely I am finding decent ways to proceed with the integration
+       process, which seems a little difficult as of now.
+     - Testing of the new and old both AJAX calls were done.
+     - Still trying to fix the bug related to access to server routes, discussed this issue in the morning with our mentor and Tirumal sir. 
 * Month of July

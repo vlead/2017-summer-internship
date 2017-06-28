@@ -41,8 +41,33 @@
    	1. Know your project completely before doing anything.
    	2. Discuss with mentor before doing anything as to what is it and how it should be done.
    	2nd part of the day was spent is completing the merge sort design as well as completing all the documentation.
+   ** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   
    + [2017-06-12 Mon]- Design part was done and coding also complete of merge sort. Faced some difficulties in placing html elements in form of a binary tree. Tried a few techniques but was not able to find a concrete solution. Will be able to complete it by today night. Solved the problem of placement and working js. Now only Animation and some minor modifications to the html have to be made along with buttons.
    
    + [2017-06-13 Tue]- Completed the code and proper orientation of all the arrays along with the buttons required.Later bootstrap was added so as to make the page look better.  Now only things left is including input buttons and adding arrows and animation using p5 or d3 which will help the merge sort html to look beautiful and meaningful. 
    
    + [2017-06-14 Wed]- Continued working on merge-sort module and placed the input as well as sort buttons. But when tried to generate lines using d3 - faced a lot of errors as the exact coordinates were not available so had to look out for resources but could not find a satisfying one. Dropped the idea of using arrows and went for the idea of writing split and merge. Placed split at the proper location  which finally gave a complete working code.Had a discussion with professor chopella.He suggested to use inbuilt libraries for tree formation . Will look for these today and complete documentation about the written code in literate programming.
+   
+   + [2017-06-15 Thu]- Studied d3 again and found a way to add arrows to the html . It took sometime as i had to figure out the coordinates of the html elements ad sync them as they depend upon the number of elements to be sorted. Finally completed and had a discussion with chopella sir. He said we have to make a more interactive desing and capture the idea of the blackbox . So went through some of the libaries that can genetae trees and then we can just draw some boxes around them . Will try to make a interactive design by monday so that i could start working on the next milestone.   
+   
+   + [2017-06-16 Fri]- First half of the day was spent in preparation and giving the presentation . Take outs from the presentation were -
+   1. 2 members would join me for further work on ds lab.
+   2. all the experiments have to be converted .
+   3. The design is good but would have to be further improved to capture the whole idea.
+   Later half was spent in redesigning the whole thing and ended with the amazing talk by Bret victor by the name "Media for thinking the unthinkable"
+   
+   ** Week 4 [2017-06-19 Mon] till [2017-06-25 Fri]
+   
+   + [2017-06-19 Mon] - Had a discussion with chopella sir about the further incorporation of this design . He wanted a better object oriented design . So he gave me a rough design of the experiment again for which i had to code the complete thing again . So i began the coding part but i was facing some difficulties in placing the divs. But finalyy the crude design is ready.
+   
+   + [2017-06-20 Tue] - I continued working on the design and coding part. Was finally able to complete it and went to chopella sir for his aproval. His advice was to add some arrows and make it better in terms of visuals. But i struggled a lot beacuse it becomes harder to add arrows across divs. Later in the day i had a discussion with thiruval sir regarding the writing of the code in literate manner. Further had some discussions with sripathi regarding how to write the code in literate way. Will start working on this tomorrow.
+   
+   + [2017-06-21 Wed] - Learnt how to document the code in the specified way using literate programming. COnevrted one of my experiments into the build and all. Then improved my design of the previous two experiments using some borders and css stuff. Exp2 required somewhat more modifications due to difficulty in placement. Further learnt about some of the collapsible trees and stuff based on d3. Will try to understand one of the codes and start working on building the app using this method. Might take some time as it quite heavy to build.
+   Also had a discussion with Arjun Sanjeev reagrding his ongoing project.
+	
+   + [2017-06-22 Thu] - In the morning tried to understand the collapsible tree program . But suddenly found this amazing library DAGRE.js(based on d3) which was the complete solution to my problem. tried to read one of the demoes . iT was simple, elegant and worked great. Had to download some packages from  the net which took some time. After that experimented around the code and finally started working on making the final draft. Till evening was finally able to build a working and stable mere sort experiment.Will document it for tomorrow's presentation.
+   + [2017-06-22 Thu] - Continued working on the documentation of both the previosuly made expermients and converted them into literate programming . Continued working on the final draft of the experiment and found some bugs. Tried to solve the bugs and few still remain.
+   Had a discussion with chopella sir-
+   1. Add the graphs and notations for counting no. of steps taken for a single run and plotting them for different data sizes.
+   

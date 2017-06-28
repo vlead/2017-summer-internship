@@ -11,7 +11,7 @@
   at VLEAD, IIIT Hyderabad
 
 
-
+  
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-02 Fri]
    + [2017-06-01 Thu] - Worked on setting up development environment. Discussed
@@ -88,9 +88,56 @@
      flow. Figured out how to run both example servers(was proxy issue) and was
      able to run them once. However currently unable to replicate results so
      will work on that tomorrow.
-   + [2016-06-15 Thurs] - Figured out how to run the example severs multiple
+   + [2017-06-15 Thurs] - Figured out how to run the example severs multiple
      times(issue with logout, has been documented). Worked on further
      documentation of things done so far, creating diagrams and explanations.
+   + [2017-06-16 Fri] - Presented my findings. Had a meeting with Chopella Sir,
+     Akash, and Thirumal Sir. We discussed alternative ideas in my project like
+     outsourcing the authentication server to some provider. Will clarify
+     scope(possibly new) on Monday.
   
+** Week 4 [2017-06-19 Mon] till [2017-06-13 Fri]
+   + [2017-06-19 Mon] - Was reading through Flask Oauthlib to see documentation
+     of the library and start implementing the authentication server. Then had
+     a long meeting with Chopella Sir, Thirumal Sir,Akash, and Maruthi Sir to
+     determine the use of creating our authentication server. Current
+     conclusion stands at using Google's free registration of client
+     applications to register our services and try to create the triangle
+     structure discussed. Have looked through developer's console given by
+     google which allows authentication of users(i think). Need to look for the
+     services equivalent of this.
+   + [2017-06-20 Tue] - Went through the LDS dashboard documentation. Also went
+     through google oauth documentation to see requirements to register an
+     application with their services(LDS had some documentation but it wasn't
+     sufficient). Will register some applications tomorrow and start building
+     the cluster. Was still not able to find proper documentation on
+     registering service.
+   + [2017-06-21 Wed] - Went through documentation for google's oauth. Also
+     registered an app but functionality issues persist. Went through Chapter 9
+     of book on microservices and created notes for it. Evaluated different
+     proposals given in it. The book and the notes are listed as a closed issue
+     in this repo.
+   + [2017-06-22 Thurs] - Tried registering applications on google. Encountered
+     some issues. Tried to install the lds dashboard but again encountered
+     errors. Researching into google service accounts: current conclusions are
+     that they can be used for server-server interactions between google and us
+     but not between two of our accounts. Even the specified interactions do
+     not meet our requirements.
+   + [2017-06-23 Fri] - Did not work on authentication today. Worked on
+     evaluating different publishing tools. Went through olabs(Amrita), to try
+     and see how they have created their own labs. Looked at other examples
+     like nicely made animations by colorado state university. Will try to
+     reach out to the makers of the animations. Also experimented with GDevelop
+     software used to make games. Created a simple game which shows that things
+     created using this software can be easily integrated with the
+     browser. Further scaling needs to be looked at it.
+
      
-   
+** Week 5 [2017-06-27 Tue] till [2017-06-30 Fri]
+   + [2017-06-27 Tue] - Project is officially now to work on lab authoring
+     tools. Created and configured the new repository with norms. Looked
+     through different tools online notably: Molecular Workbench, PHET, CMU's
+     virtual lab. Wrote about Molecular Workbench and its potential. JNLP seems
+     to be a viable solution for other issues encountered. Discussed
+     programming model for creating the tools and potential to collaborate with
+     those working on conversion of flash labs to javascript.

@@ -59,4 +59,25 @@
    - Made classes more flexible.
   + [2017-06-14 Wed to 2017-06-15 Fri]
     - Documenting the work done by me till now.
-    - Writing tests for RESTful API
+    - TODO Writing tests for RESTful API
+  + [2017-06-16 Sat]
+    - Meeting with Sai Sir on Saturday to discuss about proposed semantic markup model.
+    - Discussed about architecture of such model and use cases
+    - Met Sai sir and finalized my task for this week.
+** Week 4 [2017-06-19 Mon] till [2017-06-24 Sat]
+  + [2017-06-19 Mon] 
+    - I have to create a renderer which can perform transformations on DOM level, that is node level or element level.
+    - I am required to make a system using which a user could attach different action to a specific DOM element and store them in sequence. So that it can be applied in sequence when retreived.
+    - Wrote some inital docs regarding the implementation details.
+    - I found this task very similar to features implemented in annolet and I can use that code here also.
+  + [2017-06-20 Tue] - [2017-06-21 Wed]
+    - New task assigned. Have to build a renderer for rendering Javascript binded with specific DOM elements. I am calling it =DOM-Manip= project.
+    - Did some research and found out that I can use Annolet functions here.
+    - Gone through webapp short course on recommandation of Venkatesh sir.
+    - Created literate doc structure.
+    - Converting earlier work into literate docs.
++ [2017-06-22 Thur]
+    - setup literate docs for code review.
+    - met Sai sir to discuss and clear doubts regarding current task of DOM manipulation.
+    - met Saumya mam to clear doubts regarding literate docs and makefile.
+    - created docs by following the web app short course.

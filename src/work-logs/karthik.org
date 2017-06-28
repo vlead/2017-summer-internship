@@ -8,7 +8,29 @@
 
 * Introduction
   This document hols the time sheets for my work during the summer internship
-  at VLEAD, IIIT Hyderabad
+  at VLEAD, IIIT Hyderabad.
+  * Month of May
+** Week 1 [2017-05-10 Wed] till [2017-05-14 Sun]
+   + [2017-05-10 Wed] - Configured laptop as per the requirement for work environment.We were given material to study different languages required throughout the internship period.Started learning with racket language.Installed racket and studied the material for today
+   + [2017-05-11 Thurs] - Learned racket and started doing assignment-1 and Completed the assignment
+   + [2017-05-12 Fri] - Started Learning javascript and practised some programs in w3schools website
+** Week 2 [2017-05-15 Mon] till [2017-05-21 Sun]
+   + [2017-05-15 Mon] - Started and Completed Doing assignment-1.Went deep into strings concept and in-built functions to retrive required information from strings.All the test-cases were satisfying 
+   + [2017-05-16 Tues] - Started and Completed doing assignment-2.Learned array concepts completely.Test-cases satisfied
+   + [2017-05-17 Wed] - Started and Completed doing assignment-3.Workedout with prakash as the concept required for this is bit confusing.Classes and methods are some confusing topics
+   + [2017-05-18 Thurs]- Didn't understand assignment-4 of javascript so we moved on to python and learned python basics and some test-cases etc
+   + [2017-05-19 Fri] - Absent
+** Week 3 [2017-05-22 Mon] till [2017-05-28 Sun]
+   + [2017-05-22 Mon] - Absent
+   + [2017-05-23 Tues] - Reinstalled my machine with ubuntu as the OS crashed hard disk and hard-disk became completely empty.Clarified some doubts in python with prakash sir.
+   + [2017-05-24 Wed] - Absent
+   + [2017-05-25 Thurs] - Installed Emacs and learned how to write .org files and started to work on Automation of cluster.Mentored by siva sir
+   + [2017-05-26 Fri] - Started learning Ansible-playbook and started Automating the initial step - Bridging
+   
+** Week 4 [2017-05-29 Mon] till [2017-05-31 Wed]
+   + [2017-05-29 Mon] - Resolved some issues while bridging network.Completed automation of bridge network part.Pushed to github link is mentioned below.Bridge part is in basesetup in src/roles directory
+   + [2017-05-30 Tues] - Automated installing openvz part but there is some trouble for installing proxy in ansible while installing git 
+   + [2017-05-31 Wed] - Resolved issue of proxy by using environment module in ansible.Finally completed the openvz installation and automation of it 
 
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
@@ -30,9 +52,15 @@
 + [2017-06-13 Tue] - Started working on elkstack and configured filebeat.Working on giving bulkdata to kibana using elasticsearch database and generating graphs.
 
 + [2017-06-14 Wed] - Working on logstashplugins which automatically takes logs from syslogs and convert them into json format and export to elasticsearch  which is connected kibana.
-+ [2017-06-15 Thu] - Wrote a filter for configuring logstash which takes logs directly and give it to elasticsearch.There were some errors in data insertion to elasticserch.working to solve those errors
++ [2017-06-15 Thu] - Wrote a filter for configuring logstash which takes logs directly and give it to elasticsearch.There were some errors in data insertion to elasticserch.working to solve those errors.
 
++ [2017-06-16 Fri] -  Presentation of the progress made last week.Later in the evening we had a tech talk presentation by Brit Victor.
 
++ [2017-06-19 Mon] - Working on filebeats and logstash filters. Solved some errors while giving data to elasticsearch from kibana.
++ [2017-06-21 Wed] - Able to push some logfiles into kibana using logstash filters but unable to convert the logfiles into json format and push it to elasticsearch.
++ [2017-06-22 Thur] - Tried solving the errors which I have got the previous day using filebeats and LOgstash input plugin exec.
++ [2017-06-23 Fri] - Installed and started Using the nmon Tool for Monitoring Systems Performance. Read about the nmon tool and how to extract logs and stats into a new csv file.
 
-* Month of July
++ [2017-06-27 Mon] - Visualized the logs of the logs of the sysytem using nmon and generated graphs. Converted .nmon file to .html format using nmonchart and generated graphs using nmon. 
+ Month of July
 

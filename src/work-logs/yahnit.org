@@ -10,6 +10,7 @@
   This document hols the time sheets for my work during the summer internship
   at VLEAD, IIIT Hyderabad
 
+
 * Month of June
 ** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
    + [2017-06-01 Thu] - 
@@ -135,6 +136,82 @@ specifications for the add-user container. I and Thirumal sir
 sat and discussed on how to decode the json file and we 
 have decided on an alogorithm to decode the json spec file.
 I then wrote a javascript function to decode the JSON and render into html.
+
++[2017-06-16 Fri]
+
+We made a slight change to the function do decode the JSON file.
+We had used a reccursive approach , basically its like a tree.
+Then we had project presentation from 11-1.30. Later, i wrote
+the JSON specifications for all the other CRUD operations also,
+Add role, Edir User,Delete User,Delete Role,Show Roles and Users.
+And then we had a Tech talk.
+
+
+
+
+
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+
++[2017-06-19 Mon]
+
+I started writing event handlers for the frontend of CRUD operations.
+I have written the event handlers for Add user and Add role operations.
+Based on a JSON object,the html is displayed.To perform the operations
+i used AJAX calls and based on the response from the server side,i 
+have generated specific messages.
+
++[2017-06-20 Tue]
+
+We are done with login-logout. When a User is not logged in,the LOGIN
+button is shown and when the user is logges in,LOGOUT button is shown.
+We have integrated the handlers of Add User and Add role. While adding
+a user,initially we provided a text box,but we have placed a dropdown
+box so that the admin can choose from the available roles. We have
+now taken our JSON spec object and generated HTML based on the JSOn file.
+
++[2017-06-21 Wed]
+
+All the necessary event handlers have been written.We are now done 
+with all the CRUD operations.We have created a JSON file with which 
+creates necessaty form and displays.All the operations are working 
+well.We were hiding and displaying things based on the
+operations without any routing. We have been adviced to use hash
+routing, so we started implementing hash routing.
+
++[2017-06-22 Thu]
+
+We worked on integrating backend and frontend.We have linked the
+event handlers with the functions.Later in the standup, we have
+made some changes on the behavior of the frontend.Thirumal sir
+has given a specification of how show-users,show-roles,add-user,
+add-role should look.We have worked on those specifications.
+We were alomost done with the front end of USER and ROLES.
+Only a very few minor changes were left. Documenatation of
+the frontend was also done.we have pushed the code to git. 
+
++[2017-06-23 Fri]
+
+We have implemented complete frontend for the CRUD operations
+of User and Roles.We have faced an issue with update and 
+delete buttons. Even though we deleted the buttons, the
+event handlers were not getting dettached from the buttons.
+We struggled a lot on this issue. Later, Thirumal Sir
+has joined us and after a long effort we could fix that issue.
+we have then pushed our code into the org files and documentation
+was written.
+
+
+** Week 5 [2017-06-27 Tue] till [2017-07-02 Sun]
+
++[2017-06-27 Tue]
+
+A part of Documentation was changed , we have written in more detail
+as suggested by Thirumal Sir.For each and very piece of code we have
+started wrotong description in detail. However we could do only for 
+4 pieces of code.I then worked on writing frontend for the LDS dashboard.
+Added some event listeners and also placed dropdowns for assets,developers,
+etc which will be used while adding a lab or experiment.I have tested whether
+the dropdowns were being populated properly or not.
 
 
 * Month of July
