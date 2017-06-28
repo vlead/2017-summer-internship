@@ -77,9 +77,9 @@
    + [2017-06-27 Tue] - I had taken on a leave on this day on the pretext of visiting my hometown for the long weekend.Leave request was duly submitted to my mentor.
    
    + [2017-06-28 Wed] - Starting converted the final experiment into literate documentation and adding comments so at the narrate the code in a much better way. Started working on coverting quick sort also to this kind of notation . But faced some bugs in the process. Will try to formulate a stable design and start working on javascript tomorrow. updated all the work-log and went to my mentor for approval and had a small discussion with him. His suggestions-
-   	1. See the already built ds-lab.
-	2. Convert the amjor algorithms into the format.
-	3. Try to explain using compare and swap analogy.
+   	1. See the already built ds-lab
+	2. Convert the amjor algorithms into the format
+	3. Try to explain using compare and swap analogy
    
    
 		
