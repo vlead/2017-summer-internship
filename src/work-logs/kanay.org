@@ -67,7 +67,7 @@
    Also had a discussion with Arjun Sanjeev reagrding his ongoing project.
 	
    + [2017-06-22 Thu] - In the morning tried to understand the collapsible tree program . But suddenly found this amazing library DAGRE.js(based on d3) which was the complete solution to my problem. tried to read one of the demoes . iT was simple, elegant and worked great. Had to download some packages from  the net which took some time. After that experimented around the code and finally started working on making the final draft. Till evening was finally able to build a working and stable mere sort experiment.Will document it for tomorrow's presentation.
-   + [2017-06-22 Thu] - Continued working on the documentation of both the previosuly made expermients and converted them into literate programming . Continued working on the final draft of the experiment and found some bugs. Tried to solve the bugs and few still remain.
+   + [2017-06-23 Fri] - Continued working on the documentation of both the previosuly made expermients and converted them into literate programming . Continued working on the final draft of the experiment and found some bugs. Tried to solve the bugs and few still remain.
    Had a discussion with chopella sir-
    1. Add the graphs and notations for counting no. of steps taken for a single run and plotting them for different data sizes.
    
