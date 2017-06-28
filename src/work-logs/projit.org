@@ -131,7 +131,6 @@
      software used to make games. Created a simple game which shows that things
      created using this software can be easily integrated with the
      browser. Further scaling needs to be looked at it.
-
      
 ** Week 5 [2017-06-27 Tue] till [2017-06-30 Fri]
    + [2017-06-27 Tue] - Project is officially now to work on lab authoring
@@ -141,3 +140,12 @@
      to be a viable solution for other issues encountered. Discussed
      programming model for creating the tools and potential to collaborate with
      those working on conversion of flash labs to javascript.
+   + [2017-06-28 Wed] - Worked on creating documentation of findings so
+     far. Documented yesterday's meeting, set requirements for the
+     project. Looked further through Molecular Workbench and viability,
+     documenting findings as I go. Had a meeting with Maruthi Sir about oauth
+     and lab authoring tools. He gave many different resources to look at. We
+     also clarified our end goals of the project. His thought process was
+     towards making very elegant simulations that could be used almost at a
+     professional level. We should check places from where we could source our
+     experiments as high quality ones are available online.
