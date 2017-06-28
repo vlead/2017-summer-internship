@@ -184,5 +184,16 @@
      - Here are the links to the updated literate-codes
        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
- 
+   
+   + [2017-07-28 Wed]
+     - Continued working on converting the script =build.sh= into org-mode
+     - Completed the build.org file 
+       - Link to the build.org file is :- [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
+     - Started working on converting the backend-code of linux-lab into python
+       - As a part of this, I am learning PHP to understand the code. So, to convert it to python.
+       - Began reading the code and expirements involved in linux-lab.
+     - Gathered some resources related to learning linux
+       - Resources are from course =ITWS-1= 
+       - Some of these are reading material
+       - Questions related to command line basics etc.
 * Month of  July

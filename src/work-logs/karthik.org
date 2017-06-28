@@ -60,5 +60,7 @@
 + [2017-06-21 Wed] - Able to push some logfiles into kibana using logstash filters but unable to convert the logfiles into json format and push it to elasticsearch.
 + [2017-06-22 Thur] - Tried solving the errors which I have got the previous day using filebeats and LOgstash input plugin exec.
 + [2017-06-23 Fri] - Installed and started Using the nmon Tool for Monitoring Systems Performance. Read about the nmon tool and how to extract logs and stats into a new csv file.
-* Month of July
+
++ [2017-06-27 Mon] - Visualized the logs of the logs of the sysytem using nmon and generated graphs. Converted .nmon file to .html format using nmonchart and generated graphs using nmon. 
+ Month of July
 

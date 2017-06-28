@@ -60,3 +60,4 @@
    + [2017-06-23 Fri] - Started Writing test casees for experimen of lab "physical-chemistry-iiith". Also fixed some bug in experiments. Read about library "velocityJs" more on web.
 ** Week 5 [2017-06-26 Mon] till [2017-06-02 Sun]
    + [2017-06-27 Tue] - Started Experiment of lab colloid-surface-chemistry-iiith. Also completed writing test cases. And discussed about new lab kind of gaming engine.
+   + [2017-06-27 Tue] - Continued my work on experiment-7 of lab  colloid-surface-chemistry-iiith. Fixed some bugs/errors in preious experiments.
