@@ -192,8 +192,8 @@
      - Started working on converting the backend-code of linux-lab into python
        - As a part of this, I am learning PHP to understand the code. So, to convert it to python.
        - Began reading the code and expirements involved in linux-lab.
-       - Gathered some resources related to learning linux
-         - Resources are from course =ITWS-1= 
-	 - Some of these are reading material
-	 - Questions related to command line basics etc.
+     - Gathered some resources related to learning linux
+       - Resources are from course =ITWS-1= 
+       - Some of these are reading material
+       - Questions related to command line basics etc.
 * Month of  July
