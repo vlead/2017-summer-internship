@@ -76,8 +76,26 @@
     - Gone through webapp short course on recommandation of Venkatesh sir.
     - Created literate doc structure.
     - Converting earlier work into literate docs.
-+ [2017-06-22 Thur]
++ [2017-06-22 Thur]->[2017-06-23 Fri]
     - setup literate docs for code review.
     - met Sai sir to discuss and clear doubts regarding current task of DOM manipulation.
     - met Saumya mam to clear doubts regarding literate docs and makefile.
     - created docs by following the web app short course.
+** Week 5 [2017-06-26 Mon] till [2017-06-30 Sat]
+  +[2017-06-27 Tue]->[2017-06-28 Wed]
+    - Met Sai sir, discussed idea of DOM manipulation.
+      - discussed about creating a DOM from elements given by a user.
+      - Making a renderer which is generic in nature unlike present =sss-renderer= which focuses on NPTEL.
+      - discussed about the research paper on DOM manipulation.
+      - Introduced me to [[http://visualdataweb.de/webvowl/][WebVOWL]] which could be used to vizualize ontologies. Such as showing GATE exam syllabus. If done, we can think about publishing a paper in conference called [[http://www.mike.org.in/2017/][MIKE 2017]] which is about knowledge engineering.
+    - Faced issue in sending request to REST API using python server hosted on other port.
+      - Solved: Talked to Sripathi sir. He figured that our team was hosting servers on =127.0.0.1= which is not a public IP and hence cannot be reached via a other server. Changed IP to =0.0.0.0= which is a public IP and things worked fine.
+    - Debugged =sss-renderer= code. Proper JSON document format was not followed as declared in =SSS-Format= doc.
+    - By end of Tuesday, =sss-store= and =sss-renderer= were integrated partially with few bugs which were solved on Wednesday by Sadhana V..
+  - Integration with =sss-maker= still remaining.
+  - Started writing test-cases for =sss-store= using ~unittest~ package.
+  - Got access to base4 machine. Setting up =sss-store= API server on =sss-persistence= container.
+  - Potential issue: mongodb cloud may create error when while sending requests to it from base4 machine.
+  - will try to setup mongodb instance inside =sss-persistence= container.
+  - created issue on gitlab regarding deployment of gaurds and filters in =sss-persistence= repo.
+  - created issue on gitlab regarding writing test cases in =sss-persistence= repo.

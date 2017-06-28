@@ -41,6 +41,8 @@
    	1. Know your project completely before doing anything.
    	2. Discuss with mentor before doing anything as to what is it and how it should be done.
    	2nd part of the day was spent is completing the merge sort design as well as completing all the documentation.
+   ** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
+   
    + [2017-06-12 Mon]- Design part was done and coding also complete of merge sort. Faced some difficulties in placing html elements in form of a binary tree. Tried a few techniques but was not able to find a concrete solution. Will be able to complete it by today night. Solved the problem of placement and working js. Now only Animation and some minor modifications to the html have to be made along with buttons.
    
    + [2017-06-13 Tue]- Completed the code and proper orientation of all the arrays along with the buttons required.Later bootstrap was added so as to make the page look better.  Now only things left is including input buttons and adding arrows and animation using p5 or d3 which will help the merge sort html to look beautiful and meaningful. 
@@ -55,14 +57,28 @@
    3. The design is good but would have to be further improved to capture the whole idea.
    Later half was spent in redesigning the whole thing and ended with the amazing talk by Bret victor by the name "Media for thinking the unthinkable"
    
-   ** Week 3 [2017-06-19 Mon] till [2017-06-23 Fri]
+   ** Week 4 [2017-06-19 Mon] till [2017-06-25 Fri]
    
    + [2017-06-19 Mon] - Had a discussion with chopella sir about the further incorporation of this design . He wanted a better object oriented design . So he gave me a rough design of the experiment again for which i had to code the complete thing again . So i began the coding part but i was facing some difficulties in placing the divs. But finalyy the crude design is ready.
    
-   + [2017-06-19 Tue] - I continued working on the design and coding part. Was finally able to complete it and went to chopella sir for his aproval. His advice was to add some arrows and make it better in terms of visuals. But i struggled a lot beacuse it becomes harder to add arrows across divs. Later in the day i had a discussion with thiruval sir regarding the writing of the code in literate manner. Further had some discussions with sripathi regarding how to write the code in literate way. Will start working on this tomorrow.
+   + [2017-06-20 Tue] - I continued working on the design and coding part. Was finally able to complete it and went to chopella sir for his aproval. His advice was to add some arrows and make it better in terms of visuals. But i struggled a lot beacuse it becomes harder to add arrows across divs. Later in the day i had a discussion with thiruval sir regarding the writing of the code in literate manner. Further had some discussions with sripathi regarding how to write the code in literate way. Will start working on this tomorrow.
    
-   + [2017-06-20 Wed] - Learnt how to document the code in the specified way using literate programming. COnevrted one of my experiments into the build and all. Then improved my design of the previous two experiments using some borders and css stuff. Exp2 required somewhat more modifications due to difficulty in placement. Further learnt about some of the collapsible trees and stuff based on d3. Will try to understand one of the codes and start working on building the app using this method. Might take some time as it quite heavy to build.
+   + [2017-06-21 Wed] - Learnt how to document the code in the specified way using literate programming. COnevrted one of my experiments into the build and all. Then improved my design of the previous two experiments using some borders and css stuff. Exp2 required somewhat more modifications due to difficulty in placement. Further learnt about some of the collapsible trees and stuff based on d3. Will try to understand one of the codes and start working on building the app using this method. Might take some time as it quite heavy to build.
    Also had a discussion with Arjun Sanjeev reagrding his ongoing project.
 	
-   + [2017-06-21 Thu] - In the morning tried to understand the collapsible tree program . But suddenly found this amazing library DAGRE.js(based on d3) which was the complete solution to my problem. tried to read one of the demoes . iT was simple, elegant and worked great. Had to download some packages from  the net which took some time. After that experimented around the code and finally started working on making the final draft. Till evening was finally able to build a working and stable mere sort experiment.Will document it for tomorrow's presentation.
+   + [2017-06-22 Thu] - In the morning tried to understand the collapsible tree program . But suddenly found this amazing library DAGRE.js(based on d3) which was the complete solution to my problem. tried to read one of the demoes . iT was simple, elegant and worked great. Had to download some packages from  the net which took some time. After that experimented around the code and finally started working on making the final draft. Till evening was finally able to build a working and stable mere sort experiment.Will document it for tomorrow's presentation.
+   + [2017-06-23 Fri] - Continued working on the documentation of both the previosuly made expermients and converted them into literate programming . Continued working on the final draft of the experiment and found some bugs. Tried to solve the bugs and few still remain.
+  	 Had a discussion with chopella sir-
+	   	1. Add the graphs and notations for counting no. of steps taken for a single run and plotting them for 			different data sizes.
+		
+   ** Week 5 [2017-06-26 Mon] till [2017-06-30 Fri]
+   + [2017-06-26 Mon] - Eid-ul-fitr holiday
+   
+   + [2017-06-27 Tue] - I had taken on a leave on this day on the pretext of visiting my hometown for the long weekend.Leave request was duly submitted to my mentor.
+   
+   + [2017-06-28 Wed] - Starting converted the final experiment into literate documentation and adding comments so at the narrate the code in a much better way. Started working on coverting quick sort also to this kind of notation . But faced some bugs in the process. Will try to formulate a stable design and start working on javascript tomorrow. updated all the work-log and went to my mentor for approval and had a small discussion with him. His suggestions-
+   	1 See the already built ds-lab.	2 Convert the major algorithms into the format.	3 Try to explain using compare and swap analogy.
+   
+   
+		
    
