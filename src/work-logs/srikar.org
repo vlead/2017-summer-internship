@@ -36,7 +36,7 @@ with the project mentor about my allotted project. Read about continuous integra
 
 [2017-06-12 Mon] We finished the work of the first milestone and no new work was assigned. I watched tutorials to configure Jenkins to have a deeper understanding on the CI tool. I looked into the CI tool used by Microsoft, and we decided it isn't very suitable to our needs
 
-[2017-06-13 Tue] In the morning we had a meeting with Thriumal sir and Lalith sir. We discussed the auto-deployement of the Jenkins server. Later issues were raised on the repository. I started working on setting up the environment on a Ubuntu 12.04 server. There were issues with various commands as they weren't operational in older versions of Ubuntu. I also made a document which upon using in the ADS, automatically starts and deploys the jenkins server. There were some issues with Apache and Ports for which I'll take Sripathi sir's help.
+[2017-06-13 Tue] In the morning we had a meeting with Thriumal sir and Lalith sir. We discussed the auto-deployement of the Jenkins server. Later issues were raised on the repository. I started working on setting up the envirWonment on a Ubuntu 12.04 server. There were issues with various commands as they weren't operational in older versions of Ubuntu. I also made a document which upon using in the ADS, automatically starts and deploys the jenkins server. There were some issues with Apache and Ports for which I'll take Sripathi sir's help.
 
 [2017-06-14 Wed] Spoke to Thirumal sir and updated him on the progress we've made so far. I started working on resolving the apache and port issues on Ubuntu 12.04 and read that a few packages necessary aren't supported in 12.04. Made a json file which sets up the environment and jenkins automatically when deployed using ADS.
 
@@ -44,7 +44,7 @@ with the project mentor about my allotted project. Read about continuous integra
 
 [2017-06-16 Fri] We had our weekly presentation, our progress and the next stages of the project were presented. All the suggestions were duly noted. The template required with emacs was created. All the pre-requisites for ADS were complete
 
-** Week 4 [2017-06-19 Mon] till [2017-06-23 Fri]
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
 
 [2017-06-19 Mon] The ADS was deployed, there were issues with the connection and a few commands weren't working properly every time. The issues were resolved and Jenkins was succesfully auto-deployed. The configuration process has been started, it will be complete very soon. Then connecting Jenkins to the doc server using ssh will be done.
 
@@ -53,6 +53,17 @@ with the project mentor about my allotted project. Read about continuous integra
 [2017-06-21 Wed] We discussed the scope of the project with Maruthi sir and with Thirumal sir and started working on the CI tool.
 The design for the new process of continuous integration was made and uploaded onto the design folder. The functionality of recognising a change made to the repository was implemented using webhooks.
 
-[2017-06-22 Tue] We discussed the course, I started working on using gunicorn and nginx over flask. There were various errors with the gunicorn deployement, I could resolve most of them and took Thirumal sir's help for a few, and finally could succesfully get gunicorn to work on top of flask. Work on nginx has begun and it'll be done soon.
+[2017-06-22 Thu] We discussed the course, I started working on using gunicorn and nginx over flask. There were various errors with the gunicorn deployement, I could resolve most of them and took Thirumal sir's help for a few, and finally could succesfully get gunicorn to work on top of flask. Work on nginx has begun and it'll be done soon.
+
+[2017-06-23 Fri] Deployed the flask app succesfully on my local machine using gunicorn and nginx. There were issues with getting it to work on the port 80, they were resolved and it worked. Started working on trying to deploy flask on a container in the base4 server. Wrote a small program to explore deployment, got Hello World to work using gunicorn and flask on the container.
+
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun]
+
+[2017-06-26 Mon] Holiday
+
+[2017-06-27 Tue] Leave
+
+[2017-06-28 Wed] Started working on the process of deploying the flask app using ADS, started working on a labspec file to deploy it on ADS automatically. Started trying to configure the ci app using gunicorn and nginx on a container on the base4 server.
+
 
 * Month of July
