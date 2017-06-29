@@ -139,4 +139,11 @@
        stand the parser engine demonstrated in the paper,
        as well as to make a demonstration tool to explain the 
        paper.
+   + [2017-06-28 Wed]
+     - Leave
+   + [2017-06-29 Thu]
+     - Worked on completing web-app-haskell according to web-app-short-course
+       requirements
+     - Built a working dependency parser (that parses a small subset of English
+       sentences)
 * Month of July
