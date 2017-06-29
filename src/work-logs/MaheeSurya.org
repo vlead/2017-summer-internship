@@ -63,3 +63,42 @@
    + [2017-06-15 Thu] - Working on the conversion of Experiment-5 of
      Colloid-and-Surface-Chemistry lab. Unable to use CreateJS. Rolling back to
      previous method. Need two more days to complete the conversion.
+   + [2017-06-16 Fri] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Completed around 30% of the conversion.
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+   + [2017-06-19 Mon] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab.Completed 50% of the conversion. Watched
+     some tutorials on Velocity.js. Will complete the converion by
+     Wednesday. I'm planning to use web-workers for multi-threading in
+     JavaScript. So, I'm planning to convert a small experiment of
+     Physical-Chemistry lab by using this concept. As I don't know much about
+     the Web-Worker idea, I might fail in my attempt. So, I'm choosing a short
+     experiment as even if I fail the experiment will be completed within the
+     time. 
+   + [2017-06-20 Tue] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Completed 60% of the conversion. Stuck
+     at the issue of simulating torch light. Will try to find a solution for
+     the issue by tomorrow.
+   + [2017-06-21 Wed] - On leave.
+   + [2017-06-22 Thu] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Completed 90% of the conversion. Will
+     complete the rest of the experiment and test cases by tonight. The
+     conversion will be ready for presentation by tomorrow.
+   + [2017-06-23 Fri] - Completed the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Need to update the documentary and make
+     a good org file. Might take one day.
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun] 
+   + [2017-06-27 Tue] - Working on the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Converting images to animated GIF
+     format. Built an outline of the HTML page.
+     
+
+Approved - Lalit Mohan    
+   + [2017-06-28 Wed] - Working on the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Watched some tutorials on HTML5,CSS3
+     etc. Found that Web-Workers do not support keywords like
+     'parent','window','document' etc. Moving images without using 'document'
+     keyword is not possible. Hence, abondoning the idea of using web-workers
+     for the conversion. Due to lack of images reqiured for conversion, it
+     might take a day longer than intended for the conversion. Will try to get
+     it working by Friday.

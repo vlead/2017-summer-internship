@@ -74,7 +74,7 @@
    + Weekly Presentation.
    + Researched about Multimedia Database Management System (MMDBMS) as we
      needed to store the resources.
-** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
 *** [2017-06-12 Mon]
     + Researched about MMDBMS (Multimedia Database Management System) to store
       resources.
@@ -88,4 +88,48 @@
 *** [2017-06-14 Wed]
     + Resolved the bugs in the app (Resource Generator Microservice).
     + Started writing tests for the functions in the app.
-* Month of July
+
+*** [2017-06-15 Thu]
+    + Worked on Resource Generator. Fixed some more bugs.
+    + Completed writing tests for the functions in the app.
+
+*** [2017-06-16 Fri]
+    + Gave demo of the Resource Generator and Translator.
+    + Set milestones for the next week with our mentor.
+
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+*** [2017-06-19 Mon]
+    + Created the =/update_experiment= API in translator service so that one can
+      update the specs of an experiment.
+    + Updated the generation of README.org
+
+*** [2017-06-20 Tue]
+    + Merged the =/update_experiment= with the =/create_experiment=. Now
+      =/create_experiment= can update an experiment if the experiment already
+      exists.
+    + Started building the resources for an existing experiment, Numerical Approximations.
+    + The resource files are ready except =simulation= section.
+
+*** [2017-06-21 Wed]
+    + Made the =simulation= resources.
+    + Created the =makefile= so that the =make= command can build all the
+      resources using =literate-tools=.
+    + Discussed the UI of the experiment with mentors.
+
+*** [2017-06-22 Thu]
+    + Changed the =translators= micro-service so that it can produce a similar
+      structure to the one dicussed yesterday.
+    + Now the =translator= also adds a README.org, init.sh and makefile so that
+      one can build the resources.
+    + Discussed about the =Content Server= micro-service.
+
+*** [2017-06-23 Fri]
+    + Weekly Presentation (Code Review)
+    + Discussed about the changes that we need to bring in.
+    + Started on writing narrations for the code that we have written as a part
+      of literate programming.
+
+** Week 4 [2017-06-26 Mon] till [2017-06-30 Fri]
+*** [2017-06-20 Tue]
+    + Took a leave.
+    + Finished writing narrations for the codes.

@@ -57,5 +57,90 @@
 
 	  	       - In the evening we talked again with both of our mentors and discussed about various topics Like:argby (Alloy extension for Ruby),Program Synthesis,SDN,Use of alloy for the Cluster Networkds in VLEAD.
 
+   + [2017-06-16 Fri] - Made a Presentatation for the weekly work done.Added images and various other points in a folder called the presentation.org
+     
+                      - Had a very useful talk with Venkatesh Sir and Thirumal Sir about the future of Alloy Modelling and its various applications like  
+			Program Synthesis,merging with Haskell Project and Alloy model for practical purposes like the OutReach Portal or Cluster 
+   			
+
+
+
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+
+   + [2017-06-19 Mon] - Started on making a better Alloy model for the web-app-short-course which also has session.
+
+   		      - Added Session to various fields such as state and various predicates such as addUser,deleteUser and showUser.
+
+		      - A new factor (adder,deleter) was added to these predicates to show who added or deleted the User in our model.
+
+		      - Meet with Venkatesh Sir and Thirumal Sir about the various application of modelling which can be:
+			1. Using the model for more pratical cases like the OutReach Portal
+			2. Using the model to check the security protocals 
+			3. Making a model for the AWS cluster of VLEAD
+   
+   + [2017-06-20 Tue] - Together with Anirudh made some fixes in our web-app-short-course model and added login and logout.
+
+    	              - I also started working on the outReach portal,which could be said as a more complex and pratical case of the web-app-short-course model.
+
+   		      - Added Session, various Roles (NC,OC,Guest,Reviewer).Also added Workshops in outReachPortal model.
+
+		      - Meet with Venkatesh Sir and Thirumal Sir about our work for the current week
+   			- We discussed about my change of work from modelling the outReachPortal to FIM and CORP model with Akash 
+			
+
+   + [2017-06-21 Wed] - Started Reading about the CORP model made by Akash.
+
+   		      - Learned how the Authentication works and how malacious Cross-Origin Attack can be stopped by CORP model suggested by Akash.
+		      
+		      - Started my research to find a vulnerable instance of a Cross-Origin Attack which could be showed in our model.
+ 
+		      - Had an important discussion with Akash on how he wants the model to work.
+			1.Basically we want 2 models one with CORP and one without CORP.
+			2.PreCorp(model without Corp) should have a malicious cross origin attack from the attacker Server. 
+			
+		     - Started work on the PreCorp model.
+		       1.Added various Servers,Browser Tabs and HTTP Protocols
+		       2.Introduced the concept of State to show the model at diffrent instances.
+   
+   + [2017-06-22 Thu] - Had an interactive talk with Akash where we discusses his previous alloy models and how they could be used to make the PreCorp Model
+     
+                      - Added various objects to the PreCorp model
+			Status:to keep note of all types of authentication and whether the Cross-Origin Attack was successful.
+			HTTPTransaction:the HTTP GET and POST requests were shown for diffrent Servers
+			
+		      - Made various Predicates such as IDPAuthentication,SPAuthentication,Cross-Origin Attack
+			
+	  	      - Together with the above mentioned algorithm we succesfully made a PreCorp Model
+
+	  	      - We watched 2 very intresting TEDx talks on adding Computation thinking basic Curriculum and how physicists see Computer Science.
+
+   + [2017-06-23 Fri] - Showed the PreCorp model to the Venkatesh Sir 
+     
+                      - Made  Changes to the Model by adding UrlAddressBar,Redirection and HTTP inventInitiator.
+
+		      - Started the work on the post Corp model 
+     
+               
+   + [2017-06-24&25 Sat&Sun] 
+
+                      - Added the CORP to the preCorp model.
+
+		      - Added various fields to the State and Corp.Now for every cross-orgin transaction Corp comes into play. 
+			
+		      - Many Bug fixes were made to get the model running.
+			
+		      - Improved the structure of the code and also added functions in the model to make it work easily readable and understandable.
+
+		      - Hence  we completed the Post Corp Model
+			
+
+** Week 4 [2017-06-26 Mon] till [2017-07-02 Sun]
+ 
+  + [2017-06-27 Tue] - Showed the PostCorp model to Venkatesh Sir 
+                    
+                     - Started work on the OAuth for VLEAD microservices
+		     
+		     - Started my research on how to apply Authentication and Authorization on various microprocesses.
+
 
 * Month of July
