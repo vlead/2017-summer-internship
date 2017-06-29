@@ -73,4 +73,16 @@
 
 ** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun] 
    + [2017-06-19 Mon] - Worked on compiling openmodelica and emscripten to
-     source from scratch. repaired the file paths of the installation.and tried to get the script working
+     source from scratch. repaired the file paths of the installation.and tried
+     to get the script working
+   + [2017-06-20 Tue] - Wrote to Tom Short and Xogeny and Openmodelica poeple
+     rearding help with conversion.tried a seperate virtual machine i found on
+     the internet.
+   + [2017-06-21 Wed] - Started reading through the compiler code to understand
+     compilation to javascript.
+   + [2017-06-22 Thu] - summarized my efforts and progress made so far for the
+     presentation.Tried to see what features of a direct export does
+     openmodelica miss.
+   + [2017-06-23 Fri] - Refined presentation. updated Thursdays progress into
+     the report.Compiled the report.Not a very productive week.
+
