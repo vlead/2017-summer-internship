@@ -97,8 +97,12 @@ Approved - Lalit Mohan
    + [2017-06-28 Wed] - Working on the conversion of Experiment-14 of
      Colloid-and-Surface-Chemistry lab. Watched some tutorials on HTML5,CSS3
      etc. Found that Web-Workers do not support keywords like
-     'parent','window','document' etc. Moving images without using 'document'
+     'parent','window','document' etc.But, Moving images without using 'document'
      keyword is not possible. Hence, abondoning the idea of using web-workers
      for the conversion. Due to lack of images reqiured for conversion, it
      might take a day longer than intended for the conversion. Will try to get
      it working by Friday.
+   + [2017-06-29 Thu] - Working on the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Had to manually crop around 200 images
+     as some images required for the conversion are not available. Will try to
+     get it working by tomorrow.
