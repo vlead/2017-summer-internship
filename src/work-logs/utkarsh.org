@@ -176,5 +176,22 @@
      - I further started with laying of plans essential for the integration of the code related to AJAX calls for the LDS. Precisely I am finding decent ways to proceed with the integration
        process, which seems a little difficult as of now.
      - Testing of the new and old both AJAX calls were done.
-     - Still trying to fix the bug related to access to server routes, discussed this issue in the morning with our mentor and Tirumal sir. 
+     - Still trying to fix the bug related to access to server routes, discussed this issue in the morning with our mentor and Tirumal sir.
+   + [2017-06-27 Wed]
+     - Integration with the the main LDS routes started as of today with no success as of such since I am still stuck with cross origin ajax calls.
+     - Problems were faced because of CORS in the LDS. More measures will be taken tonight to fix this issue.
+     - Access to server routes were fixed with the help of a decorator.
+     - Documentation was done for more function in client-side JavaScript and API.
+     - Some more bugs were also fixed.
+   + [2017-06-28 Thur]
+     - I finally was able to call a cross origin ajax call. It took me to add one =before_request= and =after_request= functions in the lds server so that it could handle the ~OPTIONS~ method
+       calls and return the requested call with proper headers. 
+     - As I fixed cross origin, I started with the integration and was able to integrate all the ~GET~ requests but was again halted at other methods that required authorization.
+     - This leads to discussion with Tirumal sir regarding usage of keys in client side JavaScript code or Server routed request, which hasn't been decided since rest of the day was spent 
+       finding the most suitable in terms of both security and efficiency. 
+     - Later I had to fix all the syntax errors in the JSON specifications my partner was trying to fix since morning with no success. 
+     - JSON was changed, fixed and updated.
+     - Documentation work was further extended. 
+     - =Second Release= was live yesterday, Cheers.
+     - Still need to work for finding problems of OAuth on a base4 machine. BUG -> OAuth breaks there.
 * Month of July

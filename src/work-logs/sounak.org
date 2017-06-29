@@ -122,3 +122,14 @@
     + Now the =translator= also adds a README.org, init.sh and makefile so that
       one can build the resources.
     + Discussed about the =Content Server= micro-service.
+
+*** [2017-06-23 Fri]
+    + Weekly Presentation (Code Review)
+    + Discussed about the changes that we need to bring in.
+    + Started on writing narrations for the code that we have written as a part
+      of literate programming.
+
+** Week 4 [2017-06-26 Mon] till [2017-06-30 Fri]
+*** [2017-06-20 Tue]
+    + Took a leave.
+    + Finished writing narrations for the codes.

@@ -67,7 +67,18 @@
    Also had a discussion with Arjun Sanjeev reagrding his ongoing project.
 	
    + [2017-06-22 Thu] - In the morning tried to understand the collapsible tree program . But suddenly found this amazing library DAGRE.js(based on d3) which was the complete solution to my problem. tried to read one of the demoes . iT was simple, elegant and worked great. Had to download some packages from  the net which took some time. After that experimented around the code and finally started working on making the final draft. Till evening was finally able to build a working and stable mere sort experiment.Will document it for tomorrow's presentation.
-   + [2017-06-22 Thu] - Continued working on the documentation of both the previosuly made expermients and converted them into literate programming . Continued working on the final draft of the experiment and found some bugs. Tried to solve the bugs and few still remain.
-   Had a discussion with chopella sir-
-   1. Add the graphs and notations for counting no. of steps taken for a single run and plotting them for different data sizes.
+   + [2017-06-23 Fri] - Continued working on the documentation of both the previosuly made expermients and converted them into literate programming . Continued working on the final draft of the experiment and found some bugs. Tried to solve the bugs and few still remain.
+  	 Had a discussion with chopella sir-
+	   	1. Add the graphs and notations for counting no. of steps taken for a single run and plotting them for 			different data sizes.
+		
+   ** Week 5 [2017-06-26 Mon] till [2017-06-30 Fri]
+   + [2017-06-26 Mon] - Eid-ul-fitr holiday
+   
+   + [2017-06-27 Tue] - I had taken on a leave on this day on the pretext of visiting my hometown for the long weekend.Leave request was duly submitted to my mentor.
+   
+   + [2017-06-28 Wed] - Starting converted the final experiment into literate documentation and adding comments so at the narrate the code in a much better way. Started working on coverting quick sort also to this kind of notation . But faced some bugs in the process. Will try to formulate a stable design and start working on javascript tomorrow. updated all the work-log and went to my mentor for approval and had a small discussion with him. His suggestions-
+   	1 See the already built ds-lab.	2 Convert the major algorithms into the format.	3 Try to explain using compare and swap analogy.
+   
+   
+		
    

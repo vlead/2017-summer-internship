@@ -73,5 +73,13 @@ All the further work related to this feature is going to be pushed to the output
 
 [2017-06-21 Wed]:Today I finished up the documentation and pushed the work I had done on websockets in the websockets folder in the Contnuous Integration repo.We started our work on building our custom CI tool.Two features were successfully implemented.First one being the funcionlility of reconginzing a change made to the repo was implemented using the help of webhooks.Second the functionality of cloning the repo on host machine using a few modules to manipulate the JSON and run certain shell commands.
 
-[2017-06-21 Thu]:I added the issue raising feature to our CI app.It is able to raise an issue whenever a build is unsuccessful and attach the respective label to it.Also I am working on making the code written so far more object oriented.
+[2017-06-22 Thu]:I added the issue raising feature to our CI app.It is able to raise an issue whenever a build is unsuccessful and attach the respective label to it.Also I am working on making the code written so far more object oriented.
+
+[2017-06-23 Fri]:The build, clone and issue raise feature were completely implemented.Once this was done I spent time in making the code more robust and object oriented wherever possible.A few security issues are being faced(these have been raised as issues).Later in the evening we had our ususal Friday tech talk.
+
+[2017-06-26 Mon]: Holiday for Eid
+
+[2017-06-27 Tue]: Leave 
+
+
 * Month of July

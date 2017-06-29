@@ -51,6 +51,8 @@
      + Resolved the bugs and wrote test cases for each section of the service for full assaurance of working the microserivce.
    + [2017-06-15 Thr]
      + Sick leave.
+   + [2017-06-16 Fri]
+     + Presentation and discussion with mentor for work for next week.
 ** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
 *** [2017-06-19 Mon]
     + Leave.
@@ -75,4 +77,18 @@
       one can build the resources.
     + Discussed about the =Content Server= micro-service.
 *** [2017-06-23 Fri]
+    + Code review.
     + Added narration to =system= and =system-interface= part of the translator module.
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun]
+*** [2017-06-26 Mon]
+    + Eid.
+
+*** [2017-06-27 Tue]
+    + Written test cases for translator.
+    + Minor bug fix in update functionally of translator.
+    + Some research about tangling in MD.  
+*** [2017-06-28 Wed]
+    + Added narration for =resource-generator=.
+    + Discussion with Thirumal sir regarding new microservice =content-server=.
+    + Started working and pushed the initial directory structure and basic app design for =content-server=.
+    + Gathered information for data base which is used in the microservice.
