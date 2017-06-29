@@ -213,5 +213,20 @@ Added some event listeners and also placed dropdowns for assets,developers,
 etc which will be used while adding a lab or experiment.I have tested whether
 the dropdowns were being populated properly or not.
 
++[2017-06-28 Wed]
+
+On leave
+
++[2017-06-29 Thu]
+
+I have worked on the json spec files of all the add operations.
+The code was pushed into the org files. I faced lot of problem
+while tangling the code. After a long effort i could manage to
+tangle all the files. Later i faced syntax errors.The JSON file
+had quite many syntax errors. Since the json spec file was as 
+huge as 2500 lines,it took quite a lot of time to fix all the 
+syntax errors and ensuring that proper HTML is being rendered
+from the JSON spec file.
+
 
 * Month of July
