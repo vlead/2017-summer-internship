@@ -72,5 +72,8 @@
 + [2017-06-27 Tue] - Visualized the logs of the logs of the sysytem using nmon and generated graphs. Converted .nmon file to .html format using nmonchart and generated graphs using nmon. 
 + [2017-06-28 Wed] - Genearted graphs for a particular interval of time and made documentation of the whole process. Tried parsing previous logs of the system using nmon.
 + [2017-06-29 Thu] - Worked on getting output(logs) automatically using crontab and storing them according to timestamp. Also tried how to convert .nmon fies to .html.
++ [2017-06-30 Fri] - made the documentation of the project and uploaded in github. There was code review in the morning session.
+ Worked on copying files  from host machine to container and viceversa. Tried automating the same using shell script.
 * Repository link
   [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack repository]] 
+  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/nmon][nmon]]
