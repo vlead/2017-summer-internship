@@ -24,7 +24,7 @@
        various functions of REST APIs. 
 
 ** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-	 *[2017-06-05 Mon] : The issue for the requirements document was raised and successfully resovled 
+	 [2017-06-05 Mon] : The issue for the requirements document was raised and successfully resovled 
 	 by creating and pushing the document on our repository.The document included the basic application and
 	 functional requirements of the continuous-integration microservice.The workflow for the application was also  d		 designedand uploaded.A few open source CI tools to serve our purpose were shortlisted and further researched upon.	
 	 Their various workflow and working environment were compared and finally 
@@ -34,7 +34,7 @@
 	 Further we also came up with the possibilty of containerising the whole micro-service into a docker container 	
 	 which would facilitate the hosting of the service. 
 	 
-	 *[2017-06-06 Tue]: In the morning we had a stand up team meeting with
+	 * [2017-06-06 Tue]: In the morning we had a stand up team meeting with
    	Thirumal Sir where we discussed our progress and goals for the week ahead.
    	The first issue of deploying and running the Jenkins on the local machine
   	 was successfully completed.Test were also run using sample test
@@ -80,6 +80,11 @@ All the further work related to this feature is going to be pushed to the output
 [2017-06-26 Mon]: Holiday for Eid
 
 [2017-06-27 Tue]: Leave 
+
+[2017-06-28 Wed]:Wrote unit tests for the different building blocks.Worked on debugging the code and making it more modeularised.Started working towrads phase two of the project.It involves incorporating an extra CI server feature in our current CI service and then pipling it with the ADS service.
+
+[2017-06-29 Thu]:The design of the service was redone and algined in accordance to our current objective.I got back to working on websockets since the second phase of our service is primarily based on this.I am still waiting for my mentor to make a release of our currently built service, once that is done we can start our enhacement work.
+
 
 
 * Month of July
