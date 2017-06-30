@@ -72,6 +72,9 @@
     is a monitoring tool.Tested it on base4 test machine.Working
     fine.Need to configure this in all other containers by writing
     another playbook and include it in all other containers.
+  + [2017-06-30 Fri]-Half of the session was code-review.Then
+    completed writing playbook for rkhunter tool and included and
+    tested it on all containers.Working fine.
 * Repository link
   [[https://github.com/vlead/cluster-automation][cluster-automation repository]] 
  
