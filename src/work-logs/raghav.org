@@ -82,7 +82,7 @@
     - met Saumya mam to clear doubts regarding literate docs and makefile.
     - created docs by following the web app short course.
 ** Week 5 [2017-06-26 Mon] till [2017-06-30 Sat]
-  +[2017-06-27 Tue]->[2017-06-28 Wed]
+  + [2017-06-27 Tue]->[2017-06-28 Wed]
     - Met Sai sir, discussed idea of DOM manipulation.
       - discussed about creating a DOM from elements given by a user.
       - Making a renderer which is generic in nature unlike present =sss-renderer= which focuses on NPTEL.
@@ -92,10 +92,30 @@
       - Solved: Talked to Sripathi sir. He figured that our team was hosting servers on =127.0.0.1= which is not a public IP and hence cannot be reached via a other server. Changed IP to =0.0.0.0= which is a public IP and things worked fine.
     - Debugged =sss-renderer= code. Proper JSON document format was not followed as declared in =SSS-Format= doc.
     - By end of Tuesday, =sss-store= and =sss-renderer= were integrated partially with few bugs which were solved on Wednesday by Sadhana V..
-  - Integration with =sss-maker= still remaining.
-  - Started writing test-cases for =sss-store= using ~unittest~ package.
-  - Got access to base4 machine. Setting up =sss-store= API server on =sss-persistence= container.
-  - Potential issue: mongodb cloud may create error when while sending requests to it from base4 machine.
-  - will try to setup mongodb instance inside =sss-persistence= container.
-  - created issue on gitlab regarding deployment of gaurds and filters in =sss-persistence= repo.
-  - created issue on gitlab regarding writing test cases in =sss-persistence= repo.
+    - Integration with =sss-maker= still remaining.
+    - Started writing test-cases for =sss-store= using ~unittest~ package.
+    - Got access to base4 machine. Setting up =sss-store= API server on =sss-persistence= container.
+    - Potential issue: mongodb cloud may create error when while sending requests to it from base4 machine.
+    - will try to setup mongodb instance inside =sss-persistence= container.
+    - created issue on gitlab regarding deployment of gaurds and filters in =sss-persistence= repo.
+    - created issue on gitlab regarding writing test cases in =sss-persistence= repo.
+
+* Month of July
+** Week 1 [2017-06-03 Mon] till [2017-06-07 Fri]
++ [2017-06-03 Mon]
+    - All hands meet with Dr. Choppella at 9AM
+      - Discussed about work culture of VLEAD
+      - Opportunities for research assistants -> can publish our paper if we burn enough oil in our work.
+      - Each one has to present a poster on 20th July, 17 regarding the work we have done so far.
+      - Instructions given to be more punctual and professional towards work.
+   - Meeting with Sai Sir
+     - Discussed about the challenges in adding semantic tagging to current datamodel of =SSS-Framework=.
+      - required contaxts for `sss-info`,`env-info` and `eventlist` are not available on =schema.org=.
+     - Discussed about DSL for project and I described him the roadmap which I prefer to take:
+      - Instead of writing DSL first, I will start from development of small functions to achieve very specific tasks, like grabing an element from DOM and shifting it to another postition at new xpath.
+      - doing some kind of CRUD operations on an element.
+     - Then we can think of making a DSL for same. In the meantime I will also revise the concepts of Context Free Grammer and Parsers.
+     - He gave me a basic requirements structure which will help me in efficiently working towards the goals.
+  - Compeleted the Semantic structure of data model. Few properties may be wrongly placed but I have tried my best to do the justice with existing structure with whatever contexts and properties were available on =schema.org=.
+  - Saw two tech talks on DSL and parsing.
+  - Integration of =SSS-Maker=, =SSS-Renderer= and =SSS-Persistence= is successfully done and deployed on base4 containers.
