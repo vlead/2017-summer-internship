@@ -146,4 +146,19 @@
        requirements
      - Built a working dependency parser (that parses a small subset of English
        sentences)
+   + [2017-06-30 Fri]
+     - Worked on expanding the sample grammar for the dependency 
+       parser, including adding support for rules and constraints
+     - Had a meeting with my project mentor, in which I presented 
+       the paper Dependency Grammars as Haskell Programs, and my 
+       implementation of the parser
+     - Attended a tech talk in the afternoon
 * Month of July
+
+** Week 6 [2017-07-03 Mon] till [2017-07-09 Sun]
+
+   + [2017-07-03 Mon]
+     - Implemented remaining functionality of web-app-haskell.
+     - Debugged the implemented code
+     - Designed an expanded, complete test suite for web-app-haskell
+     - Made slides to be presented at meeting tomorrow
