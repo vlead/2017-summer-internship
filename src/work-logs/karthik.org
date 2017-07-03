@@ -75,5 +75,5 @@
 + [2017-06-30 Fri] - made the documentation of the project and uploaded in github. There was code review in the morning session.
  Worked on copying files  from host machine to container and viceversa. Tried automating the same using shell script.
 * Repository link
-  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack repository]] 
-  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/nmon][nmon]]
+  - [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack repository]] 
+  -  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/nmon][nmon]]
