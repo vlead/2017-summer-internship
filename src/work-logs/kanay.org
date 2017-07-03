@@ -76,9 +76,13 @@
    
    + [2017-06-27 Tue] - I had taken on a leave on this day on the pretext of visiting my hometown for the long weekend.Leave request was duly submitted to my mentor.
    
-   + [2017-06-28 Wed] - Starting converted the final experiment into literate documentation and adding comments so at the narrate the code in a much better way. Started working on coverting quick sort also to this kind of notation . But faced some bugs in the process. Will try to formulate a stable design and start working on javascript tomorrow. updated all the work-log and went to my mentor for approval and had a small discussion with him. His suggestions-
+   + [2017-06-28 Wed] - Starting converting the final experiment into literate documentation and adding comments so at the narrate the code in a much better way. Started working on coverting quick sort also to this kind of notation . But faced some bugs in the process. Will try to formulate a stable design and start working on javascript tomorrow. updated all the work-log and went to my mentor for approval and had a small discussion with him. His suggestions-
    	1 See the already built ds-lab.	2 Convert the major algorithms into the format.	3 Try to explain using compare and swap analogy.
    
+   + [2017-06-29 Thu] - Continued with documentation of the 3 experiments . Converted the 1st and 2nd into completely documented ,commented and narrated literate code as i felt it was not adequate for a person to understand this code with the existing documentation. Continued working with my design of quick sort. Tried a version but there were some errors in the main quick sort function . Coded a better implementation - will work on minor details tomorrow.
    
-		
+   + [2017-06-30 Fri] - Started working out the 3rd and major experiment in the same way as the 1st and 2nd. Took some time as it used a new library so had to make more narrations about how it is coded. Finally completed it and was working on my presentation and code review. The presentation got delayed a lot and it wasted a lot of time as some groups took aroun 1-1.5 hourse for their presentation. Finally had a dicussion that the code review will take place on monday. A small tech talk also took place based on the exconf.Tasks cut out for next week-
+   	1. Come up with a design for the quick sort experiment.
+	2. Discuss with Chopella sir about the design.
+	3. Code the design for a final release.
    
