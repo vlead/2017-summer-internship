@@ -11,7 +11,7 @@
   at VLEAD, IIIT Hyderabad
 
 * Month of June
-** Week 1 [2017-06-01 Thu] till [2017-06-04 Sun]
+** Week 1 
      * [2017-06-01 Thu] In the morning a breif overview of the whole internship
        programme was given.In the afternoon a detailed explanation of my alloted
        project i.e. Continous Integration was done by the mentor.Following this
@@ -23,8 +23,8 @@
        the working of LDS.Did a reading on REST and RESTful services.Explored
        various functions of REST APIs. 
 
-** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
-	 *[2017-06-05 Mon] : The issue for the requirements document was raised and successfully resovled 
+** Week 2 
+	 * [2017-06-05 Mon] : The issue for the requirements document was raised and successfully resovled 
 	 by creating and pushing the document on our repository.The document included the basic application and
 	 functional requirements of the continuous-integration microservice.The workflow for the application was also  d		 designedand uploaded.A few open source CI tools to serve our purpose were shortlisted and further researched upon.	
 	 Their various workflow and working environment were compared and finally 
@@ -34,7 +34,7 @@
 	 Further we also came up with the possibilty of containerising the whole micro-service into a docker container 	
 	 which would facilitate the hosting of the service. 
 	 
-	 *[2017-06-06 Tue]: In the morning we had a stand up team meeting with
+	 * [2017-06-06 Tue]: In the morning we had a stand up team meeting with
    	Thirumal Sir where we discussed our progress and goals for the week ahead.
    	The first issue of deploying and running the Jenkins on the local machine
   	 was successfully completed.Test were also run using sample test
@@ -48,38 +48,51 @@
    	Jenkins.Certain issues came up with setting up JDK on the ubuntu
    	template.We are still working on resolving these issues.
 	
-	[2017-06-07 Wed]: The issue of setting up the Java environment was resolved.It finally worked on the Ubuntu 16.04 		template set up on the base 4 test server. After installing Java, the Jenkins CI tool was also successfully deployed on 	the base 4 server. The completion of documentation for this whole deployement process from scratch is underway.A 		complete workthrough of Jenkins was also successfully done on the local host.We were able to connect the CI tool to the     git repo of the LDS service.The polling mechanism was activated on the Jenkins,by doing this any changes made to our repo 		triggered an automatic build and a run of the test cases on the local host.Jenkins was also successfully configured to do 	  a post build operation of posting the newly created files on the Apache doc server that we created on base 4 .
+	* [2017-06-07 Wed]: The issue of setting up the Java environment was resolved.It finally worked on the Ubuntu 16.04 		template set up on the base 4 test server. After installing Java, the Jenkins CI tool was also successfully deployed on 	the base 4 server. The completion of documentation for this whole deployement process from scratch is underway.A 		complete workthrough of Jenkins was also successfully done on the local host.We were able to connect the CI tool to the     git repo of the LDS service.The polling mechanism was activated on the Jenkins,by doing this any changes made to our repo 		triggered an automatic build and a run of the test cases on the local host.Jenkins was also successfully configured to do 	  a post build operation of posting the newly created files on the Apache doc server that we created on base 4 .
 	This whole thing strongly supports the fact that Jenkins would be an ideal tool to adopt as a solution for our Continuous 	  Integration purpose.There are certain optimisation issues that we are still resolving one of them being the fact of 		finiding an alternative for constantly polling the github repo since this would unnecessarily consume the server system 	resources.
 	
-	[2017-06-08 Thu]: Another full setup of creating a new conatiner, setting up JRE and the Jenkins CI tool was successfully
+	* [2017-06-08 Thu]: Another full setup of creating a new conatiner, setting up JRE and the Jenkins CI tool was successfully
 	done and documented.The doc server setup up on the base4 was given a public IP.A few tests were run with Jenkins CI 		setup on the base 4 and the Apache serving on the doc server.The doc file were successfully being posted on the Apache 		web server.This completes our first milestone.The optimisation issue that we were facing yesterday with polling the git 	repo was also resloved by creating web-hooks.The shell script for the build step was also completed and pushed on the 		repository.A few issues with the server cloning are still to be resolved.
 	 	 
-	[2017-06-09 Fri]: We had our first weekly presentation were we presented our current progress and got a brief overview of 	  everyone elses too. A lot of useful suggestions and takeways were received from the heads.We were looking into how to go 	   about incorporating these changes in our work.Team discussions regarding this also took place.Variuous valuable inputs 	  from Lalit sir who has had prior experience with Jenkins were also received.I spent a little time exploring and 	  understanding the Java source code of the Jenkins CI.I also did a bit of research on coupling Jenkins with AWS.
+	* [2017-06-09 Fri]: We had our first weekly presentation were we presented our current progress and got a brief overview of 	  everyone elses too. A lot of useful suggestions and takeways were received from the heads.We were looking into how to go 	   about incorporating these changes in our work.Team discussions regarding this also took place.Variuous valuable inputs 	  from Lalit sir who has had prior experience with Jenkins were also received.I spent a little time exploring and 	  understanding the Java source code of the Jenkins CI.I also did a bit of research on coupling Jenkins with AWS.
 
-[2017-06-12 Mon]:We had successfully finished our work for the milestone and no new work had been assinged, so I din't have anything specific to work on today.I spent most of my time doing more research on CI tools.I looked into Microsoft Team Foundation Build which had been recommended by Lalit sir.TFB would not be a good option becuase of it's minimal support for Open Source projects.I reasearched more about Continuous Integration in agile, with the aim of finding the stages where we could use CI tools to improve our release process.I learnt a lot about the current industry standards with CI.
+** Week 3
+	* [2017-06-12 Mon]:We had successfully finished our work for the milestone and no new work had been assinged, so I din't have anything specific to work on today.I spent most of my time doing more research on CI tools.I looked into Microsoft Team Foundation Build which had been recommended by Lalit sir.TFB would not be a good option becuase of it's minimal support for Open Source projects.I reasearched more about Continuous Integration in agile, with the aim of finding the stages where we could use CI tools to improve our release process.I learnt a lot about the current industry standards with CI.
  
-[2017-06-13 Tue]:In the morning we had our team meeting with Thirumal sir where we were assinged new tasks.The new tasks have been raised as issues on our repo.I had been assinged to use web sockets to create a feature to continuously display the logs from ADS.I started my work on this shortly after the meeting.I was able to use tornado websockets on a small scale application.This helped me get a clear picture of the working mechanism.To further enhance my understanding I further read articles and watched video tutorials.To understand the working of ADS, I tried deploying it on my machine.There were some issues that I faced setting up and runnning centos.Hopefully once I am done running ADS I will start my work on the feature.
+	* [2017-06-13 Tue]:In the morning we had our team meeting with Thirumal sir where we were assinged new tasks.The new tasks have been raised as issues on our repo.I had been assinged to use web sockets to create a feature to continuously display the logs from ADS.I started my work on this shortly after the meeting.I was able to use tornado websockets on a small scale application.This helped me get a clear picture of the working mechanism.To further enhance my understanding I further read articles and watched video tutorials.To understand the working of ADS, I tried deploying it on my machine.There were some issues that I faced setting up and runnning centos.Hopefully once I am done running ADS I will start my work on the feature.
 
-[2017-06-14 Wed]:The initial Design for the Output Console feature after being approved by Thirumal sir was made and pushed.The required workflow and implemantaion methodology was also added to the repo. After experimenting with websocket on small scale applications I was able to further plan my implentation better.After discussing with my mentor Mr.Sripathi we decided to use Java Script on the Client end i.e. Controller Server and stick to Tornado on the server side i.e. Log Server.
+	* [2017-06-14 Wed]:The initial Design for the Output Console feature after being approved by Thirumal sir was made and pushed.The required workflow and implemantaion methodology was also added to the repo. After experimenting with websocket on small scale applications I was able to further plan my implentation better.After discussing with my mentor Mr.Sripathi we decided to use Java Script on the Client end i.e. Controller Server and stick to Tornado on the server side i.e. Log Server.
 All the further work related to this feature is going to be pushed to the outputConsole folder.
 
-[2017-05-15 Thu]:I spent time familiarizing myself with Tornado and going through the documentation.I am currently working on the log server end.Simultanouesly I have all started documenting the previously written code as instructed by Thirumal sir.Currently I am facing a few issues understanding the code flow of the previuosly written code.Once I am able to establish a thorough understanding of it I would be able to start incoporating the WebScoket  and the respective handlers on the Server side.
+	* [2017-05-15 Thu]:I spent time familiarizing myself with Tornado and going through the documentation.I am currently working on the log server end.Simultanouesly I have all started documenting the previously written code as instructed by Thirumal sir.Currently I am facing a few issues understanding the code flow of the previuosly written code.Once I am able to establish a thorough understanding of it I would be able to start incoporating the WebScoket  and the respective handlers on the Server side.
 
-[2017-05-16 Fri]:Our weekly Friday presenatation took place where I spoke about our work on Continuous Integration and the Console Output feature.Today also I worked on the log server.A few inputs from Thirumal sir were also received which I am incorporating.Later in the evening we had a tech talk presentation by Brit Victor which was pretty informative.
+	* [2017-05-16 Fri]:Our weekly Friday presenatation took place where I spoke about our work on Continuous Integration and the Console Output feature.Today also I worked on the log server.A few inputs from Thirumal sir were also received which I am incorporating.Later in the evening we had a tech talk presentation by Brit Victor which was pretty informative.
 
-[2017-05-19 Mon]:I finished the server and client side implemenation of the websocket.I had some issue testing the whole scaled up thing on the local machine so I decided to use the base4 server for it.I setup the Centos template and made the required configurations and setup the enivronment to run the services.Container ID 999 Container IP 10.4.12.65.Once this successfully runs the tests I can implement on the client side a user visible console. 
+** Week 4
+	* [2017-05-19 Mon]:I finished the server and client side implemenation of the websocket.I had some issue testing the whole scaled up thing on the local machine so I decided to use the base4 server for it.I setup the Centos template and made the required configurations and setup the enivronment to run the services.Container ID 999 Container IP 10.4.12.65.Once this successfully runs the tests I can implement on the client side a user visible console. 
 
-[2017-06-20 Tue]:In the morning I spent time debugging my code of the output console.More or less it has been completed.Around lunch time we had a meeting with Thirumal Sir.Our proposed project has undergone a complete overhual.We have to redesign the whole thing from scratch agian.Later part of my time was spent surveying various technologies for implementation and discussing the design with my team.
+	* [2017-06-20 Tue]:In the morning I spent time debugging my code of the output console.More or less it has been completed.Around lunch time we had a meeting with Thirumal Sir.Our proposed project has undergone a complete overhual.We have to redesign the whole thing from scratch agian.Later part of my time was spent surveying various technologies for implementation and discussing the design with my team.
 
-[2017-06-21 Wed]:Today I finished up the documentation and pushed the work I had done on websockets in the websockets folder in the Contnuous Integration repo.We started our work on building our custom CI tool.Two features were successfully implemented.First one being the funcionlility of reconginzing a change made to the repo was implemented using the help of webhooks.Second the functionality of cloning the repo on host machine using a few modules to manipulate the JSON and run certain shell commands.
+	* [2017-06-21 Wed]:Today I finished up the documentation and pushed the work I had done on websockets in the websockets folder in the Contnuous Integration repo.We started our work on building our custom CI tool.Two features were successfully implemented.First one being the funcionlility of reconginzing a change made to the repo was implemented using the help of webhooks.Second the functionality of cloning the repo on host machine using a few modules to manipulate the JSON and run certain shell commands.
 
-[2017-06-22 Thu]:I added the issue raising feature to our CI app.It is able to raise an issue whenever a build is unsuccessful and attach the respective label to it.Also I am working on making the code written so far more object oriented.
+	* [2017-06-22 Thu]:I added the issue raising feature to our CI app.It is able to raise an issue whenever a build is unsuccessful and attach the respective label to it.Also I am working on making the code written so far more object oriented.
 
-[2017-06-23 Fri]:The build, clone and issue raise feature were completely implemented.Once this was done I spent time in making the code more robust and object oriented wherever possible.A few security issues are being faced(these have been raised as issues).Later in the evening we had our ususal Friday tech talk.
+	* [2017-06-23 Fri]:The build, clone and issue raise feature were completely implemented.Once this was done I spent time in making the code more robust and object oriented wherever possible.A few security issues are being faced(these have been raised as issues).Later in the evening we had our ususal Friday tech talk.
 
-[2017-06-26 Mon]: Holiday for Eid
+** Week 4
 
-[2017-06-27 Tue]: Leave 
+	* [2017-06-26 Mon]: Holiday for Eid
+
+	* [2017-06-27 Tue]: Leave 
+
+	* [2017-06-28 Wed]:Wrote unit tests for the different building blocks.Worked on debugging the code and making it more modeularised.Started working towrads phase two of the project.It involves incorporating an extra CI server feature in our current CI service and then pipling it with the ADS service.
+
+	* [2017-06-29 Thu]:The design of the service was redone and algined in accordance to our current objective.I got back to working on websockets since the second phase of our service is primarily based on this.I am still waiting for my mentor to make a release of our currently built service, once that is done we can start our enhacement work.
+	
+	* [2017-06-30 Fri]:We were working towrads making a release for our recently built Continuous Integration APIs.The code was buggy at certain places I finished debugging it.Certain parts of it needed refactoring so I finished that too.
+Documnetation was also completed today.
 
 
 * Month of July
+ 
+ [2017-07-03 Mon]:We got back to our implementation of the console logger on the websocket app page.The front end and backend are perfectly working if run on the local host.The http handshake connection fails when we try runnning the back end code on a container in the base4.The suspected cause maybe the lack of support for the websocket protocol by the underlying layers.We are now trying our luck using AWS.

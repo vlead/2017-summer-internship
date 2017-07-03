@@ -228,5 +228,24 @@ huge as 2500 lines,it took quite a lot of time to fix all the
 syntax errors and ensuring that proper HTML is being rendered
 from the JSON spec file.
 
++[2017-06-30 Fri]
+
+In the morning we got to know that there was a code review
+at 11 am. So, then we have prepared for the code review.
+Made sure everything was at right place, documentation is 
+proper and also the code is in working condition. From
+11 am to 12.30pm we had our code review.After lunch,
+I worked on the documentation as suggested by thirumal sir.
+He wanted it to be more precise and narrative. We
+have started working on that. 
+
 
 * Month of July
+** Week 1 [2017-07-03 Mon] till [2017-07-09 Sun]
+
+In the morning i worked on JSON files for sometime. There were
+a few minor syntax errors which were fixed.Later i worked on the 
+documentation part of the web-frontend. I was working on improving the
+documentation as has been said by thirumal sir. 
+While linking the 2 backend servers, we faced a problem with security
+issues. So i was surfed the internet of liable soulutions to this.

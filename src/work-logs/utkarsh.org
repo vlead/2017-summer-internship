@@ -177,13 +177,13 @@
        process, which seems a little difficult as of now.
      - Testing of the new and old both AJAX calls were done.
      - Still trying to fix the bug related to access to server routes, discussed this issue in the morning with our mentor and Tirumal sir.
-   + [2017-06-27 Wed]
+   + [2017-06-28 Wed]
      - Integration with the the main LDS routes started as of today with no success as of such since I am still stuck with cross origin ajax calls.
      - Problems were faced because of CORS in the LDS. More measures will be taken tonight to fix this issue.
      - Access to server routes were fixed with the help of a decorator.
      - Documentation was done for more function in client-side JavaScript and API.
      - Some more bugs were also fixed.
-   + [2017-06-28 Thur]
+   + [2017-06-29 Thur]
      - I finally was able to call a cross origin ajax call. It took me to add one =before_request= and =after_request= functions in the lds server so that it could handle the ~OPTIONS~ method
        calls and return the requested call with proper headers. 
      - As I fixed cross origin, I started with the integration and was able to integrate all the ~GET~ requests but was again halted at other methods that required authorization.
@@ -194,4 +194,20 @@
      - Documentation work was further extended. 
      - =Second Release= was live yesterday, Cheers.
      - Still need to work for finding problems of OAuth on a base4 machine. BUG -> OAuth breaks there.
+   + [2017-06-30 Fri]
+     - We had a code review session today, morning session was occupied first with preparations regarding code review and then finally by code review itself.
+     - In the afternoon session I fixed a logical error in the update user route; which was there due to a simple conditional mistake.
+     - Documentation work was increased and further code was documented.
+     - Django was taken look into again.
+     - Jquery terminal plugins were studied.
+     - In the evening I had to attend the TED Talk session organised every friday. 
 * Month of July
+** Week 1 [2017-07-02 Mon] till [2017-07-08 Sun]
+   + [2017-07-02 Mon]
+     - Fixed some more errors with JSON specification.
+     - Tried to lay down a new approach which would seperate by front-end and lds server interaction would enable lds-dashboard server to lds server interaction.
+     - Wokring on some security fixes.
+     - Documentation work was extended, backend for lds-dashboard is not getting the literate template.
+     - Tried to write down some universal functions to enable the new approach. No luck till now.
+     - Got the data of lds from base4 host for the testing purposes. AJAX call works but security issue asks a new approach.
+     - Fixed some error codes based on correct responses in lds server and lds-dashboard server.

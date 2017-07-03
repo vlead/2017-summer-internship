@@ -58,12 +58,26 @@
    + [2017-06-23 Fri]-Tried again to fix the bug but failed.Gave up on ossec-server.Ran the whole script again to make sure it works fine.Whole script works fine.Wrote steps to do the process of cluster creation.Tried to host a lab but there is some issue with google oauth service .Fixing this may resolve the problem and script may work fine.
 ** Week 8 [2017-06-26 Mon] till [2017-07-02 Sunday]
   + [2017-06-26 Mon] - Holiday
-  + [2017-06-27 Tues]- Absent
-  + [2017-06-28 Wed] - Worked on making documentation.
+  + [2017-06-27 Tues]- On Leave
+  + [2017-06-28 Wed] - Worked on making documentation.Tried to install
+    centos on another desktop but installation failed to some corrupt
+    iso file.Need to install centos and test the whole automation
+    again.
+  + [2017-06-29 Thurs]-Installed centos-6 on a machine and tested
+    automation on it.Some minor proxy issues in initial playbooks
+    base-setup.yml and others playbooks are working fine without any
+    errors.Wrote a shell program to minimize user steps for installing
+    some packages and some others ssh-keygen etc to minimize steps
+    before automation step.Gone through rkhunter(rootkit hunter) which
+    is a monitoring tool.Tested it on base4 test machine.Working
+    fine.Need to configure this in all other containers by writing
+    another playbook and include it in all other containers.
+  + [2017-06-30 Fri]-Half of the session was code-review.Then
+    completed writing playbook for rkhunter tool and included and
+    tested it on all containers.Working fine.
 * Repository link
   [[https://github.com/vlead/cluster-automation][cluster-automation repository]] 
  
-
 
 
 
