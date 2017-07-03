@@ -202,3 +202,12 @@
      - Jquery terminal plugins were studied.
      - In the evening I had to attend the TED Talk session organised every friday. 
 * Month of July
+** Week 1 [2017-07-02 Mon] till [2017-07-08 Sun]
+   + [2017-07-02 Mon]
+     - Fixed some more errors with JSON specification.
+     - Tried to lay down a new approach which would seperate by front-end and lds server interaction would enable lds-dashboard server to lds server interaction.
+     - Wokring on some security fixes.
+     - Documentation work was extended, backend for lds-dashboard is not getting the literate template.
+     - Tried to write down some universal functions to enable the new approach. No luck till now.
+     - Got the data of lds from base4 host for the testing purposes. AJAX call works but security issue asks a new approach.
+     - Fixed some error codes based on correct responses in lds server and lds-dashboard server.
