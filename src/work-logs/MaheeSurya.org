@@ -106,3 +106,14 @@ Approved - Lalit Mohan
      Colloid-and-Surface-Chemistry lab. Had to manually crop around 200 images
      as some images required for the conversion are not available. Will try to
      get it working by tomorrow.
+   + [2017-06-30 Fri] - Completed the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Deleted unnecessary images in
+     Experiment-1. Will do the same for other experiments too.
+** Week 6 [2017-07-03 Mon] till [2017-07-09 Sun]
+   + [2017-06-03 Mon] - Deleted unnecessary images in Experiment-5. No images
+     are available for the conversion of Experiment-3 and Experiment-8. As a
+     result, I searched for the images in other experiments.Found some images
+     related to Experiment-8. For the remaining images, I'll try to take
+     screenshots of the experiment or use screencapture tools like
+     RecordMyDesktop or Kazam. Will get the all the required images and start
+     working on the experiment by tomorrow.
