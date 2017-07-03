@@ -152,4 +152,10 @@
    + [2017-06-29 Thurs] - Continued work on documentation regarding different
      modeling and simulation softwares. Three sections for each: About,
      Features, and My Analysis. 5-6 softwares still remaining to go through,
-     should be done tommorrow.
+     should be done tomorrow.
+   + [2017-06-30 Fri] - Finished work on documentation of different simulation
+     and modeling software. Also prepared a presentation as I was supposed to
+     present(postponed to later). Tried to setup a meeting with some of our
+     seniors to assist with graphics inputs regarding this project. Also
+     discussed idea of integration with other non-profit and social education
+     ventures. 
