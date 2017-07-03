@@ -101,8 +101,8 @@
     - created issue on gitlab regarding writing test cases in =sss-persistence= repo.
 
 * Month of July
-** Week 1 [2017-06-03 Mon] till [2017-06-07 Fri]
-+ [2017-06-03 Mon]
+** Week 1 [2017-07-03 Mon] till [2017-07-07 Fri]
++ [2017-07-03 Mon]
     - All hands meet with Dr. Choppella at 9AM
       - Discussed about work culture of VLEAD
       - Opportunities for research assistants -> can publish our paper if we burn enough oil in our work.
@@ -118,4 +118,8 @@
      - He gave me a basic requirements structure which will help me in efficiently working towards the goals.
   - Compeleted the Semantic structure of data model. Few properties may be wrongly placed but I have tried my best to do the justice with existing structure with whatever contexts and properties were available on =schema.org=.
   - Saw two tech talks on DSL and parsing.
-  - Integration of =SSS-Maker=, =SSS-Renderer= and =SSS-Persistence= is successfully done and deployed on base4 containers.
+  - Integration of =SSS-Maker=, =SSS-Renderer= and =SSS-Persistence= is successfully done and deployed on base4 containers.+ 
++ *TODO* [2017-07-04 Tue]
+- write narrative for idea of DSL
+- write explanation for Semantic structure
+- get DSL book from Sai Sir
