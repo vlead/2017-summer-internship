@@ -81,8 +81,9 @@
    
    + [2017-06-29 Thu] - Continued with documentation of the 3 experiments . Converted the 1st and 2nd into completely documented ,commented and narrated literate code as i felt it was not adequate for a person to understand this code with the existing documentation. Continued working with my design of quick sort. Tried a version but there were some errors in the main quick sort function . Coded a better implementation - will work on minor details tomorrow.
    
-   + [2017-06-30 Fri] - Started working out the 3rd and major experiment in the same way as the 1st and 2nd. Took some time as it used a new library so had to make more narrations about how it is coded. Finally completed it and was working on my presentation and code review. The presentation got delayed a lot and it wasted a lot of time as some groups took aroun 1-1.5 hourse for their presentation. Finally had a dicussion that the code review will take place on monday. A small tech talk also took place based on the exconf.Tasks cut out for next week-
-   	1 Come up with a design for the quick sort experiment.
-	2 Discuss with Chopella sir about the design.
-	3 Code the design for a final release.
+   + [2017-06-30 Fri] - Started working out the 3rd and major experiment in the same way as the 1st and 2nd. Took some time as it used a new library so had to make more narrations about how it is coded. Finally completed it and was working on my presentation and code review. The presentation got delayed a lot and it wasted a lot of time as some groups took aroun 1-1.5 hourse for their presentation. Finally had a dicussion that the code review will take place on monday. A small tech talk also took place based on the exconf.
+Tasks cut out for next week:
+1 Come up with a design for the quick sort experiment.
+2 Discuss with Chopella sir about the design.
+3 Code the design for a final release.
    
