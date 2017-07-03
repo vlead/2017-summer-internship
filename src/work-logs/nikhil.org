@@ -178,14 +178,14 @@
     - updated the documentation - added the architecture 
     - Tech-talk
 ** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun]
-   + [2017-07-27 Tue]
+   + [2017-06-27 Tue]
      - Converted the whole code of the the initialise.sh into org-mode
      - Converted the whole code of build.sh into org-mode
      - Here are the links to the updated literate-codes
        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
    
-   + [2017-07-28 Wed]
+   + [2017-06-28 Wed]
      - Continued working on converting the script =build.sh= into org-mode
      - Completed the build.org file 
        - Link to the build.org file is :- [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
@@ -196,4 +196,9 @@
        - Resources are from course =ITWS-1= 
        - Some of these are reading material
        - Questions related to command line basics etc.
+   + [2017-06-29 Thr]
+      - Worked on the lab to understand the code to convert into python
+      - Learning advanced python. Figured out that I need a py-framework to deal with server-script
+      - The python framework that supports server-scripting is Django.
+      - Started learning Django.
 * Month of  July
