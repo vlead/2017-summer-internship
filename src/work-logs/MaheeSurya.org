@@ -109,7 +109,8 @@ Approved - Lalit Mohan
    + [2017-06-30 Fri] - Completed the conversion of Experiment-14 of
      Colloid-and-Surface-Chemistry lab. Deleted unnecessary images in
      Experiment-1. Will do the same for other experiments too.
-** Week 6 [2017-07-03 Mon] till [2017-07-09 Sun]
+* Month of July
+** Week 1 [2017-07-03 Mon] till [2017-07-09 Sun]
    + [2017-06-03 Mon] - Deleted unnecessary images in Experiment-5. No images
      are available for the conversion of Experiment-3 and Experiment-8. As a
      result, I searched for the images in other experiments.Found some images
@@ -117,3 +118,7 @@ Approved - Lalit Mohan
      screenshots of the experiment or use screencapture tools like
      RecordMyDesktop or Kazam. Will get the all the required images and start
      working on the experiment by tomorrow.
+   + [2017-06-04 Tue] - Working on the conversion of Experiment-5 of
+     Colloid-and-Surface-Chemistry lab. Completed 70% of the conversion. Will
+     try to complete it by tomorrow and will start the conversion of another
+     experiment.
