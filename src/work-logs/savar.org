@@ -88,7 +88,11 @@ All the further work related to this feature is going to be pushed to the output
 	* [2017-06-28 Wed]:Wrote unit tests for the different building blocks.Worked on debugging the code and making it more modeularised.Started working towrads phase two of the project.It involves incorporating an extra CI server feature in our current CI service and then pipling it with the ADS service.
 
 	* [2017-06-29 Thu]:The design of the service was redone and algined in accordance to our current objective.I got back to working on websockets since the second phase of our service is primarily based on this.I am still waiting for my mentor to make a release of our currently built service, once that is done we can start our enhacement work.
-
+	
+	* [2017-06-30 Fri]:We were working towrads making a release for our recently built Continuous Integration APIs.The code was buggy at certain places I finished debugging it.Certain parts of it needed refactoring so I finished that too.
+Documnetation was also completed today.
 
 
 * Month of July
+ 
+ [2017-07-03 Mon]:We got back to our implementation of the console logger on the websocket app page.The front end and backend are perfectly working if run on the local host.The http handshake connection fails when we try runnning the back end code on a container in the base4.The suspected cause maybe the lack of support for the websocket protocol by the underlying layers.We are now trying our luck using AWS.
