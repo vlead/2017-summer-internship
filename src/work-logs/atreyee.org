@@ -162,3 +162,7 @@
      - Debugged the implemented code
      - Designed an expanded, complete test suite for web-app-haskell
      - Made slides to be presented at meeting tomorrow
+   + [2017-07-04 Tue]
+     - Implemented most of test suite for web-app-haskell
+     - Had a meeting with LTRC professors for project. Presented the paper
+       Dependency Grammars as Haskell Programs to them
