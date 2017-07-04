@@ -211,3 +211,9 @@
      - Tried to write down some universal functions to enable the new approach. No luck till now.
      - Got the data of lds from base4 host for the testing purposes. AJAX call works but security issue asks a new approach.
      - Fixed some error codes based on correct responses in lds server and lds-dashboard server.
+   + [2017-07-03 Tue]
+     - Work of function has lead to no where.
+     - Bit of documentation was done.
+     - Started from scratch using notes to implement roles in more dynamic way and hence implement my function.
+     - Total 55 API target needs to be achieved.
+     - Errors fixed, API Methods fixed.
