@@ -159,3 +159,18 @@
      seniors to assist with graphics inputs regarding this project. Also
      discussed idea of integration with other non-profit and social education
      ventures. 
+* Month of July
+** Week 6 [2017-07-03 Mon] till [2017-07-07 Fri]
+   + [2017-07-03 Mon] - Worked on creating a simple interface using html and
+     javascript to display a box, and move and place it anywhere on the
+     screen. Also added the ability to add new boxes to the screen. Also worked
+     on simulating attacks on different services. Was able to extract icon from
+     khanacademy(determining if user is logged in). Also found critical bug in
+     google, which allows us to log a user out of all google services from our
+     attack site.
+   + [2017-07-04 Tue] - Made the code of the simple box display more modular so
+     that it can be edited effectively. Also experimented with changing the
+     sizes of the boxes(successfully). Then worked on fixing the attack site
+     and find new sites to attack. Found that outlook not vulnerable to logout
+     but khanacademy is. Worked on further clickjacking and csrf
+     attacks. Managed to carry out logouts on sites like uber, sbi, skype.
