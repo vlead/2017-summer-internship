@@ -78,8 +78,15 @@
  
 * Month of July
 ** week 1 [2017-07-03 Mon] till [2017-07-09]
-+ [2017-07-03 Mon] - Worked on automation of copying of files from host machine to a base4 container.Remotely copied files over ssh without using password by generating ssh keys.Read the documentaion of automation of cluster.
- 
++ [2017-07-03 Mon] - Worked on automation of copying of files from host machine
+  to a base4 container.Remotely copied files over ssh without using password by
+  generating ssh keys.Read the documentaion of automation of cluster.
++ [2017-07-04 Tue] - Worked on automation of conversion of nmon files generated
+  into .html format by using shell script.Successfully completed the above
+  automation.Also tried to make some changes in .html file.
++ [2017-07-05 Wed] - Worked on making some changes in the html files before
+  visualizing the output using shell script.Successfully completed the above
+  task.Also worked on automation of links of output files while visualizing the output.
 * Repository link
   - [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack]] 
   -  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/nmon][nmon]]
