@@ -217,3 +217,10 @@
      - Started from scratch using notes to implement roles in more dynamic way and hence implement my function.
      - Total 55 API target needs to be achieved.
      - Errors fixed, API Methods fixed.
+   + [2017-07-04 Wed]
+     - Stuck on understanding a workaround working of our LDS integrated web app.
+     - Documentation has been postponed due to not working of major functions, focus is those functions now.
+     - Proxy issues identified in python request, maybe they are preventing the work even in our base4.
+     - API workaround is planned, implementation will be done tonight.
+     - Errors were found in LDS-dash and LDS both, planned to be fixed by next weeks.
+     - Dicipline is not connected to institutes is a major issue. 
