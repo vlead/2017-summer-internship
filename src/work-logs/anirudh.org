@@ -57,3 +57,10 @@
 +  [2017+-06-28 Wed] - Changed the documentation of the alloy datamodel of webapp short course for more readability.Added explanation for each line of alloy code in the documentation and labelled the diagrams for better navigation.Also checked for any mistakes or typos in the documentation.Worked on writing the route for =show_sessions= .Completed the routing for guard and engine part of =show_sessions= operations.
 
 +  [2017+-06-29 Thu] - Worked on writing the route for =set_name= and =set_email= operations.Completed the engine and guard routings for =set_name= (set the name of a user) and =set_email= (set the email of a user).Had a talk with Mr.Thirumal and he asked me to write the tests for the operations simultaneously while writing their engine and guard routes.So, I starting working on writing the tests for the =guard= part of =set_name= and =set_email=.Wrote 5 tests for each of the above operations and also the setup class.
+
++  [2017+-06-30 Fri] - Applied for leave.
+
+** Week 5 [2017-07-3 Mon] till [2017-07-9 Sun]
++  [2017+-07-3 Mon] - Worked on writing the tests for add_role,del_role,set_name,set_email,show_sessions operations .Completed writing the tests for both engine and guard components of the above operations.wrote about 24 tests in total.
++  [2017+-07-4 Tue] - worked on debugging the tests and writing some more tests for the engine and guard of the operations.Had a talk with Mr.Thirumal and he helped me in doing incremental build and sorted a few issues in my laptop.After lunch, the entire day went in debugging the test cases.
++  [2017+-07-5 Wed] - Had a talk with Mr.Thirumal about where our project is headed to i.e, goal is to automate the process of building the application when specifications are given and to implement the actor model.Then I started degugging the code of the routes for engine and gaurd of the operations .Ran the tests for them.I was stuck with an error which I couldnt solve, so I sat down with Thirumal Sir and found the bug.Then I started degugging the remaining errors.More one error is left to debug 
