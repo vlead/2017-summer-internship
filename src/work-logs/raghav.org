@@ -133,3 +133,13 @@
     - It helped me in figuring out the requirements for DSL.
   - met Sai sir and discussed about the implementation timeline for DSL.
   - For now I will start by creating 12 atomic functions for CRUD on Content, Behaviour and Presentation.
+  
++ [2017-07-05 Wed]
+  - Compeleted development of 10 functions.
+  - Testing of 5 functions done.
+  - Some challanges faced
+    - Which to choose, returning an error to calling function or throwing error right when it occured.
+    - How to check if user has given a valid Javascript to add it to DOM node
+    - How to check if a user has given valid CSS input to insert into DOM node.
+    - How much testing should be done? Because I observed that some testcases go in too much details that they start coinciding with testcases for other functions.
+  - *TODO* create small tool using first set of functions.
