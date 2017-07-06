@@ -124,3 +124,8 @@ Approved - Lalit Mohan
      experiment.
    + [2017-06-05 Wed] - Completed the conversion of Experiment-8 of
      Colloid-and-Surface-Chemistry lab. Started the conversion of Experiment-3.
+   + [2017-06-06 Thu] - Working in the converion of Experiment-3 of
+     Colloid-and-Surface-Chemistry lab. Shortage of images is becoming too hard
+     a problem to overcome. Have to find a method for proper conversion of this
+     experiment. Tried ScreenCapture. But as the area to be captured is large,
+     the quality of the video obtained is poor. 
