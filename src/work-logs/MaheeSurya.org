@@ -118,7 +118,9 @@ Approved - Lalit Mohan
      screenshots of the experiment or use screencapture tools like
      RecordMyDesktop or Kazam. Will get the all the required images and start
      working on the experiment by tomorrow.
-   + [2017-06-04 Tue] - Working on the conversion of Experiment-5 of
+   + [2017-06-04 Tue] - Working on the conversion of Experiment-8 of
      Colloid-and-Surface-Chemistry lab. Completed 70% of the conversion. Will
      try to complete it by tomorrow and will start the conversion of another
      experiment.
+   + [2017-06-05 Wed] - Completed the conversion of Experiment-8 of
+     Colloid-and-Surface-Chemistry lab. Started the conversion of Experiment-3.
