@@ -269,3 +269,15 @@ While adding attributes like developers,assets and section,we should be
 able to add multiple things, but i dint take care of that.
 My present implementation only takes care of single data for each attribute.
 i should fix that tomorrow.
+
++[2017-07-06 Thu]
+
+I have implemented the event handlers for add lab and add experiment
+yesterday itself. But i was node done with adding multiple things
+while adding a lab or experiment.
+Morning I worked on this taking care that multiple assets,developers,
+sections can be added to a lab while adding in to LDS.
+I have done both for labs and experiments. 
+Later, i have written event handlers for all the operations like
+add asset,add discipline,add institute,add sections,add hosting-info etc.
+
