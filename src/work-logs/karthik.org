@@ -86,7 +86,13 @@
   automation.Also tried to make some changes in .html file.
 + [2017-07-05 Wed] - Worked on making some changes in the html files before
   visualizing the output using shell script.Successfully completed the above
-  task.Also worked on automation of links of output files while visualizing the output.
+  task.Also worked on automation of links of output files while visualizing the
+  output.
++ [2017-07-06 Thu] - Completed the automation of analyzation of performance of
+  a system using nmon tool. Also wrote shell script such that logs of only
+  previous 3 days will be stored.Ran nmon for every one hour.Only by running a
+  single html file we can see the logs of previous 3 days.
+
 * Repository link
   - [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack]] 
   -  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/nmon][nmon]]
