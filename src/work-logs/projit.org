@@ -174,3 +174,7 @@
      and find new sites to attack. Found that outlook not vulnerable to logout
      but khanacademy is. Worked on further clickjacking and csrf
      attacks. Managed to carry out logouts on sites like uber, sbi, skype.
+   + [2017-07-05 Wed] - Tried(unsuccessfully) to use an image instead of a
+     regular box in the display. Worked on continuing csrf attacks on
+     logout. IOB net banking was also found to be vulnerable to this kind of
+     attack. Also updated paper structure and looked into different versions of FIM.
