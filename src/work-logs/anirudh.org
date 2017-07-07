@@ -67,4 +67,4 @@
 +  [2017+-07-6 Thu] - Was degugging the gaurd route of add_role operation and was stuck with one error.Had some debugging to do in the gaurd part of del_role operation .Starting working on adding a new operation get_user_by_email(Which gets the user from the entity with the given email in the instruction).Completed the route for gaurd part of the get_user_by_email operation and also wrote 5 tests for it.Debugged the code according to the errors when i ran the tests. Finally completed the gaurd part of the get_user_by_email operation along with tests.
 +  [2017+-07-7 Fri] - prepared a presentation file for the work i have done.started work on building the engine route of GetUser by email.Completed the engine route for Getuser by email and also wrote tests and ran them.Then started work on adding another route ie, Get_roles_of_user .Completed the guard route of get_roles_of_user and wrote tests and ran them 
 
-** Week 5 [2017-07-10 Mon] till [2017-07-16 Sun]
+** Week 6 [2017-07-10 Mon] till [2017-07-16 Sun]
