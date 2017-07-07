@@ -239,3 +239,4 @@
      - Drone-stl finally fixed and pushed; work for another intern.
      - Base4 still doesn't have a clue.
      - Event handlers for update and delete in show tables is done.
+     - Made some scripts to automate servers and git push.
