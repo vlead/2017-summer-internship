@@ -232,3 +232,10 @@
      - More functions in progress plus JSON correction and integration is done.
      - Proxy issue workaround for as of now is done.
      - Base4 proxy will be looked tonight.
+   + [2017-07-07 Fri]
+     - Update, Add, Show has been done individually working on their integration with rich dynamic functions.
+     - Dynamic functions for Get requests is done, rest will be implemented along with the left out integration.
+     - Have taken a target of Monday to finish off everything.
+     - Drone-stl finally fixed and pushed; work for another intern.
+     - Base4 still doesn't have a clue.
+     - Event handlers for update and delete in show tables is done.
