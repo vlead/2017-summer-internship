@@ -71,7 +71,10 @@
   	 Had a discussion with chopella sir-
 	   	1. Add the graphs and notations for counting no. of steps taken for a single run and plotting them for 			different data sizes.
 		
+		
+		
    ** Week 5 [2017-06-26 Mon] till [2017-06-30 Fri]
+   
    + [2017-06-26 Mon] - Eid-ul-fitr holiday
    
    + [2017-06-27 Tue] - I had taken on a leave on this day on the pretext of visiting my hometown for the long weekend.Leave request was duly submitted to my mentor.
@@ -86,4 +89,21 @@
    1 Come up with a design for the quick sort experiment.
    2 Discuss with Chopella sir about the design.
    3 Code the design for a final release.
+   
+   
+** Week 6 [2017-07-03 Mon] till [2017-07-07 Fri]
+     
+   + [2017-06-03 Mon] - Started task1 i.e to come up with a design about the quick sort experiment. Finally was bale to work out a good and workable design. Design specifications are-
+   1. The last element will be pivot
+   2. The array after parition is displayed just below.
+   3. Then it is split into two parts.
+   4. Steps 1-3 are repeated.
+   The main issue was id of the elements and their placement.
+ 
+  
+   + [2017-06-04 Tue] - Started working out the and coding the design part. Met Arjun Sanjeev today and took his inputs on the project. His suggestions were to add a highlighting and dfs king of thing using timers so that it becomes more attractive. Will work on his inputs after completing the quick sort design. 
+   
+   + [2017-06-05 Wed] - Continued coding the quick sort experiment. Faced some issues regardung handling the pivot and its display position. Moreover giving id was also diffcult as every node had three children. 
+   
+   + [2017-06-06 Thu] - Completed the design and coding part but still one minor bug remains that is the pivot is being displayed right w.r.t to split part. Saw some examples of dagre library again but could not find a satisfactory solution. Tried various ways to change that but could not solve the problem. Will try to solve it tomorrow after that adding the user input the design will be completed.
    
