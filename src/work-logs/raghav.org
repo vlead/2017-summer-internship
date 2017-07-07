@@ -134,7 +134,7 @@
   - met Sai sir and discussed about the implementation timeline for DSL.
   - For now I will start by creating 12 atomic functions for CRUD on Content, Behaviour and Presentation.
   
-+ [2017-07-05 Wed]
++ [2017-07-05 Wed]->[2017-07-06 Thur]
   - Compeleted development of 10 functions.
   - Testing of 5 functions done.
   - Some challanges faced
