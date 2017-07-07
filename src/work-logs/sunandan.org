@@ -75,9 +75,29 @@
   + [2017-06-30 Fri]-Half of the session was code-review.Then
     completed writing playbook for rkhunter tool and included and
     tested it on all containers.Working fine.
+* Month of July
+** Week 9 [2017-07-03 Mon] till [2017-07-09 Sunday]
+ + [2017-07-03 Mon]- Need to change the system-model repository
+   separately for servers and clients as per suggestion.Changed the
+   system-model repository accordingly.Tried on a base machine to test
+   this script.
+ + [2017-07-04 Tues] - New suggestion for automation of cluster is to
+   reduce the time taking for installing servers and clients one after
+   the other.Instead if we run all the servers at a time in parallel
+   then there will be some time decreased.Tried to implement this
+   method there are some errors.Though the script is running but it is
+   not making any changes that needs to be done.Some background shell
+   is running which is undergoing some error.Need to fix it.Used some
+   pause module to prevent continues executing.Even though no use.
+ + [2017-07-05 Wed] - Tried  to fix servers issue.Working fine.Similar
+   method is  tried for clients  but clients  are not working  same as
+   servers used to  be.Some scripts are running in  the background but
+   they  are  still  not  working.Wrote shell  script  to  change  the
+   variables in cluster-automation automatically.Tried to compare time
+   limit for parallel-cluster and sequential cluster.
+
 * Repository link
   [[https://github.com/vlead/cluster-automation][cluster-automation repository]] 
  
-
 
 

@@ -243,9 +243,46 @@ have started working on that.
 * Month of July
 ** Week 1 [2017-07-03 Mon] till [2017-07-09 Sun]
 
++[2017-07-03 Mon]
+
 In the morning i worked on JSON files for sometime. There were
 a few minor syntax errors which were fixed.Later i worked on the 
 documentation part of the web-frontend. I was working on improving the
 documentation as has been said by thirumal sir. 
 While linking the 2 backend servers, we faced a problem with security
-issues. So i was surfed the internet of liable soulutions to this.
+issues. So i surfed the internet of liable soulutions to this.
+
++[2017-07-04 Tue]
+In the morning in worked on the documentation. I made the documentation
+look more narrative and descriptive. Then i worked on the JSON files.
+There were a few changes to be made in the id's and name of the containers.
+Then i started writing event handler for add lab operation. I could not
+complete it because i faced many problems and errors.
+
+
++[2017-07-05 Wed]
+I have started working on the add lab event handlers. I already
+did the ground work for it  yesterday. So i started working on it.
+I am done with event handlers of add lab and add experiment which
+are the bigger ones in the lds. Although it did not finish completely.
+While adding attributes like developers,assets and section,we should be
+able to add multiple things, but i dint take care of that.
+My present implementation only takes care of single data for each attribute.
+i should fix that tomorrow.
+
++[2017-07-06 Thu]
+
+I have implemented the event handlers for add lab and add experiment
+yesterday itself. But i was not done with adding multiple things
+while adding a lab or experiment.
+Morning I worked on this taking care that multiple assets,developers,
+sections can be added to a lab while adding in to LDS.
+I have done both for labs and experiments. 
+Later, i have written event handlers for all the operations like
+add asset,add discipline,add institute,add sections,add hosting-info etc.
+
++[2017-07-07 Fri]
+I have worked on writing the event handler for all the update operations.
+Event handlers were written for all the update operations like
+update lab,update experiment,update asset, update discipline,update institute
+etc. All of them are working properly. We are now yet to integrate.

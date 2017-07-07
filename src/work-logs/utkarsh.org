@@ -203,7 +203,7 @@
      - In the evening I had to attend the TED Talk session organised every friday. 
 * Month of July
 ** Week 1 [2017-07-02 Mon] till [2017-07-08 Sun]
-   + [2017-07-02 Mon]
+   + [2017-07-03 Mon]
      - Fixed some more errors with JSON specification.
      - Tried to lay down a new approach which would seperate by front-end and lds server interaction would enable lds-dashboard server to lds server interaction.
      - Wokring on some security fixes.
@@ -211,9 +211,32 @@
      - Tried to write down some universal functions to enable the new approach. No luck till now.
      - Got the data of lds from base4 host for the testing purposes. AJAX call works but security issue asks a new approach.
      - Fixed some error codes based on correct responses in lds server and lds-dashboard server.
-   + [2017-07-03 Tue]
+   + [2017-07-04 Tue]
      - Work of function has lead to no where.
      - Bit of documentation was done.
      - Started from scratch using notes to implement roles in more dynamic way and hence implement my function.
      - Total 55 API target needs to be achieved.
      - Errors fixed, API Methods fixed.
+   + [2017-07-05 Wed]
+     - Stuck on understanding a workaround working of our LDS integrated web app.
+     - Documentation has been postponed due to not working of major functions, focus is those functions now.
+     - Proxy issues identified in python request, maybe they are preventing the work even in our base4.
+     - API workaround is planned, implementation will be done tonight.
+     - Errors were found in LDS-dash and LDS both, planned to be fixed by next weeks.
+     - Dicipline is not connected to institutes is a major issue. 
+   + [2017-07-06 Thurs]
+     - Integration has begun with full force. 
+     - First function is prepared, currently its dynamically calling 4 Ajax calls as of now. More to be done tomorrow.
+     - API documentation is still stopped.
+     - Fixed a error in code for drone-sitl and pushed for another intern.
+     - More functions in progress plus JSON correction and integration is done.
+     - Proxy issue workaround for as of now is done.
+     - Base4 proxy will be looked tonight.
+   + [2017-07-07 Fri]
+     - Update, Add, Show has been done individually working on their integration with rich dynamic functions.
+     - Dynamic functions for Get requests is done, rest will be implemented along with the left out integration.
+     - Have taken a target of Monday to finish off everything.
+     - Drone-stl finally fixed and pushed; work for another intern.
+     - Base4 still doesn't have a clue.
+     - Event handlers for update and delete in show tables is done.
+     - Made some scripts to automate servers and git push.

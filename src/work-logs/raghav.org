@@ -119,7 +119,27 @@
   - Compeleted the Semantic structure of data model. Few properties may be wrongly placed but I have tried my best to do the justice with existing structure with whatever contexts and properties were available on =schema.org=.
   - Saw two tech talks on DSL and parsing.
   - Integration of =SSS-Maker=, =SSS-Renderer= and =SSS-Persistence= is successfully done and deployed on base4 containers.+ 
-+ *TODO* [2017-07-04 Tue]
-- write narrative for idea of DSL
-- write explanation for Semantic structure
-- get DSL book from Sai Sir
++ [2017-07-04 Tue]
+  - Meeting with Venkatesh Sir
+    - It was about making =sss= project more generic.
+    - user should be able to custom transcripts to a video
+      - add questions or notes
+      - add links
+    - and all this should be addressable.
+    - These will add more usecase to the project.
+    
+  - wrote explanation for Semantic structure and mailed to Sai sir.
+  - Read APSEC paper written to be published on 7th July.
+    - It helped me in figuring out the requirements for DSL.
+  - met Sai sir and discussed about the implementation timeline for DSL.
+  - For now I will start by creating 12 atomic functions for CRUD on Content, Behaviour and Presentation.
+  
++ [2017-07-05 Wed]->[2017-07-06 Thur]
+  - Compeleted development of 10 functions.
+  - Testing of 5 functions done.
+  - Some challanges faced
+    - Which to choose, returning an error to calling function or throwing error right when it occured.
+    - How to check if user has given a valid Javascript to add it to DOM node
+    - How to check if a user has given valid CSS input to insert into DOM node.
+    - How much testing should be done? Because I observed that some testcases go in too much details that they start coinciding with testcases for other functions.
+  - *TODO* create small tool using first set of functions.
