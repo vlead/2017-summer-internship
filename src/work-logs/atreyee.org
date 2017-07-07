@@ -166,3 +166,24 @@
      - Implemented most of test suite for web-app-haskell
      - Had a meeting with LTRC professors for project. Presented the paper
        Dependency Grammars as Haskell Programs to them
+   + [2017-07-05 Wed]
+     - Had a meeting with LTRC professors for NLP project. Our current aim is
+       to use the existing haskell Grammatical Framework environment and study 
+       how it does not meet their requirements for a grammatical framework, and
+       attempt to refactor the GF environment to be more suitable to their
+       uses.
+     - Downloaded GF, and looked through the tutorial on GF. Learned the basics
+       of using GF.
+     - Finished test suite for web-app-haskell.
+   + [2017-07-06 Thurs]
+     - Read through GF tutorial.
+     - Wrote a script to measure non-comment non-whitespace lines 
+       of code in a program, and ran it for both the Haskell
+       program and the Python webapp
+     - Attempted to find documentation for GF Resource Grammar
+       libraries
+   + [2017-07-07 Fri]
+     - Read more of the GF tutorial. Got an idea of how the
+       Resource Grammar framework is used
+     - Wrote part of the Haskell/Python comparison study paper
+     
