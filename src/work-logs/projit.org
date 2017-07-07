@@ -178,3 +178,8 @@
      regular box in the display. Worked on continuing csrf attacks on
      logout. IOB net banking was also found to be vulnerable to this kind of
      attack. Also updated paper structure and looked into different versions of FIM.
+   + [2017-07-06 Thurs] - Made changes to the movement in box. Can now upload
+     an image url and it will display that image in the box. That image can
+     then be moved around in the box and placed at any point(could potentially
+     be used by other groups to get coordinates of where to place
+     images). Carried out google logout attack in proper format with screenshots.
