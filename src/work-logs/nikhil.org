@@ -202,3 +202,29 @@
       - The python framework that supports server-scripting is Django.
       - Started learning Django.
 * Month of  July
+** Week 1 [2017-07-03 Mon] till [2017-06-09 Sun]
+   + [2017-07-03 Mon] 
+     - updated the whole code of the the initialise.sh into org-mode
+     - updated the whole code of build.sh into org-mode
+     - Here are the links to the updated literate-codes
+       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
+       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
+   + [2017-07-04 Tue]
+      + Working on the lab to gather some resoures to improvise the experimernts.
+      + Today, I tried to understand the working of the current experiments in linux-lab.
+      + there are some bugs in these exp.
+      + there are some exp which are not working.
+   + [2017-07-05 Wed]
+    - Tested the lab on my friends computer
+    - It's showing some errors on testing on a virtual-box while it's working fine on a container on base4 machine.
+    - Fixed the error due to putting on the password for admin authentication as "password" instead of the inputted password. 
+    - Made changes to scripts to solve error 
+    - updated the documentation - added the architecture 
+   + [2017-07-06 Thr]
+     - Met with my mentor regarding the lab.
+       - MOM of meetings 
+         - We discussed on systems and ML. 
+	 - About why system is important and how it is relates to ML.
+	 - Putting on the lab in the production environment on cloud.
+	 - We discussed on cloud and Engineering systems.
+	 
