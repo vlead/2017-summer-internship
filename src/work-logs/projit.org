@@ -183,3 +183,13 @@
      then be moved around in the box and placed at any point(could potentially
      be used by other groups to get coordinates of where to place
      images). Carried out google logout attack in proper format with screenshots.
+   + [2017-07-07 Fri] - Carried out the rest of the attacks with proper
+     documentation. Created outline for paper. Tried to resize images uploaded
+     into the frame. Was able to either resize or move not both simultaneously.
+
+** Week 7 [2017-07-10 Mon] till [2017-07-14 Fri]
+   + [2017-07-10 Mon] - Continued to try working on the resizing of images. Met
+     with Akash to layout paper format and further goals. Researched shibboleth
+     and wrote about it as well. Also looked a bit into pygame (potential for
+     lab authoring tools). Will clean up the documentation of authoring tools
+     so far tomorrow. 
