@@ -273,7 +273,7 @@ i should fix that tomorrow.
 +[2017-07-06 Thu]
 
 I have implemented the event handlers for add lab and add experiment
-yesterday itself. But i was node done with adding multiple things
+yesterday itself. But i was not done with adding multiple things
 while adding a lab or experiment.
 Morning I worked on this taking care that multiple assets,developers,
 sections can be added to a lab while adding in to LDS.
@@ -281,3 +281,8 @@ I have done both for labs and experiments.
 Later, i have written event handlers for all the operations like
 add asset,add discipline,add institute,add sections,add hosting-info etc.
 
++[2017-07-07 Fri]
+I have worked on writing the event handler for all the update operations.
+Event handlers were written for all the update operations like
+update lab,update experiment,update asset, update discipline,update institute
+etc. All of them are working properly. We are now yet to integrate.
