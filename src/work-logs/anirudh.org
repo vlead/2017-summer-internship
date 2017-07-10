@@ -68,3 +68,4 @@
 +  [2017+-07-7 Fri] - prepared a presentation file for the work i have done.started work on building the engine route of GetUser by email.Completed the engine route for Getuser by email and also wrote tests and ran them.Then started work on adding another route ie, Get_roles_of_user .Completed the guard route of get_roles_of_user and wrote tests and ran them 
 
 ** Week 6 [2017-07-10 Mon] till [2017-07-16 Sun]
++  [2017+-07-10 Mon] - Completed the engine and guard routes of Show_user_details .Wrote tests and ran them.Fixed the errors.Added more tests for the guard route.Fixed some errors and bugs in the add_role route.Test cases for add_role now pass without error.Fixed some typos and errors in the routes which were already built previously
