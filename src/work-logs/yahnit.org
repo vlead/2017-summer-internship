@@ -286,3 +286,13 @@ I have worked on writing the event handler for all the update operations.
 Event handlers were written for all the update operations like
 update lab,update experiment,update asset, update discipline,update institute
 etc. All of them are working properly. We are now yet to integrate.
+
+** Week 2 [2017-07-10 Mon] till [2017-07-17 Sun]
+ 
+  +[2017-07-11 Mon]
+I worked on the JSON specifications. Requirements
+were slightly changed a bit and also i made a lot of changes to the
+html files while writing event handlers for all the CRUD operations.
+I worked on Add and Update operations of the experiment and lab entities.
+Later, i worked on integrating these event handlers with the actual
+LDS dashboard.
