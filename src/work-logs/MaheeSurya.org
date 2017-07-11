@@ -131,3 +131,7 @@ Approved - Lalit Mohan
      the quality of the video obtained is poor. 
    + [2016-07-07 Fri] - Working on fixing errors in previous experiments and
      improving some features.
+** Week 2 [2017-07-10 Mon] till [2017-07-16 Sun]
+   + [2017-07-10 Mon] - Holiday
+   + [2017-07-11 Tue] - Working on the conversion of Experiment-3 of
+     Colloid-ans-Surface-Chemistry lab. Also fixed errors in Experiment-8.
