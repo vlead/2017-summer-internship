@@ -187,3 +187,18 @@
        Resource Grammar framework is used
      - Wrote part of the Haskell/Python comparison study paper
      
+** Week 7 [2017-07-10 Mon] till [2017-07-16 Sun]
+
+   + [2017-07-10 Mon]
+     - Studied the GF developers' guide, to get an idea of how one would edit
+       the GF source software
+     - Made notes on the structure of GF. Would like to meet with LTRC project
+       profs for clarification of project task
+     - Continued writing Haskell-Python comparision study paper. Researched
+       metrics to compare on
+
+   + [2017-07-11 Tue]
+     - Talked to Anirudh about modularisation of code
+     - Finalised set of metrics by which to compare code
+     - Worked on comparision-study paper
+     - Looked into modularising existing Haskell code
