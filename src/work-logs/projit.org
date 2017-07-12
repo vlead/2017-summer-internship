@@ -192,4 +192,16 @@
      with Akash to layout paper format and further goals. Researched shibboleth
      and wrote about it as well. Also looked a bit into pygame (potential for
      lab authoring tools). Will clean up the documentation of authoring tools
-     so far tomorrow. 
+     so far tomorrow.
+   + [2017-07-11 Tue] - Read more on pygame. Worked on the paper, writing about
+     Shibboleth(which was cancelled in the end). Also wrote on other 
+     areas.
+   + [2017-07-12 Wed] - Worked mainly on the paper today. Condensed images
+     together to form a single image to decrease need for space. Also filled in
+     missing text in various locations(connecting sentences and introductions
+     to different sub-parts). Created a table that shows service, FIMs used,
+     logout url. Also wrote about SAML. Worked out a plan for completing the
+     writing part of the rest of the paper. Hopefully writing will be complete
+     as of end of tomorrow, and we can start condensing from Friday.
+
+     
