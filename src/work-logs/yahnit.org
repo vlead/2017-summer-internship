@@ -299,3 +299,12 @@ html files while writing event handlers for all the CRUD operations.
 I worked on Add and Update operations of the experiment and lab entities.
 Later, i worked on integrating these event handlers with the actual
 LDS dashboard.
+
+ + [2017-07-12 Wed]
+
+In the morning i looked at the django tutorials as suggested
+by one of my mentors. I looked at the tutorials till the 
+afternoon. Later, i worked on writing the testcases for
+new API's namely lds_auth_get,lds_auth_post,lds_auth_put,
+lds_auth_delete. I completed testcases for the get method
+and are in proper working condition.
