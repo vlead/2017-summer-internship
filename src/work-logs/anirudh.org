@@ -69,3 +69,5 @@
 
 ** Week 6 [2017-07-10 Mon] till [2017-07-16 Sun]
 +  [2017+-07-10 Mon] - Completed the engine and guard routes of Show_user_details .Wrote tests and ran them.Fixed the errors.Added more tests for the guard route.Fixed some errors and bugs in the add_role route.Test cases for add_role now pass without error.Fixed some typos and errors in the routes which were already built previously
++  [2017+-07-11 Tue] - Started working on writing the route for GetRoleSet.Completed the route for the guard of get_role_set_in_system and wrote tests and ran them.Fixed some errors after running the tests.Talked with Atreyee on how my work could be useful for her .Then i completed the engine route of the get_role_set_in_system operation.Wrote tests for it and ran them and fixed the errors generates after running those tests.
++  [2017+-07-12 Wed] - Added explanation to the routes and made them more readable.Had a talk with Mr.Thirumal about my work and he asked me to look at the rest API in the master branch and see how it works.He asked me to build an instruction creator which takes in an input and creats an instruction out of it and sends it to the guard or engine.

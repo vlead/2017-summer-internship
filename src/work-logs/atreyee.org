@@ -196,3 +196,9 @@
        profs for clarification of project task
      - Continued writing Haskell-Python comparision study paper. Researched
        metrics to compare on
+
+   + [2017-07-11 Tue]
+     - Talked to Anirudh about modularisation of code
+     - Finalised set of metrics by which to compare code
+     - Worked on comparision-study paper
+     - Looked into modularising existing Haskell code
