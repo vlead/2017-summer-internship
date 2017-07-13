@@ -142,4 +142,28 @@
     - How to check if user has given a valid Javascript to add it to DOM node
     - How to check if a user has given valid CSS input to insert into DOM node.
     - How much testing should be done? Because I observed that some testcases go in too much details that they start coinciding with testcases for other functions.
-  - *TODO* create small tool using first set of functions.
+
++ [2017-07-07 Fri]
+  - created highlighting tool using first set of functions.
+
+** Week 2 [2017-07-10 Mon] till [2017-07-14 Fri]
++ [2017-07-10 Mon] -> [2017-07-11 Tue]
+  - met Sai sir and Shridaran sir
+    - Discussed about the goals we are trying achieve using DSL
+      - DSL should be easy to understand and learn because it is created for technically illitrate users.
+    - DSL should come much later in the development pipeline.
+    - First we have to create all the related functions.
+    - Idea of Service oriented architecture and Aspect oriented programming was also tossed.
+    - I argued about the idea of converting all the features as webservice and then creating DSL over it.
+    - Ideally webservices are independent of each other and don't share any functionality but in our case, nearly all the tools which we will be building will share many common functions like CRUD operation functions.
+    - We finalized to focus on development of a working model for now and DSL will come later on.
+  
++ [2017-07-12 Wed]
+  - Read complete paper on DSL for renarration which is co-authored by Sai sir.
+  - Met Venkatesh Sir and he asked about the status of video annotation tool. He want it to be completed within one week.
+   - Also discussed about the notion of visual DSL which was strongly rejected by Venkatesh sir given the reason that there is scarecity of visual DSL tools.
+    - He instructed me to demo virtual labs for music which was part of Tejaswinee's and Annon's project.
+    - I have to drop a mail to Tejaswinee to ask her about revival of this website by removing persona login.
+  - Met Sir sir and discussed about the exact requirements on which I have to build the system.
+    - Finalized on the work expected from me to be done by this week and next.
+ 
