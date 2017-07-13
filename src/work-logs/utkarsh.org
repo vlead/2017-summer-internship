@@ -230,8 +230,7 @@
      - API documentation is still stopped.
      - Fixed a error in code for drone-sitl and pushed for another intern.
      - More functions in progress plus JSON correction and integration is done.
-     - Proxy issue workaround for as of now is done.
-     - Base4 proxy will be looked tonight.
+     - Proxy issue workaround for as of now is done. Base4 proxy will be looked tonight.
    + [2017-07-07 Fri]
      - Update, Add, Show has been done individually working on their integration with rich dynamic functions.
      - Dynamic functions for Get requests is done, rest will be implemented along with the left out integration.
@@ -240,3 +239,32 @@
      - Base4 still doesn't have a clue.
      - Event handlers for update and delete in show tables is done.
      - Made some scripts to automate servers and git push.
+
+** Week 2 [2017-07-10 Mon] till [2017-07-16 Sun]
+   + [2017-07-10 Mon]
+     - Most of the dynamics have been laid out and discussed, work has started on integrating each one of them.
+     - Work on show tables is totally done, along with fixing some bugs with wrong data values.
+     - Update and Remove buttons are added. Id are not yet added and hence handlers are a far thought as of now. 
+     - Heavy modifications in JSON to initiate with add experiments and labs.
+     - Fixed some more errors with LDS. 
+   + [2017-07-11 Tue]
+     - Started add entity operations. Adding only lab and experiment. Assets and other doesn't loook to be independent existence to me.
+     - Institutes and Discipline add will be added soon. JSON is however created for everything.
+     - Trying to manage both new entities along with the old one, creating problems, won't fix as of today.
+     - Making handlers for check boxes to manage the above problems.
+     - Add null exception checks in LDS. 
+     - Dropdown population done.
+   + [2017-07-12 Wed]
+     - Checkbox handlers are done and running.
+     - Add and remove buttons for add are done and running.
+     - Data formats have been fixed, done and finally running.
+     - Add calls are not successfull for both labs and experiments. Fixed.
+     - Dropdown options still won't work, problem with values they have as properties, won't fix today.
+   + [2017-07-13 Thurs]
+     - Remove is ready as of today, there's still many errors with main LDS server. Mentor is informed to do the required fixes.
+     - There's still problem with add entity select options. Will be done tomorrow.
+     - Pushed all the integration changes till now to git (around after 1 week of hardwork, it's somewhat working).
+     - Update user has been finally fixed after two weeks of laziness.
+     - All the functions to contact LDS through LDSD are done and tested except 'PUT'.
+     - Test cases have been written but failing. Have to check routes to fix them. Maybe end of the weekend.
+   + [2017-07-14 Fri]
