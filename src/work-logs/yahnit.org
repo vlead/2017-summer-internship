@@ -316,3 +316,11 @@ which internally talk to the actual LDS server. Atleast 3 test cases
 have been written for each API and are in proper working condition.
 In the Afternoon, i looked at the django tutorials for some time and
 later worked on integrating the event handlers with the LDS dashboard.
+
++ [2017-07-14 Fri]
+
+Integration of the Add and Delete operations on all the
+entities is done and pushed to git. I have worked the whole
+day on documentation of the pushed code. Literate has been done
+for the code. Detail explanation of the frontend code is done.
+
