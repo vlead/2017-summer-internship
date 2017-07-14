@@ -71,7 +71,10 @@ The design for the new process of continuous integration was made and uploaded o
 
 
 * Month of July
-** Week 6[2018-0
+** Week 6[2018-07-03 Mon till 2018-07-09]
 
 [2018-07-03] Started trying to deploy the app using NGINX and Gunicorn in the begining, after a while I realized that gunicorn is redundant, so I started to use uWSGI to deploy the app on the Base4 server and faced the same error 'No module named wsgi'.
+
+[2018-07-04] Worked on the deployment and tried to fix the errors that I encountered whilst trying to deploy the ci app. Things seemed to work but in the end I was faced with an open ended "Internal system error"
+
 

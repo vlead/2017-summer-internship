@@ -308,3 +308,19 @@ afternoon. Later, i worked on writing the testcases for
 new API's namely lds_auth_get,lds_auth_post,lds_auth_put,
 lds_auth_delete. I completed testcases for the get method
 and are in proper working condition.
+
++ [2017-07-13 Thu]
+
+In the morning i worked on the test cases for the 4 new API's
+which internally talk to the actual LDS server. Atleast 3 test cases
+have been written for each API and are in proper working condition.
+In the Afternoon, i looked at the django tutorials for some time and
+later worked on integrating the event handlers with the LDS dashboard.
+
++ [2017-07-14 Fri]
+
+Integration of the Add and Delete operations on all the
+entities is done and pushed to git. I have worked the whole
+day on documentation of the pushed code. Literate has been done
+for the code. Detail explanation of the frontend code is done.
+
