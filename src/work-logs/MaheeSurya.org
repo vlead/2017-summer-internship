@@ -138,3 +138,4 @@ Approved - Lalit Mohan
    + [2017-07-12 Wed] - Found new errors in previous experments. Images overlap
      when browser is resized. Fixing the issue. Also worked on Experiment-3.
    + [2017-07-13 Thu] - Fixing errors caused due to browser resize issue.
+   + [2017-07-14 Fri] - Fixed resize errors in Experiment-8 and Experiment-1.
