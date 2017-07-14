@@ -203,5 +203,12 @@
      logout url. Also wrote about SAML. Worked out a plan for completing the
      writing part of the rest of the paper. Hopefully writing will be complete
      as of end of tomorrow, and we can start condensing from Friday.
+   + [2017-07-13 Thurs] - Worked on more writing for the paper. Wrote the
+     Introduction for the paper along with some other lines required in various
+     places of the paper
+   + [2017-07-14 Fri] - Worked on writing the paper as well as starting
+     creating the poster to be presented next week. Wrote the Cross-site timing
+     attack part as well as condensed images for it's mitigation. Also worked
+     on documentation in the lab authoring tools. 
 
      
