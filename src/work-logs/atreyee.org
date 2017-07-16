@@ -139,4 +139,66 @@
        stand the parser engine demonstrated in the paper,
        as well as to make a demonstration tool to explain the 
        paper.
+   + [2017-06-28 Wed]
+     - Leave
+   + [2017-06-29 Thu]
+     - Worked on completing web-app-haskell according to web-app-short-course
+       requirements
+     - Built a working dependency parser (that parses a small subset of English
+       sentences)
+   + [2017-06-30 Fri]
+     - Worked on expanding the sample grammar for the dependency 
+       parser, including adding support for rules and constraints
+     - Had a meeting with my project mentor, in which I presented 
+       the paper Dependency Grammars as Haskell Programs, and my 
+       implementation of the parser
+     - Attended a tech talk in the afternoon
 * Month of July
+
+** Week 6 [2017-07-03 Mon] till [2017-07-09 Sun]
+
+   + [2017-07-03 Mon]
+     - Implemented remaining functionality of web-app-haskell.
+     - Debugged the implemented code
+     - Designed an expanded, complete test suite for web-app-haskell
+     - Made slides to be presented at meeting tomorrow
+   + [2017-07-04 Tue]
+     - Implemented most of test suite for web-app-haskell
+     - Had a meeting with LTRC professors for project. Presented the paper
+       Dependency Grammars as Haskell Programs to them
+   + [2017-07-05 Wed]
+     - Had a meeting with LTRC professors for NLP project. Our current aim is
+       to use the existing haskell Grammatical Framework environment and study 
+       how it does not meet their requirements for a grammatical framework, and
+       attempt to refactor the GF environment to be more suitable to their
+       uses.
+     - Downloaded GF, and looked through the tutorial on GF. Learned the basics
+       of using GF.
+     - Finished test suite for web-app-haskell.
+   + [2017-07-06 Thurs]
+     - Read through GF tutorial.
+     - Wrote a script to measure non-comment non-whitespace lines 
+       of code in a program, and ran it for both the Haskell
+       program and the Python webapp
+     - Attempted to find documentation for GF Resource Grammar
+       libraries
+   + [2017-07-07 Fri]
+     - Read more of the GF tutorial. Got an idea of how the
+       Resource Grammar framework is used
+     - Wrote part of the Haskell/Python comparison study paper
+     
+** Week 7 [2017-07-10 Mon] till [2017-07-16 Sun]
+
+   + [2017-07-10 Mon]
+     - Studied the GF developers' guide, to get an idea of how one would edit
+       the GF source software
+     - Made notes on the structure of GF. Would like to meet with LTRC project
+       profs for clarification of project task
+     - Continued writing Haskell-Python comparision study paper. Researched
+       metrics to compare on
+
+   + [2017-07-11 Tue]
+     - Talked to Anirudh about modularisation of code
+     - Finalised set of metrics by which to compare code
+     - Worked on comparision-study paper
+     - Looked into modularising existing Haskell code

@@ -7,9 +7,10 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document hols the time sheets for my work during the summer internship
+  This document holds the time sheets for my work during the summer internship
   at VLEAD, IIIT Hyderabad.
-  * Month of May
+
+* Month of May
 ** Week 1 [2017-05-10 Wed] till [2017-05-14 Sun]
    + [2017-05-10 Wed] - Configured laptop as per the requirement for work environment.We were given material to study different languages required throughout the internship period.Started learning with racket language.Installed racket and studied the material for today
    + [2017-05-11 Thurs] - Learned racket and started doing assignment-1 and Completed the assignment
@@ -29,7 +30,7 @@
    
 ** Week 4 [2017-05-29 Mon] till [2017-05-31 Wed]
    + [2017-05-29 Mon] - Resolved some issues while bridging network.Completed automation of bridge network part.Pushed to github link is mentioned below.Bridge part is in basesetup in src/roles directory
-   + [2017-05-30 Tues] - Automated installing openvz part but there is some trouble for installing proxy in ansible while installing git 
+   + [2017-05-30 Tues] - Automated installing openvz part but there is some trouble for installing proxy in ansible while installing git.
    + [2017-05-31 Wed] - Resolved issue of proxy by using environment module in ansible.Finally completed the openvz installation and automation of it 
 
 * Month of June
@@ -47,6 +48,9 @@
 + [2017-06-07 Wed] - Visualised graphs for more than one parameter on X-axis using kibana. worked on converted a given text file to json format which can be given to kibama nd used for visualisation.
 + [2017-06-08 Thu] - Successfully coverted a given text file to json format using format and given the output json file to elasticsearch which inturn is connected to kibana.Visualized graphs for the some of the parameters in given through the text file using kibana.
 + [2017-06-09 Fri] - Started working on getting logs from the system using logstash. Tried converting text files to json files using logstash plugins.
+
+
+** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
 + [2017-06-12 Mon] - Installed elk stack in a container.Started working on coverting text files to json files using logstash plugins. visualized graphs for some logs using kibana.
 
 + [2017-06-13 Tue] - Started working on elkstack and configured filebeat.Working on giving bulkdata to kibana using elasticsearch database and generating graphs.
@@ -56,11 +60,40 @@
 
 + [2017-06-16 Fri] -  Presentation of the progress made last week.Later in the evening we had a tech talk presentation by Brit Victor.
 
+** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
+
 + [2017-06-19 Mon] - Working on filebeats and logstash filters. Solved some errors while giving data to elasticsearch from kibana.
 + [2017-06-21 Wed] - Able to push some logfiles into kibana using logstash filters but unable to convert the logfiles into json format and push it to elasticsearch.
 + [2017-06-22 Thur] - Tried solving the errors which I have got the previous day using filebeats and LOgstash input plugin exec.
 + [2017-06-23 Fri] - Installed and started Using the nmon Tool for Monitoring Systems Performance. Read about the nmon tool and how to extract logs and stats into a new csv file.
+*
 
-+ [2017-06-27 Mon] - Visualized the logs of the logs of the sysytem using nmon and generated graphs. Converted .nmon file to .html format using nmonchart and generated graphs using nmon. 
- Month of July
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Mon]
 
++ [2017-06-27 Tue] - Visualized the logs of the logs of the sysytem using nmon and generated graphs. Converted .nmon file to .html format using nmonchart and generated graphs using nmon. 
++ [2017-06-28 Wed] - Genearted graphs for a particular interval of time and made documentation of the whole process. Tried parsing previous logs of the system using nmon.
++ [2017-06-29 Thu] - Worked on getting output(logs) automatically using crontab and storing them according to timestamp. Also tried how to convert .nmon fies to .html.
++ [2017-06-30 Fri] - made the documentation of the project and uploaded in github. There was code review in the morning session.
+ Worked on copying files  from host machine to container and viceversa. Tried automating the same using shell script.
+ 
+* Month of July
+** week 1 [2017-07-03 Mon] till [2017-07-09]
++ [2017-07-03 Mon] - Worked on automation of copying of files from host machine
+  to a base4 container.Remotely copied files over ssh without using password by
+  generating ssh keys.Read the documentaion of automation of cluster.
++ [2017-07-04 Tue] - Worked on automation of conversion of nmon files into
+  .html format by using shell script.Successfully completed the above
+  automation.Also tried to make some changes in .html file.
++ [2017-07-05 Wed] - Worked on making some changes in the html files before
+  visualizing the output using shell script.Successfully completed the above
+  task.Also worked on automation of links of output files while visualizing the
+  output.
++ [2017-07-06 Thu] - Completed the automation of analyzation of performance of
+  a system using nmon tool. Also wrote shell script such that logs of only
+  previous 3 days will be stored.Ran nmon for every one hour.Only by running a
+  single html file we can see the logs of previous 3 days.
+
+* Repository link
+  - [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack]] 
+  -  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/nmon][nmon]]
+  -  [[https://github.com/Karthik183/performance-test-nmon/][nmon]]

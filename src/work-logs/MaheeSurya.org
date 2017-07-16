@@ -25,7 +25,7 @@
      a Flash Decompiler to get all images of the swf file. Learned about Image
      Mapping which can be used in the work. Revised the documentation of the
      conversion of Flash into JavaScript.  
-** Week 1 [2017-06-05 Mon] till [2017-06-11 Sun]
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-05 Mon] - Worked on converting Experiment-1 of
      Colloid-and-Surface-Chemistry lab. Worked on CSS and JavaScript to get
      the required effect on the HTML page.
@@ -91,3 +91,51 @@
    + [2017-06-27 Tue] - Working on the conversion of Experiment-14 of
      Colloid-and-Surface-Chemistry lab. Converting images to animated GIF
      format. Built an outline of the HTML page.
+     
+
+Approved - Lalit Mohan    
+   + [2017-06-28 Wed] - Working on the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Watched some tutorials on HTML5,CSS3
+     etc. Found that Web-Workers do not support keywords like
+     'parent','window','document' etc.But, Moving images without using 'document'
+     keyword is not possible. Hence, abondoning the idea of using web-workers
+     for the conversion. Due to lack of images reqiured for conversion, it
+     might take a day longer than intended for the conversion. Will try to get
+     it working by Friday.
+   + [2017-06-29 Thu] - Working on the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Had to manually crop around 200 images
+     as some images required for the conversion are not available. Will try to
+     get it working by tomorrow.
+   + [2017-06-30 Fri] - Completed the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Deleted unnecessary images in
+     Experiment-1. Will do the same for other experiments too.
+* Month of July
+** Week 1 [2017-07-03 Mon] till [2017-07-09 Sun]
+   + [2017-07-03 Mon] - Deleted unnecessary images in Experiment-5. No images
+     are available for the conversion of Experiment-3 and Experiment-8. As a
+     result, I searched for the images in other experiments.Found some images
+     related to Experiment-8. For the remaining images, I'll try to take
+     screenshots of the experiment or use screencapture tools like
+     RecordMyDesktop or Kazam. Will get the all the required images and start
+     working on the experiment by tomorrow.
+   + [2017-07-04 Tue] - Working on the conversion of Experiment-8 of
+     Colloid-and-Surface-Chemistry lab. Completed 70% of the conversion. Will
+     try to complete it by tomorrow and will start the conversion of another
+     experiment.
+   + [2017-07-05 Wed] - Completed the conversion of Experiment-8 of
+     Colloid-and-Surface-Chemistry lab. Started the conversion of Experiment-3.
+   + [2017-07-06 Thu] - Working in the converion of Experiment-3 of
+     Colloid-and-Surface-Chemistry lab. Shortage of images is becoming too hard
+     a problem to overcome. Have to find a method for proper conversion of this
+     experiment. Tried ScreenCapture. But as the area to be captured is large,
+     the quality of the video obtained is poor. 
+   + [2016-07-07 Fri] - Working on fixing errors in previous experiments and
+     improving some features.
+** Week 2 [2017-07-10 Mon] till [2017-07-16 Sun]
+   + [2017-07-10 Mon] - Holiday
+   + [2017-07-11 Tue] - Working on the conversion of Experiment-3 of
+     Colloid-ans-Surface-Chemistry lab. Also fixed errors in Experiment-8.
+   + [2017-07-12 Wed] - Found new errors in previous experments. Images overlap
+     when browser is resized. Fixing the issue. Also worked on Experiment-3.
+   + [2017-07-13 Thu] - Fixing errors caused due to browser resize issue.
+   + [2017-07-14 Fri] - Fixed resize errors in Experiment-8 and Experiment-1.

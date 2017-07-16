@@ -58,5 +58,36 @@
      "velocityJs library".
    + [2017-06-22 Thu] - Completed 4th & 5th experiment of lab physical-chemistry-iiith.Also Wrote test cases for all experiments.
    + [2017-06-23 Fri] - Started Writing test casees for experimen of lab "physical-chemistry-iiith". Also fixed some bug in experiments. Read about library "velocityJs" more on web.
-** Week 5 [2017-06-26 Mon] till [2017-06-02 Sun]
+** Week 5 [2017-06-26 Mon] till [2017-07-02 Sun]
    + [2017-06-27 Tue] - Started Experiment of lab colloid-surface-chemistry-iiith. Also completed writing test cases. And discussed about new lab kind of gaming engine.
+   + [2017-06-27 Tue] - Continued my work on experiment-7 of lab  colloid-surface-chemistry-iiith. Fixed some bugs/errors in preious experiments.
+   
+   Approved. Lalit Mohan
+   
+   + [2017-06-28 Wed] - Coninued my work on experiment-7 of lab colloid-surface-chemistry iiith. tried to search for some good library for one animation in experiment-7, found that using svg animation can solve that problem easily. So read about svg images and tried to perform that animation,but wasn't able to do it correctly.
+   
+   + [2017-06-29 Thu] - Almost done with experiment-7 of colloid-surface-chemistry  iiith. Just need to add comments and naming of images are left(as good coding practise). Also started working on experiment-15 of lab colloid-surface-chemistry-iiith.
+   
+   + [2017-06-30 Fri] - just looked into my old experiments bcoz found some errors there. Also added comments for experiment-7 of colloid-surface-chemistry-iiith.  
+   
+** Week 6 [2017-07-03 Mon] till [2017-07-09 Sun]
+   + [2017-07-03 Mon] - continued my work on experiment-15 of lab colloid-surface-chemistry-iiith.wrote new functions for this experiment. 
+   
+   + [2017-07-04 Tue] - almost completed my work on on experiment-15 of lab colloid-surface-chemistry-iiith, just need to write comments.
+   
+   + [2017-07-05 Wed] - done with comments and functionalities of experiment-15 of lab colloid-surface-chemistry. now done with almost every experiment.
+   
+   + [2017-07-06 Thu] - some bugs were there for experiment 7 & 15, so just fixed those bugs. Also talked to lalit sir for my research paper working,will start my work on writing paper from monday.
+   
+   + [2017-07-07 Fri] - testing of experiments of physical-chemistry-lab started, so resolved issuees raised. also started searching and reading about research paper which can write for my lab.
+
+** Week 7 [2017-07-10 Mon] till [2017-07-16 Sun]
+   + [2017-07-10 Mon] - as testing is going so just resolved issues for experiment-6 of lab physical-chemistry-iiith.Also discussed about my paper with lalit sir,understood how to start. he told me about  some research papers so started reading them and completed on paper of "yogesh maheshwari". he has used a different method for conversion. He used transcompilers for conversion, so read about that.
+   
+   + [2017-07-11 Tue] - testing of 7th expperiment of lab physical-chemistry-iiith finished, so resolved issues of that experiments. Also read 2 another research paper related to my work. also regarding my paper searched for different tools available on web like google swiffy, shumway etc.
+   
+   + [2017-07-12 Wed] - testing of 8th experiment is done so just fixed issues in that experiment.regarding paper read about structure of flash videos and structure of swf/fla files.
+   
+   + [2017-07-13 Thu] - testing of 6_10th experiment is done so resolved issues for that experiment.regarding my paper, started writing points for paper. Wrote abstract and introduction/motivation for paper. 
+   
+   + [2017-07-14 Fri] - testing of last experiment was done so fixed issues for that experiment. Regarding my paper, comntinued searching for contents also thought about poster.

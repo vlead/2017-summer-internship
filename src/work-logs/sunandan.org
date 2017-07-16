@@ -56,10 +56,48 @@
    + [2017-06-21 Wed]-Resolved accessing router problem by changing the user password of all the containers and modified them in a user-readable format.Fixed issue successfully.Modified some playbooks inserted new modules in config-with-vlead-user role.Successfully fixed all the bugs.Compilation successfull till site.yaml.Need to fix bugs in ossec-server.yaml file  tomorrow
    + [2017-06-22 Thurs]-Gone through ossec_server.yaml file which was already written.tried to modify the file but facing serious bugs.So tried different method to configure ossec-server which was given in official page.Ossec-server is working fine but ossec-agent is facing some issue.Log-controller connection is refusing.Need to go through this documentation and resolve the bug
    + [2017-06-23 Fri]-Tried again to fix the bug but failed.Gave up on ossec-server.Ran the whole script again to make sure it works fine.Whole script works fine.Wrote steps to do the process of cluster creation.Tried to host a lab but there is some issue with google oauth service .Fixing this may resolve the problem and script may work fine.
+** Week 8 [2017-06-26 Mon] till [2017-07-02 Sunday]
+  + [2017-06-26 Mon] - Holiday
+  + [2017-06-27 Tues]- On Leave
+  + [2017-06-28 Wed] - Worked on making documentation.Tried to install
+    centos on another desktop but installation failed to some corrupt
+    iso file.Need to install centos and test the whole automation
+    again.
+  + [2017-06-29 Thurs]-Installed centos-6 on a machine and tested
+    automation on it.Some minor proxy issues in initial playbooks
+    base-setup.yml and others playbooks are working fine without any
+    errors.Wrote a shell program to minimize user steps for installing
+    some packages and some others ssh-keygen etc to minimize steps
+    before automation step.Gone through rkhunter(rootkit hunter) which
+    is a monitoring tool.Tested it on base4 test machine.Working
+    fine.Need to configure this in all other containers by writing
+    another playbook and include it in all other containers.
+  + [2017-06-30 Fri]-Half of the session was code-review.Then
+    completed writing playbook for rkhunter tool and included and
+    tested it on all containers.Working fine.
+* Month of July
+** Week 9 [2017-07-03 Mon] till [2017-07-09 Sunday]
+ + [2017-07-03 Mon]- Need to change the system-model repository
+   separately for servers and clients as per suggestion.Changed the
+   system-model repository accordingly.Tried on a base machine to test
+   this script.
+ + [2017-07-04 Tues] - New suggestion for automation of cluster is to
+   reduce the time taking for installing servers and clients one after
+   the other.Instead if we run all the servers at a time in parallel
+   then there will be some time decreased.Tried to implement this
+   method there are some errors.Though the script is running but it is
+   not making any changes that needs to be done.Some background shell
+   is running which is undergoing some error.Need to fix it.Used some
+   pause module to prevent continues executing.Even though no use.
+ + [2017-07-05 Wed] - Tried  to fix servers issue.Working fine.Similar
+   method is  tried for clients  but clients  are not working  same as
+   servers used to  be.Some scripts are running in  the background but
+   they  are  still  not  working.Wrote shell  script  to  change  the
+   variables in cluster-automation automatically.Tried to compare time
+   limit for parallel-cluster and sequential cluster.
+
 * Repository link
   [[https://github.com/vlead/cluster-automation][cluster-automation repository]] 
  
-
-
 
 
