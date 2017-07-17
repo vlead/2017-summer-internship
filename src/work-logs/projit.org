@@ -1,7 +1,7 @@
 #+TITLE: Time sheet
 #+AUTHOR: Projit Bandyopadhyay
 #+DATE: [2017-06-01 Thurs]
-#+SETUPFILE: ../org-templates/level-1.org
+#+SETUPFILE: ../org-templates/level-2.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
