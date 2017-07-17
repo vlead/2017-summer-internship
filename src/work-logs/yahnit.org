@@ -46,7 +46,7 @@ properly. We also started writing the backend for users. We created 2 tables
 ,one for users and one for roles. We have implemented routes like Add User,
 Add role,Show users and show roles.
 
-  +[2017-06-06 Tue]
+  + [2017-06-06 Tue]
 
 In the morning I have implemented the following API routes. Delete User,Delete Role, Update User.
 Then, I and my teammate sat together and integrated both our codes. He has implemented Google
@@ -57,7 +57,7 @@ Show users,Show roles,Update user and completed it.
 We also started writing testcases for our code but both of us were struck and we were not able to
 debug our code for test cases.
 
-  +[2017-06-07 Wed]
+  + [2017-06-07 Wed]
 
 In the morning we have written test cases for all the API routes which we have implemented.
 For each route, we wrote atleast 3 testcases taking care of all the possible errors.
@@ -69,7 +69,7 @@ to be showed while logging in and implemented checking the user is there in data
 Then we wrote the documentation of all the test cases for all the API routes.
 Also documentation of extra routes and html was done.  
 
-  +[2017-06-08 Thu]
+  + [2017-06-08 Thu]
 
 In the morning we have made changes to our login routes. After the Login page is shown,
 if the user clicks the login button, we redirected him to the google Auth page and
@@ -86,7 +86,7 @@ For that , we have implemented sessions. We also stored the role of the user
 in the session so that we could display it on the Home page.
 Documentation of Config files and init files were added.
 
- +[2017-06-09 Fri]
+ + [2017-06-09 Fri]
 
 In the morning, We added the remaining html and css code to the documentation .
  Then we had project presentation for 3 hours. Later, i have gone through 
@@ -98,7 +98,7 @@ our code according the directory strucure .
 
 ** Week 3 [2017-06-12 Mon] till [2017-06-18 Sun]
 
- +[2017-06-12 Mon]
+ + [2017-06-12 Mon]
 
 In the morning, i have tried to implement front end for add user, add role etc.
 But, I could'nt do it. There was some problem with the directory structure.
@@ -107,7 +107,7 @@ gone through Jinja templates which we decided to use for frontend. I referred
 many tutorials in the internet and understood the actual implementation of
 Jinja templates.
 
-+[2017-06-13 Tue]
++ [2017-06-13 Tue]
 
 In the morning we have fixed the testcases. Testcases were done last week only
 but at that point of time login and authorisation was not done.We have fixed
@@ -117,7 +117,7 @@ and our app has tangles perfectly well and was working fine. Thirumal sir
 has explained about the web app short course and asked us to go through it
 because we will be implementing lds dashboard in a similar way.
 
-+[2017-06-14 Wed]
++ [2017-06-14 Wed]
 
 Deployment has been done with whatever we have done. I have setup web-app
 short course on my machine. The application did not work perfectly as we
@@ -128,7 +128,7 @@ with hash routing in the ITWS2 course. I have downloaded that and had a look
 at how the hash routing was implemented.I also browsed about single page
 applications.
 
-+[2017-06-15 Thu]
++ [2017-06-15 Thu]
 
 We have done the release today. I have started writing the specifications
 of the JSON file which will be used to render html.I have given the
@@ -137,7 +137,7 @@ sat and discussed on how to decode the json file and we
 have decided on an alogorithm to decode the json spec file.
 I then wrote a javascript function to decode the JSON and render into html.
 
-+[2017-06-16 Fri]
++ [2017-06-16 Fri]
 
 We made a slight change to the function do decode the JSON file.
 We had used a reccursive approach , basically its like a tree.
@@ -152,7 +152,7 @@ And then we had a Tech talk.
 
 ** Week 4 [2017-06-19 Mon] till [2017-06-25 Sun]
 
-+[2017-06-19 Mon]
++ [2017-06-19 Mon]
 
 I started writing event handlers for the frontend of CRUD operations.
 I have written the event handlers for Add user and Add role operations.
@@ -160,7 +160,7 @@ Based on a JSON object,the html is displayed.To perform the operations
 i used AJAX calls and based on the response from the server side,i 
 have generated specific messages.
 
-+[2017-06-20 Tue]
++ [2017-06-20 Tue]
 
 We are done with login-logout. When a User is not logged in,the LOGIN
 button is shown and when the user is logges in,LOGOUT button is shown.
@@ -169,7 +169,7 @@ a user,initially we provided a text box,but we have placed a dropdown
 box so that the admin can choose from the available roles. We have
 now taken our JSON spec object and generated HTML based on the JSOn file.
 
-+[2017-06-21 Wed]
++ [2017-06-21 Wed]
 
 All the necessary event handlers have been written.We are now done 
 with all the CRUD operations.We have created a JSON file with which 
@@ -178,7 +178,7 @@ well.We were hiding and displaying things based on the
 operations without any routing. We have been adviced to use hash
 routing, so we started implementing hash routing.
 
-+[2017-06-22 Thu]
++ [2017-06-22 Thu]
 
 We worked on integrating backend and frontend.We have linked the
 event handlers with the functions.Later in the standup, we have
@@ -189,7 +189,7 @@ We were alomost done with the front end of USER and ROLES.
 Only a very few minor changes were left. Documenatation of
 the frontend was also done.we have pushed the code to git. 
 
-+[2017-06-23 Fri]
++ [2017-06-23 Fri]
 
 We have implemented complete frontend for the CRUD operations
 of User and Roles.We have faced an issue with update and 
@@ -203,7 +203,7 @@ was written.
 
 ** Week 5 [2017-06-27 Tue] till [2017-07-02 Sun]
 
-+[2017-06-27 Tue]
++ [2017-06-27 Tue]
 
 A part of Documentation was changed , we have written in more detail
 as suggested by Thirumal Sir.For each and very piece of code we have
@@ -213,11 +213,11 @@ Added some event listeners and also placed dropdowns for assets,developers,
 etc which will be used while adding a lab or experiment.I have tested whether
 the dropdowns were being populated properly or not.
 
-+[2017-06-28 Wed]
++ [2017-06-28 Wed]
 
 On leave
 
-+[2017-06-29 Thu]
++ [2017-06-29 Thu]
 
 I have worked on the json spec files of all the add operations.
 The code was pushed into the org files. I faced lot of problem
@@ -228,7 +228,7 @@ huge as 2500 lines,it took quite a lot of time to fix all the
 syntax errors and ensuring that proper HTML is being rendered
 from the JSON spec file.
 
-+[2017-06-30 Fri]
++ [2017-06-30 Fri]
 
 In the morning we got to know that there was a code review
 at 11 am. So, then we have prepared for the code review.
@@ -239,4 +239,88 @@ I worked on the documentation as suggested by thirumal sir.
 He wanted it to be more precise and narrative. We
 have started working on that. 
 
+
 * Month of July
+** Week 1 [2017-07-03 Mon] till [2017-07-09 Sun]
+
++ [2017-07-03 Mon]
+
+In the morning i worked on JSON files for sometime. There were
+a few minor syntax errors which were fixed.Later i worked on the 
+documentation part of the web-frontend. I was working on improving the
+documentation as has been said by thirumal sir. 
+While linking the 2 backend servers, we faced a problem with security
+issues. So i surfed the internet of liable soulutions to this.
+
++ [2017-07-04 Tue]
+In the morning in worked on the documentation. I made the documentation
+look more narrative and descriptive. Then i worked on the JSON files.
+There were a few changes to be made in the id's and name of the containers.
+Then i started writing event handler for add lab operation. I could not
+complete it because i faced many problems and errors.
+
+
++ [2017-07-05 Wed]
+I have started working on the add lab event handlers. I already
+did the ground work for it  yesterday. So i started working on it.
+I am done with event handlers of add lab and add experiment which
+are the bigger ones in the lds. Although it did not finish completely.
+While adding attributes like developers,assets and section,we should be
+able to add multiple things, but i dint take care of that.
+My present implementation only takes care of single data for each attribute.
+i should fix that tomorrow.
+
++ [2017-07-06 Thu]
+
+I have implemented the event handlers for add lab and add experiment
+yesterday itself. But i was not done with adding multiple things
+while adding a lab or experiment.
+Morning I worked on this taking care that multiple assets,developers,
+sections can be added to a lab while adding in to LDS.
+I have done both for labs and experiments. 
+Later, i have written event handlers for all the operations like
+add asset,add discipline,add institute,add sections,add hosting-info etc.
+
++ [2017-07-07 Fri]
+I have worked on writing the event handler for all the update operations.
+Event handlers were written for all the update operations like
+update lab,update experiment,update asset, update discipline,update institute
+etc. All of them are working properly. We are now yet to integrate.
+
+** Week 2 [2017-07-10 Mon] till [2017-07-17 Sun]
+ 
+ + [2017-07-10 Mon]
+ Leave on account of bonalu.
+
+  + [2017-07-11 Tue]
+I worked on the JSON specifications. Requirements
+were slightly changed a bit and also i made a lot of changes to the
+html files while writing event handlers for all the CRUD operations.
+I worked on Add and Update operations of the experiment and lab entities.
+Later, i worked on integrating these event handlers with the actual
+LDS dashboard.
+
+ + [2017-07-12 Wed]
+
+In the morning i looked at the django tutorials as suggested
+by one of my mentors. I looked at the tutorials till the 
+afternoon. Later, i worked on writing the testcases for
+new API's namely lds_auth_get,lds_auth_post,lds_auth_put,
+lds_auth_delete. I completed testcases for the get method
+and are in proper working condition.
+
++ [2017-07-13 Thu]
+
+In the morning i worked on the test cases for the 4 new API's
+which internally talk to the actual LDS server. Atleast 3 test cases
+have been written for each API and are in proper working condition.
+In the Afternoon, i looked at the django tutorials for some time and
+later worked on integrating the event handlers with the LDS dashboard.
+
++ [2017-07-14 Fri]
+
+Integration of the Add and Delete operations on all the
+entities is done and pushed to git. I have worked the whole
+day on documentation of the pushed code. Literate has been done
+for the code. Detail explanation of the frontend code is done.
+

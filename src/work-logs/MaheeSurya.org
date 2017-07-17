@@ -25,7 +25,7 @@
      a Flash Decompiler to get all images of the swf file. Learned about Image
      Mapping which can be used in the work. Revised the documentation of the
      conversion of Flash into JavaScript.  
-** Week 1 [2017-06-05 Mon] till [2017-06-11 Sun]
+** Week 2 [2017-06-05 Mon] till [2017-06-11 Sun]
    + [2017-06-05 Mon] - Worked on converting Experiment-1 of
      Colloid-and-Surface-Chemistry lab. Worked on CSS and JavaScript to get
      the required effect on the HTML page.
@@ -106,3 +106,40 @@ Approved - Lalit Mohan
      Colloid-and-Surface-Chemistry lab. Had to manually crop around 200 images
      as some images required for the conversion are not available. Will try to
      get it working by tomorrow.
+   + [2017-06-30 Fri] - Completed the conversion of Experiment-14 of
+     Colloid-and-Surface-Chemistry lab. Deleted unnecessary images in
+     Experiment-1. Will do the same for other experiments too.
+* Month of July
+** Week 1 [2017-07-03 Mon] till [2017-07-09 Sun]
+   + [2017-07-03 Mon] - Deleted unnecessary images in Experiment-5. No images
+     are available for the conversion of Experiment-3 and Experiment-8. As a
+     result, I searched for the images in other experiments.Found some images
+     related to Experiment-8. For the remaining images, I'll try to take
+     screenshots of the experiment or use screencapture tools like
+     RecordMyDesktop or Kazam. Will get the all the required images and start
+     working on the experiment by tomorrow.
+   + [2017-07-04 Tue] - Working on the conversion of Experiment-8 of
+     Colloid-and-Surface-Chemistry lab. Completed 70% of the conversion. Will
+     try to complete it by tomorrow and will start the conversion of another
+     experiment.
+   + [2017-07-05 Wed] - Completed the conversion of Experiment-8 of
+     Colloid-and-Surface-Chemistry lab. Started the conversion of Experiment-3.
+   + [2017-07-06 Thu] - Working in the converion of Experiment-3 of
+     Colloid-and-Surface-Chemistry lab. Shortage of images is becoming too hard
+     a problem to overcome. Have to find a method for proper conversion of this
+     experiment. Tried ScreenCapture. But as the area to be captured is large,
+     the quality of the video obtained is poor. 
+   + [2016-07-07 Fri] - Working on fixing errors in previous experiments and
+     improving some features.
+** Week 2 [2017-07-10 Mon] till [2017-07-16 Sun]
+   + [2017-07-10 Mon] - Holiday
+   + [2017-07-11 Tue] - Working on the conversion of Experiment-3 of
+     Colloid-ans-Surface-Chemistry lab. Also fixed errors in Experiment-8.
+   + [2017-07-12 Wed] - Found new errors in previous experments. Images overlap
+     when browser is resized. Fixing the issue. Also worked on Experiment-3.
+   + [2017-07-13 Thu] - Fixing errors caused due to browser resize issue.
+   + [2017-07-14 Fri] - Fixed resize errors in Experiment-8 and Experiment-1.
+** Week 3 [2017-07-17 Mon] till [2017-07-20 Thu]
+   + [2017-07-17 Mon] - Fixed text resize errors in Experiment-1 and image
+     overlap errors in Experiment-5. Fixed half of the resize errors in
+     Experimeny-14. 

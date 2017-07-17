@@ -65,5 +65,16 @@ The design for the new process of continuous integration was made and uploaded o
 
 [2017-06-28 Wed] Started working on the process of deploying the flask app using ADS, started working on a labspec file to deploy it on ADS automatically. Started trying to configure the ci app using gunicorn and nginx on a container on the base4 server.
 
+[2018-06-29 Thu] The flask app was deployed on the base4 server and configured to work on port 80. The ADS labspec was also readied for the same. While using NGINX there were several issues. Then I stopped using Gunicorn and used uWSGI instead and it worked on the base4 server for the Hello World flask app.
+
+[2018-06-30 Fri] I started trying to deploy the CI microservice app on the base4 server using Nginx and gunicorn. When trying to do that I was facing a string of errors about different packages being missing, after install all of them I was left with 1 error in the end which siad Error: No module named wsgi. 
+
 
 * Month of July
+** Week 6[2018-07-03 Mon till 2018-07-09]
+
+[2018-07-03] Started trying to deploy the app using NGINX and Gunicorn in the begining, after a while I realized that gunicorn is redundant, so I started to use uWSGI to deploy the app on the Base4 server and faced the same error 'No module named wsgi'.
+
+[2018-07-04] Worked on the deployment and tried to fix the errors that I encountered whilst trying to deploy the ci app. Things seemed to work but in the end I was faced with an open ended "Internal system error"
+
+

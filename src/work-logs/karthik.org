@@ -9,7 +9,8 @@
 * Introduction
   This document holds the time sheets for my work during the summer internship
   at VLEAD, IIIT Hyderabad.
-  * Month of May
+
+* Month of May
 ** Week 1 [2017-05-10 Wed] till [2017-05-14 Sun]
    + [2017-05-10 Wed] - Configured laptop as per the requirement for work environment.We were given material to study different languages required throughout the internship period.Started learning with racket language.Installed racket and studied the material for today
    + [2017-05-11 Thurs] - Learned racket and started doing assignment-1 and Completed the assignment
@@ -74,6 +75,25 @@
 + [2017-06-29 Thu] - Worked on getting output(logs) automatically using crontab and storing them according to timestamp. Also tried how to convert .nmon fies to .html.
 + [2017-06-30 Fri] - made the documentation of the project and uploaded in github. There was code review in the morning session.
  Worked on copying files  from host machine to container and viceversa. Tried automating the same using shell script.
+ 
+* Month of July
+** week 1 [2017-07-03 Mon] till [2017-07-09]
++ [2017-07-03 Mon] - Worked on automation of copying of files from host machine
+  to a base4 container.Remotely copied files over ssh without using password by
+  generating ssh keys.Read the documentaion of automation of cluster.
++ [2017-07-04 Tue] - Worked on automation of conversion of nmon files into
+  .html format by using shell script.Successfully completed the above
+  automation.Also tried to make some changes in .html file.
++ [2017-07-05 Wed] - Worked on making some changes in the html files before
+  visualizing the output using shell script.Successfully completed the above
+  task.Also worked on automation of links of output files while visualizing the
+  output.
++ [2017-07-06 Thu] - Completed the automation of analyzation of performance of
+  a system using nmon tool. Also wrote shell script such that logs of only
+  previous 3 days will be stored.Ran nmon for every one hour.Only by running a
+  single html file we can see the logs of previous 3 days.
+
 * Repository link
-  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack repository]] 
-  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/nmon][nmon]]
+  - [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/elkstack][elkstack]] 
+  -  [[https://github.com/openedx-vlead/cc-pf-tests/tree/master/src/nmon][nmon]]
+  -  [[https://github.com/Karthik183/performance-test-nmon/][nmon]]

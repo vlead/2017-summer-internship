@@ -159,3 +159,56 @@
      seniors to assist with graphics inputs regarding this project. Also
      discussed idea of integration with other non-profit and social education
      ventures. 
+* Month of July
+** Week 6 [2017-07-03 Mon] till [2017-07-07 Fri]
+   + [2017-07-03 Mon] - Worked on creating a simple interface using html and
+     javascript to display a box, and move and place it anywhere on the
+     screen. Also added the ability to add new boxes to the screen. Also worked
+     on simulating attacks on different services. Was able to extract icon from
+     khanacademy(determining if user is logged in). Also found critical bug in
+     google, which allows us to log a user out of all google services from our
+     attack site.
+   + [2017-07-04 Tue] - Made the code of the simple box display more modular so
+     that it can be edited effectively. Also experimented with changing the
+     sizes of the boxes(successfully). Then worked on fixing the attack site
+     and find new sites to attack. Found that outlook not vulnerable to logout
+     but khanacademy is. Worked on further clickjacking and csrf
+     attacks. Managed to carry out logouts on sites like uber, sbi, skype.
+   + [2017-07-05 Wed] - Tried(unsuccessfully) to use an image instead of a
+     regular box in the display. Worked on continuing csrf attacks on
+     logout. IOB net banking was also found to be vulnerable to this kind of
+     attack. Also updated paper structure and looked into different versions of FIM.
+   + [2017-07-06 Thurs] - Made changes to the movement in box. Can now upload
+     an image url and it will display that image in the box. That image can
+     then be moved around in the box and placed at any point(could potentially
+     be used by other groups to get coordinates of where to place
+     images). Carried out google logout attack in proper format with screenshots.
+   + [2017-07-07 Fri] - Carried out the rest of the attacks with proper
+     documentation. Created outline for paper. Tried to resize images uploaded
+     into the frame. Was able to either resize or move not both simultaneously.
+
+** Week 7 [2017-07-10 Mon] till [2017-07-14 Fri]
+   + [2017-07-10 Mon] - Continued to try working on the resizing of images. Met
+     with Akash to layout paper format and further goals. Researched shibboleth
+     and wrote about it as well. Also looked a bit into pygame (potential for
+     lab authoring tools). Will clean up the documentation of authoring tools
+     so far tomorrow.
+   + [2017-07-11 Tue] - Read more on pygame. Worked on the paper, writing about
+     Shibboleth(which was cancelled in the end). Also wrote on other 
+     areas.
+   + [2017-07-12 Wed] - Worked mainly on the paper today. Condensed images
+     together to form a single image to decrease need for space. Also filled in
+     missing text in various locations(connecting sentences and introductions
+     to different sub-parts). Created a table that shows service, FIMs used,
+     logout url. Also wrote about SAML. Worked out a plan for completing the
+     writing part of the rest of the paper. Hopefully writing will be complete
+     as of end of tomorrow, and we can start condensing from Friday.
+   + [2017-07-13 Thurs] - Worked on more writing for the paper. Wrote the
+     Introduction for the paper along with some other lines required in various
+     places of the paper
+   + [2017-07-14 Fri] - Worked on writing the paper as well as starting
+     creating the poster to be presented next week. Wrote the Cross-site timing
+     attack part as well as condensed images for it's mitigation. Also worked
+     on documentation in the lab authoring tools. 
+
+     
