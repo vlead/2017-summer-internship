@@ -91,6 +91,8 @@
    3 Code the design for a final release.
    
    
+   
+   
 ** Week 6 [2017-07-03 Mon] till [2017-07-07 Fri]
      
    + [2017-06-03 Mon] - Started task1 i.e to come up with a design about the quick sort experiment. Finally was bale to work out a good and workable design. Design specifications are-
@@ -101,9 +103,27 @@
    The main issue was id of the elements and their placement.
  
   
-   + [2017-06-04 Tue] - Started working out the and coding the design part. Met Arjun Sanjeev today and took his inputs on the project. His suggestions were to add a highlighting and dfs king of thing using timers so that it becomes more attractive. Will work on his inputs after completing the quick sort design. 
+   + [2017-06-04 Tue] - Started working out the and coding the design part. Met Arjun Sanjeev today and took his inputs on the project. His suggestions were to add a highlighting and dfs king of thing using timers so that it becomes more attractive. Will work on his inputs after completing the quick sort design.
+   
    
    + [2017-06-05 Wed] - Continued coding the quick sort experiment. Faced some issues regardung handling the pivot and its display position. Moreover giving id was also diffcult as every node had three children. 
    
+   
    + [2017-06-06 Thu] - Completed the design and coding part but still one minor bug remains that is the pivot is being displayed right w.r.t to split part. Saw some examples of dagre library again but could not find a satisfactory solution. Tried various ways to change that but could not solve the problem. Will try to solve it tomorrow after that adding the user input the design will be completed.
    
+   
+    + [2017-06-07 Fri] - Firstly presentation was there. So ran some test cases in the experiments and prepared them for presentation. Solved some bugs in the quick sort design . Instead of adding the edges in a single loop - which might be responsible for this ordering, i added them in three different loops. First the left array , then the pivot and then the right array.This solved the problem and quick sort was naively complete. 
+    
+    
+   
+    
+** Week 7 [2017-07-10 Mon] till [2017-07-14 Fri]
+
++ [2017-06-10 Mon] - In continuation i had  a meeting with arjun sanjeev sir. I saw and tried to understand his complete source code of his Ast tool - which had a similar tree like mine which was implemented using d3 library. He could not help me the tree as it was developed my someone else. His imput was about the evaluation of the expression and how he user timeouts and delays to evaluate an ast. He advised me to use the same. I will try to incorporate it in my code in this week.
+
++ [2017-06-11 Tue] - Added the user input adn linked it with the main function calls in the quick sort experiment. Also modified the exisiting css and html in all the three experiments. Also read about timers and intervals which can be used to make the experiment more attractive.
+
++ [2017-06-12 Wed] - Had to rework the documentation as it was not adequate for someone new to undestand the requirements or the code. Edited the plan and requirements files in all the three experiments to better narrate the experiment and make th understanding hassle free for a new person.
+
+
+
