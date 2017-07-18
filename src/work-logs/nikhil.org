@@ -228,19 +228,19 @@
 	 - Putting on the lab in the production environment on cloud.
 	 - We discussed on cloud and Engineering systems.
    + [2017-07-07 Fri]
-     - Code review of linux-lab on single host 
-     - Studied python's Ldap API's because they are to be used for converting the linux-lab base code into python
-     - Gathered resources to improvise the experiments of linux-lab
-     - These are some of the links I used for studying python :-
-       - [[https://developers.google.com/edu/python/]] : For begineers
+      - Code review of linux-lab on single host 
+      - Studied python's Ldap API's because they are to be used for converting the linux-lab base code into python
+      - Gathered resources to improvise the experiments of linux-lab
+      - These are some of the links I used for studying python :-
+        - [[https://developers.google.com/edu/python/]] : For begineers
  
 ** Week 2 [2017-07-10 Mon] till [2017-07-16 Sun]
    + [2017-07-10 Mon] 
-     - updated the code to literate version
-     - updated the code of build.sh into org-mode
-     - Here are the links to the updated literate-codes
-       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
-       - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
+      - updated the code to literate version
+      - updated the code of build.sh into org-mode
+      - Here are the links to the updated literate-codes
+        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
+        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
        
    + [2017-07-11 Tue]
       - There are still some security issues with the lab
@@ -259,18 +259,18 @@
       - updated the documentation to fix issues
       
    + [2017-07-13 Thr]
-     - Met with my mentor regarding the lab.
-       - MOM of meetings 
-	 - About why system is important and how it is relates to ML
-	 - Putting on the lab in the production environment on cloud.
-     - Learned more on python: LDAP client API for Python.
+      - Met with my mentor regarding the lab.
+        - MOM of meetings 
+	  - About why system is important and how it is relates to ML
+	  - Putting on the lab in the production environment on cloud.
+      - Learned more on python: LDAP client API for Python.
      
    + [2017-07-14 Fri]
-     - Had a meeting for discussion regarding poster presentation 
-     - Studied python's Ldap API's because they are to be used for converting the linux-lab base code into python
-     - Discuss with venkatesh sir regarding poster presentation:
-       - It should contain diagram showing working of the linux-lab
-       - Info about javascript framework on gateone server. For hovering over the command outputs to get info about them.
-     - Gathered resources to improvise the experiments of linux-lab
-     - These are some of the links I used for studying python :-
-       - [[https://developers.google.com/edu/python/]] : For begineers
+      - Had a meeting for discussion regarding poster presentation 
+      - Studied python's Ldap API's because they are to be used for converting the linux-lab base code into python
+      - Discuss with venkatesh sir regarding poster presentation:
+        - It should contain diagram showing working of the linux-lab
+        - Info about javascript framework on gateone server. For hovering over the command outputs to get info about them.
+      - Gathered resources to improvise the experiments of linux-lab
+      - These are some of the links I used for studying python :-
+        - [[https://developers.google.com/edu/python/]] : For begineers
