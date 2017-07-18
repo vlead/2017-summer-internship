@@ -202,3 +202,27 @@
      - Finalised set of metrics by which to compare code
      - Worked on comparision-study paper
      - Looked into modularising existing Haskell code
+
+   + [2017-07-12 Wed]
+     - Attempted to download software on cyclomatic complexity and run Haskell
+       code through it. Failed due to certain factors
+     - Worked on comparision study paper
+     
+   + [2017-07-13 Thu]
+     - Worked on comparision study paper and further researched metrics
+
+   + [2017-07-14 Fri]
+     
+     - Looked into making posters for final presentation
+     - Had meeting with LTRC professors to discuss how to go forward with
+       Grammatical Framework. The current problem: to implement a
+       limited-domain paninian grammar using GF
+
+** Week 7 [2017-07-17 Mon] till [2017-07-20 Thu]
+
+   + [2017-07-17 Mon]
+     - Holiday 
+
+   + [2017-07-18 Tue]
+     - Worked on poster
+     - Had meeting with LTRC professors and Prof. Nori
