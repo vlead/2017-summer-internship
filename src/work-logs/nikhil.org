@@ -223,10 +223,11 @@
    + [2017-07-06 Thr]
      - Met with my mentor regarding the lab.
        - MOM of meetings 
-         - We discussed on systems and ML. 
-	 - About why system is important and how it is relates to ML.
-	 - Putting on the lab in the production environment on cloud.
-	 - We discussed on cloud and Engineering systems.
+         1. We discussed on systems and Machine learning. 
+	 2. About why system is important and how it is relates to Machine learning.
+	 3. Putting on the lab in the production environment on cloud.
+	 4. We discussed on cloud and Engineering systems.
+	 
    + [2017-07-07 Fri]
       - Code review of linux-lab on single host 
       - Studied python's Ldap API's because they are to be used for converting the linux-lab base code into python
