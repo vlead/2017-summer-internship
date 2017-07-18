@@ -287,7 +287,7 @@ Event handlers were written for all the update operations like
 update lab,update experiment,update asset, update discipline,update institute
 etc. All of them are working properly. We are now yet to integrate.
 
-** Week 2 [2017-07-10 Mon] till [2017-07-17 Sun]
+** Week 2 [2017-07-10 Mon] till [2017-07-16 Sun]
  
  + [2017-07-10 Mon]
  Leave on account of bonalu.
@@ -324,3 +324,9 @@ entities is done and pushed to git. I have worked the whole
 day on documentation of the pushed code. Literate has been done
 for the code. Detail explanation of the frontend code is done.
 
+** Week 3 [2017-07-17 Mon] till [2017-07-20 Thu]
+
++ [2017-07-17 Mon]
+
+
++ [2017-07-18 Tue]
