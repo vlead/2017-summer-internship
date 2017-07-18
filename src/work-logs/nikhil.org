@@ -223,10 +223,10 @@
    + [2017-07-06 Thr]
      - Met with my mentor regarding the lab.
        - MOM of meetings :- 
-       				1. We discussed on systems and Machine learning. 
-	                    	2. About why system is important and how it is relates to Machine learning.
-	                    	3. Putting on the lab in the production environment on cloud.
-	                    	4. We discussed on cloud and Engineering systems.
+       				- We discussed on systems and Machine learning. 
+	                    	- About why system is important and how it is relates to Machine learning.
+	                    	- Putting on the lab in the production environment on cloud.
+	                    	- We discussed on cloud and Engineering systems.
 	 
    + [2017-07-07 Fri]
       - Code review of linux-lab on single host 
@@ -253,7 +253,7 @@
       - there are some bugs in these exp.
       
    + [2017-07-12 Wed]
-      - Finally tested the lab on base-4 machine nad then on my:-
+      - Finally tested the lab on base-4 machine and then on my:-
       - Tested the lab on my friends computer
       - It's showing some errors on testing on a virtual-box while it's working fine on a container on base4 machine.
       - Fixed the error due to putting on the host for gateone for admin authentication as "8000" instead of the inputted host.
