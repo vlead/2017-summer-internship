@@ -142,4 +142,6 @@ Approved - Lalit Mohan
 ** Week 3 [2017-07-17 Mon] till [2017-07-20 Thu]
    + [2017-07-17 Mon] - Fixed text resize errors in Experiment-1 and image
      overlap errors in Experiment-5. Fixed half of the resize errors in
-     Experimeny-14. 
+     Experiment-14. 
+   + [2017-07-18 Tue] - Fixed resize errors in Experiment-14. Working on
+     conversion of Experiment-3.

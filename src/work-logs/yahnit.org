@@ -287,7 +287,7 @@ Event handlers were written for all the update operations like
 update lab,update experiment,update asset, update discipline,update institute
 etc. All of them are working properly. We are now yet to integrate.
 
-** Week 2 [2017-07-10 Mon] till [2017-07-17 Sun]
+** Week 2 [2017-07-10 Mon] till [2017-07-16 Sun]
  
  + [2017-07-10 Mon]
  Leave on account of bonalu.
@@ -324,3 +324,23 @@ entities is done and pushed to git. I have worked the whole
 day on documentation of the pushed code. Literate has been done
 for the code. Detail explanation of the frontend code is done.
 
+** Week 3 [2017-07-17 Mon] till [2017-07-20 Thu]
+
++ [2017-07-17 Mon]
+
+We realised that there was a bug in the LDS server due to which our frontend was
+facing problem. So we reverted back the changes. Our frontend was working fine then.
+Later we worked on integrating all the event handlers of the  CRUD operations and
+made sure that it was working well. All the add and delete operations were done.
+We have not completed update operations completely.
+
++ [2017-07-18 Tue]
+
+In the morning we worked on integrating the remaining update operations.
+we have attached appropriate event handlers. Later i worked on the documentation
+of frontend. We have pushed all the code to git and literate was done for every piece of code.
+
++ [2017-07-19 Wed]
+
+We have worked on designing our poster for the presentation. Remaining documentation
+was done for some of the new javascript functions.
