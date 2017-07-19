@@ -1,0 +1,14 @@
+* Project
+  - Tool for Continuous Integration.
+   The primary goal of this project was to develop a microservice for the DevOps practice continuous integration.
+   We developed this tool right from scratch in compliance to the requirements given to us.
+   With the help of this tool developers from all around the globe will now be able to freely contribute to the Virtual-Labs project without any human intervention.
+   Moreover bug detection will become more lucid with this tool. 
+
+  - Internship Experience :: My experience here at VLEAD has been great.I got an opportunity to work with the latest standards and practices followed in the industry.
+    The employees here were highly resourceful and approachable, so this served as a major contributor to my learning curve.
+  
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-savar
+  [[./photos/savar.png]]
