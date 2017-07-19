@@ -1,0 +1,13 @@
+#+TITLE: Reports of all the interns
+#+AUTHOR: VLEAD
+#+DATE: [2017-07-19 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  Final reports of all the interns go here. 
+
+* Reports
+  

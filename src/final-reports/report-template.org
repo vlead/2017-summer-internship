@@ -1,0 +1,26 @@
+#+TITLE: Report Template
+#+AUTHOR: VLEAD
+#+DATE: [2017-07-19 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This is the final report of <Name>
+
+* About Project(s)
+  Few lines about the project and the duration on the project.
+  - Project Repository
+
+
+* Project Details
+  Write up on the your contribution to the project along with links to the
+  relevant committed project documents, work logs and posters. 
+  
+* Project Outcome
+  Few lines about the outcome and suggestions on the future work.
+
+
+
+  
