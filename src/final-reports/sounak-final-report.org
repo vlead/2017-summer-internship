@@ -20,9 +20,9 @@
    - [[https://github.com/vlead/content-server][Content Server]]
 
 ** Links to the microservices
-   - [[translators.vlabs.ac.in][Translators]]
-   - [[resource-generator.vlabs.ac.in][Resource Generator]]
-   - [[csnginx.vlabs.ac.in][Content Server]]
+   - [[http://translators.vlabs.ac.in][Translators]]
+   - [[http://resource-generator.vlabs.ac.in][Resource Generator]]
+   - [[http://csnginx.vlabs.ac.in][Content Server]]
 
 ** Poster
    - [[https://github.com/vlead/2017-summer-internship/blob/master/src/posters/experiment_as_a_service_poster_A0.pdf][Poster]]
