@@ -15,15 +15,18 @@
 2.)ADS enhancement required us to integrate to develop a output console on the url page to make the current status of the deployment process visible to the user.
 
   - Project Repository
-  [[https://github.com/vlead/continuous-integration]]
-  [[https://github.com/vlead/ovpl/tree/webapp-socket]]
+  1.[[https://github.com/vlead/continuous-integration]]
+  
+  2.[[https://github.com/vlead/ovpl/tree/webapp-socket]]
 
 * Project Details
   Intially we started with started off with experimenting an industry available tool called Jenkins.I was invloved with the initial R&D work with finding it.I was also given the task of running and testing it on various services.Later on our project changed to developing our own microservice in compliance with the given requirements.I was involved in developing the microservice along with my mentor Sripathi.Once this was done I worked on enhacing the Auto Deployment Service.The output console app is built but unfortunatley once shifted to the production evironment it had some issues due to lack of support hence I had to leave this here.The prototype for this is ready and it runs without any issue on the local host.There were certain features that had to be added and bugs that needed to be fixed in our intial continuous intgration tool release so I got back to working on that.     
- [[https://github.com/vlead/continuous-integration/tree/savar_dev]]
-[[https://github.com/vlead/ovpl/tree/webapp-socket]]
+ 1.[[https://github.com/vlead/continuous-integration/tree/savar_dev]]
+
+2.[[https://github.com/vlead/ovpl/tree/webapp-socket]]
   
 * Project Outcome
+Successfully developed the Continuous Intergration tool.With this tool, developers from around the world can contribute to Virtual Labs.The continuous integration service detects commits to the shared repository, and automatically builds and runs unit tests on the new code changes to immediately surface any functional or integration errors.It also pushes the generated docs to the docs server and is also pipelined with the ADS service wihich enables the developer to depoly a lab/servcie when it is ready.
 
 
 
