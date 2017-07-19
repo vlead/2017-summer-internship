@@ -13,6 +13,7 @@
 ** Team
    - Sounak Pradhan ([[https://github.com/sounak98][@sounak98]])
    - Aditya Todi ([[https://github.com/aditya-todi][@aditya-todi]])
+   - Thirumal Ravula ([[https://github.com/travula][@travula]]) (Mentor)
 
 ** Github Repositories for the microservices
    - [[https://github.com/vlead/translators][Translators]]
