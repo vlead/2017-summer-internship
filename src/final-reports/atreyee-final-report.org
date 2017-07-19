@@ -33,6 +33,9 @@ created for the purpose of writing grammars.
 
 * Project Details
 
+Work log for the projects is [[file:../work-logs/atreyee.org][here]]
+
+
 ** Web App In Haskell 
 
 My contribution to this project was:
@@ -70,8 +73,7 @@ easily and concisely express Paninian dependency grammars in the language, thus
 allowing for dependency parsing based on a Paninian (i.e: Kaaraka)
 framework. To this end, I studied the Grammatical Framework- a functional,
 type-theoretic language created for writing grammars- and attempted to
-implement a basic, domain-restricted Paninian Grammar with it.
-
+implement a basic, domain-restricted Paninian Grammar with 
 * Project Outcome
 
 ** Web App in Haskell
