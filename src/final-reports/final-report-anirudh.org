@@ -1,0 +1,72 @@
+#+TITLE: Final Report - Anirudh Reddy
+#+AUTHOR: VLEAD
+#+DATE: [2017-07-19 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This is the final report of Anirudh Reddy.
+
+* About Project(s)
+  
+** Modelling a web app in Alloy
+
+Modelling the web app in a specification language like Alloy helps us in understanding 
+the requirements of the app and also if the client adds more requirements to the app, we can check
+it if they follow the previous constraints or break them without actually writing the python code.
+
+  - [[https://gitlab.com/itws2/web-app-short-course/tree/modular][project repository ]]
+  - [[https://gitlab.com/itws2/web-app-short-course/tree/modular/src/imp/data-model][Alloy data-model of the app]]
+  
+
+** Modular Development of routes in the app
+
+Various operations can be done on the users of the application like add-user,del-user.set-email etc.
+Modular development is a technique where each module can be used independently and for an operation to be performed,
+the modules have to be called in a particular order(which is known as the Workflow).I completed all the routes
+in this application modularly in python.
+ 
+  - [[https://gitlab.com/itws2/web-app-short-course/tree/modular][project repository ]]
+  - [[https://gitlab.com/itws2/web-app-short-course/tree/modular/src/imp/runtime][modules for various routes]]
+ 
+
+* Project Details
+
+Work log for the projects is [[file:../work-logs/anirudh.org][here]]
+
+
+** Modelling a web app in Alloy 
+
+My contribution to this project was:
+
+  Writing the entire data model of the web app
+in Alloy step by step i.e, adding the requirements 
+one by one and checking if they satisfy for all the cases
+and also are in harmony with the previous constraints.If not,
+then a counter example is raised,so we can correct ourselves
+and understand the requirement propely instead of writing the
+python code and checking if it works or not.
+     
+Implementation of the Alloy in this web app is given [[https://gitlab.com/itws2/web-app-short-course/tree/modular/src/imp/data-model][here]]
+  
+** Modular Development of routes in the app
+
+   My contribution to this project was to write the routes for various
+ operations that could be performed on the web app "Modularly".Here modular 
+ Development is emphasised because our Professor wanted to build the routes 
+ modularly so that pipeling will be possible and this work would help in the 
+ automation of the entire development of an app.I completed writing the routes
+ in python for 12 different operations modularly.
+ 
+ Modules of the routes in this web app is given [[https://gitlab.com/itws2/web-app-short-course/tree/modular/src/imp/runtime][here]]
+
+* Project Outcome
+
+   The outcome of this project was to
+ 1.Study the formal methods of Web Development.
+ 2.Use a specification language in building the datamodel to make sure the requirements are met.
+ 3.To build the routes modularly which means each module works independently.
+ 4.Study how to achieve automation of development of an entire app with only the requirements 
+   given and a specification languages.

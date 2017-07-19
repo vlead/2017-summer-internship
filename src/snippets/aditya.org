@@ -1,0 +1,9 @@
+* Project
+  - Experiment as a Service :: The project was to build a platfrom, Vlabs Platform which can be used to serve the content of experiments. The aim was to give freedom of using editors and formats that are more flexible to generate content.
+
+  - Internship Experience :: It was an amazing experience working with VLEAD developers. This was my first internship experience. Working in professional environment was new to me. Mentors and other interns helped me a lot in my project.
+
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-aditya
+  [[./photos/aditya.png]]
