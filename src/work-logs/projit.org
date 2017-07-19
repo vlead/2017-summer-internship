@@ -212,3 +212,9 @@
      on documentation in the lab authoring tools. 
 
      
+** Week 7 [2017-07-18 Tue] till [2017-07-20 Thurs]
+   - [2017-07-18 Tue] - Finalized many aspects of the paper. Wrote the
+     abstract(thought it needs to be edited on further iterations). Also worked on
+     improving the posters so for the presentation on Thursday. The posters
+     still need to be verified as they should be sent for printing
+     tomorrow. Made sure that images used in posters are labeled for reuse.
