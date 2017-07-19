@@ -76,3 +76,4 @@
 
 ** Week 7 [2017-07-17 Mon] till [2017-07-23 Sun]
 +  [2017+-07-18 Tue] - Started working on the poster for our project.Did a quick recap of the alloy project I did with Shubh and entered it in the poster.Had a chat with Thirumal Sir and we discussed what I could include in the poster.I read about modular development and pipelining as they are the conclusions of my project.I had a problem in converting the .key poster in my mac to .pptx .Finally, I completed the poster and pushed it to the posters repo in github as a .pptx file. 
++  [2017+-07-19 Wed] - Updated the presentation and added some content to it.Helped Shubh in styling and editing his presentation. Wrote An A4 handout sheet and pushed it. Wrote a final report of my project and pushed it. Added the snippet of my project and my experience here as an intern and my photo. Added a link to my worklog in the final report.
