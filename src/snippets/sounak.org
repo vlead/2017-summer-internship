@@ -1,0 +1,19 @@
+* Project
+  - Experiment as a Service :: This project required us to work on the Virtual
+       Labs platform. This platform gives developers the freedom of authoring
+       the content of the experiments in markup files stored in a Github
+       repository. The platform also generates the HTML resources from the
+       markup files authored by the developers automatically and hosts them on
+       the server.
+
+  - Internship Experience :: This is my first full-time internship experience
+       and I am really satisfied with the experience. I have been able to learn
+       a lot of subject matter from the mentors and the other interns which has
+       helped me tremendously in my project and will also help in projects that
+       I take up in future. And I have also learnt to work in a professional
+       environment.
+
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-sounak
+  [[./photos/sounak.png]]
