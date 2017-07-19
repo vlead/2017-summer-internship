@@ -1,19 +1,9 @@
 * Project
-  - Experiment as a Service :: This project required us to work on the Virtual
-       Labs platform. This platform gives developers the freedom of authoring
-       the content of the experiments in markup files stored in a Github
-       repository. The platform also generates the HTML resources from the
-       markup files authored by the developers automatically and hosts them on
-       the server.
+  - Tool for Continuous Integration :: TThe primary goal of this project was to develop a microservice for the DevOps practice continuous integration.We developed this tool right from scratch in compliance to the requirements given to us.With the help of this tool developers from all around the globe will now be able to freely contribute to the Virtual-Labs project without any human intervention.Moreover bug detection will become more lucid with this tool.
 
-  - Internship Experience :: This is my first full-time internship experience
-       and I am really satisfied with the experience. I have been able to learn
-       a lot of subject matter from the mentors and the other interns which has
-       helped me tremendously in my project and will also help in projects that
-       I take up in future. And I have also learnt to work in a professional
-       environment.
+  - Internship Experience :: My experience here at VLEAD has be great.I got an opportunity to work with the latest standards and practices followed by the industry.The employees were highly resourceful and approachable, so this served as a major contributor to my learning curve.
 
   - Image
   #+CAPTION: Image
-  #+NAME:   img-sounak
-  [[./photos/sounak.png]]
+  #+NAME:   https://github.com/vlead/2017-summer-internship/blob/master/src/snippets/photos/savar.png
+ 
