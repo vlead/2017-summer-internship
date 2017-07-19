@@ -1,0 +1,19 @@
+* Project
+  - Web App in Haskell :: I worked on projects using functional languages-
+       chiefly Haskell - for the duration of this internship. The first project
+       comprised of writing a proof-of-concept of a typical web application in
+       Haskell, and performing a brief comparison study with equivalent
+       software in other languages
+  - NLP Tools In Functional Languages :: The second project consisted of
+       studying NLP tools in functional languages, and an attempt to rewrite 
+       them to fit a Paninian Grammar framework.
+ 
+  - Internship Experience :: My internship experience was extremely
+       interesting. I had the chance to work on two of my chief interests -
+       functional programming and NLP - and gain experience and knowledge 
+       from professors who have worked in these fields.
+
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-atreyee
+  [[./photos/atreyee.jpg]]
