@@ -1,5 +1,5 @@
 * Project
-  - Modelling a web app in Alloy:: The first project i worked on was using a specification 
+  - Modelling a web app in Alloy :: The first project i worked on was using a specification 
        language(like alloy) to model our web app.This was done in order to see that all the 
        requirements of the app are met and also are correct without actually writing the real code.
   - Modular devolopment of routes in the web app :: The second project I did was to complete the routes 
