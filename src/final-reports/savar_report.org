@@ -1,4 +1,4 @@
-#+TITLE: Report Template
+#+TITLE: Final Project Report 
 #+AUTHOR: VLEAD
 #+DATE: [2017-07-19 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
