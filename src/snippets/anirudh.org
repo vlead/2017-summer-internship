@@ -13,5 +13,5 @@
 
   - Image
   #+CAPTION: Image
-  #+NAME:   img-atreyee
+  #+NAME:   img-anirudh
   [[./photos/anirudh.jpg]]
