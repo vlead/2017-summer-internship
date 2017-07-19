@@ -328,5 +328,19 @@ for the code. Detail explanation of the frontend code is done.
 
 + [2017-07-17 Mon]
 
+We realised that there was a bug in the LDS server due to which our frontend was
+facing problem. So we reverted back the changes. Our frontend was working fine then.
+Later we worked on integrating all the event handlers of the  CRUD operations and
+made sure that it was working well. All the add and delete operations were done.
+We have not completed update operations completely.
 
 + [2017-07-18 Tue]
+
+In the morning we worked on integrating the remaining update operations.
+we have attached appropriate event handlers. Later i worked on the documentation
+of frontend. We have pushed all the code to git and literate was done for every piece of code.
+
++ [2017-07-19 Wed]
+
+We have worked on designing our poster for the presentation. Remaining documentation
+was done for some of the new javascript functions.
