@@ -268,3 +268,30 @@
      - All the functions to contact LDS through LDSD are done and tested except 'PUT'.
      - Test cases have been written but failing. Have to check routes to fix them. Maybe end of the weekend.
    + [2017-07-14 Fri]
+     - Test cases were worked upon.
+     - Update routes attached to the button in show tables and started writing update handlers.
+     - PUT functions in the LDSD updated needs a little more work.
+     - Update will be done by Tuesday.
+     - Show user table fixing initiated for update user-profile segregation.
+     - Update Experiment works but problems with lab.
+** Week 3 [2017-07-17 Mon] till [2017-07-20 Thurs]
+   + [2017-07-17 Mon]
+     - Update done for all except section. Lab did took a while since changed input. Waiting for sections to be fixed in LDS.
+     - Routes done. Event handlers for update page in progress.
+     - Fixed some bugs in LDSD regarding null values.
+     - Show tables fixed for wrong information due to wrong names.
+     - JSON updation for update routes, update pages dropdown.
+     - Wokring on documentations and pushing update. 
+   + [2017-07-18 Tue]
+     - Working on poster begins.
+     - Updated JSON to fix some more bugs related to event handlers.
+     - Documentation work done for the most.
+     - Fixing errors with some update routes, PUT request function was rewritten and fixed.
+     - LDS-LDSD interaction routes still need fixing will be done tomorrow.
+   + [2017-07-19 Wed]
+     - Poster done.
+     - Section is fixed in the LDS, have to set up LDS again and then work for the fix.
+     - Fixed LDS-LDSD interaction routes.
+     - Working on proxy fix for base4.
+     - Documentation update.
+   + [2017-07-20 Thurs]
