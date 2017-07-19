@@ -7,19 +7,23 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This is the final report of <Name>
+  This is the final report of the Continuous Integration tool and ADS enhancement projects. 
 
 * About Project(s)
-  Few lines about the project and the duration on the project.
-  - Project Repository
+  1.)Continuous integration is a DevOps software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run. Continuous integration most often refers to the build or integration stage of the software release process and entails both an automation component and a cultural component. The key goals of continuous integration are to find and address bugs quicker, improve software quality, and reduce the time it takes to validate and release new software updates.
 
+2.)ADS enhancement required us to integrate to develop a output console on the url page to make the current status of the deployment process visible to the user.
+
+  - Project Repository
+  [[https://github.com/vlead/continuous-integration]]
+  [[https://github.com/vlead/ovpl/tree/webapp-socket]]
 
 * Project Details
-  Write up on the your contribution to the project along with links to the
-  relevant committed project documents, work logs and posters. 
+  Intially we started with started off with experimenting an industry available tool called Jenkins.I was invloved with the initial R&D work with finding it.I was also given the task of running and testing it on various services.Later on our project changed to developing our own microservice in compliance with the given requirements.I was involved in developing the microservice along with my mentor Sripathi.Once this was done I worked on enhacing the Auto Deployment Service.The output console app is built but unfortunatley once shifted to the production evironment it had some issues due to lack of support hence I had to leave this here.The prototype for this is ready and it runs without any issue on the local host.There were certain features that had to be added and bugs that needed to be fixed in our intial continuous intgration tool release so I got back to working on that.     
+ [[https://github.com/vlead/continuous-integration/tree/savar_dev]]
+[[https://github.com/vlead/ovpl/tree/webapp-socket]]
   
 * Project Outcome
-  Few lines about the outcome and suggestions on the future work.
 
 
 
