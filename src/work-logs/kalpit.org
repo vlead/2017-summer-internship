@@ -89,3 +89,5 @@
    + [2017-07-12 Wed] - testing of 8th experiment is done so just fixed issues in that experiment.regarding paper read about structure of flash videos and structure of swf/fla files.
    
    + [2017-07-13 Thu] - testing of 6_10th experiment is done so resolved issues for that experiment.regarding my paper, started writing points for paper. Wrote abstract and introduction/motivation for paper. 
+   
+   + [2017-07-14 Fri] - testing of last experiment was done so fixed issues for that experiment. Regarding my paper, comntinued searching for contents also thought about poster.

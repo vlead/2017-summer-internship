@@ -202,7 +202,7 @@
       - The python framework that supports server-scripting is Django.
       - Started learning Django.
 * Month of  July
-** Week 1 [2017-07-03 Mon] till [2017-06-09 Sun]
+** Week 1 [2017-07-03 Mon] till [2017-07-09 Sun]
    + [2017-07-03 Mon] 
      - updated the whole code of the the initialise.sh into org-mode
      - updated the whole code of build.sh into org-mode
@@ -210,10 +210,10 @@
        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
    + [2017-07-04 Tue]
-      + Working on the lab to gather some resoures to improvise the experimernts.
-      + Today, I tried to understand the working of the current experiments in linux-lab.
-      + there are some bugs in these exp.
-      + there are some exp which are not working.
+      - Working on the lab to gather some resoures to improvise the experimernts.
+      - Today, I tried to understand the working of the current experiments in linux-lab.
+      - there are some bugs in these exp.
+      - there are some exp which are not working.
    + [2017-07-05 Wed]
       - Tested the lab on my friends computer
       - It's showing some errors on testing on a virtual-box while it's working fine on a container on base4 machine.
@@ -222,9 +222,56 @@
       - updated the documentation - added the architecture 
    + [2017-07-06 Thr]
      - Met with my mentor regarding the lab.
-       - MOM of meetings 
-         + We discussed on systems and ML. 
-	 + About why system is important and how it is relates to ML.
-	 + Putting on the lab in the production environment on cloud.
-	 + We discussed on cloud and Engineering systems.
+       - MOM of meetings :- 
+       				- We discussed on systems and Machine learning. 
+	                    	- About why system is important and how it is relates to Machine learning.
+	                    	- Putting on the lab in the production environment on cloud.
+	                    	- We discussed on cloud and Engineering systems.
 	 
+   + [2017-07-07 Fri]
+      - Code review of linux-lab on single host 
+      - Studied python's Ldap API's because they are to be used for converting the linux-lab base code into python
+      - Gathered resources to improvise the experiments of linux-lab
+      - These are some of the links I used for studying python :-
+        - [[https://developers.google.com/edu/python/]] : For begineers
+ 
+** Week 2 [2017-07-10 Mon] till [2017-07-16 Sun]
+   + [2017-07-10 Mon] 
+      - updated the code to literate version
+      - updated the code of build.sh into org-mode
+      - Here are the links to the updated literate-codes
+        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/initialise.org]] : initialise.org
+        - [[https://github.com/Virtual-Labs/linux-lab-iiith/blob/linux-lab-on-single-host/src/build.org]] : build.org
+       
+   + [2017-07-11 Tue]
+      - There are still some security issues with the lab
+      - Things still to be implemented are :-
+                                             - capthca in register
+	                                     - Restricting user root priviliges 
+      - Working on the lab to gather some resoures to improvise the experimernts.
+      - Today, I tried to understand the working of the current experiments in linux-lab.
+      - there are some bugs in these exp.
+      
+   + [2017-07-12 Wed]
+      - Finally tested the lab on base-4 machine and then on my:-
+      - Tested the lab on my friends computer
+      - It's showing some errors on testing on a virtual-box while it's working fine on a container on base4 machine.
+      - Fixed the error due to putting on the host for gateone for admin authentication as "8000" instead of the inputted host.
+      - updated the documentation to fix issues
+      
+   + [2017-07-13 Thr]
+      - Met with my mentor regarding the lab.
+        - MOM of meetings :-
+	                  - About why system is important and how it is relates to ML
+	                  - Putting on the lab in the production environment on cloud.
+      - Learned more on python: LDAP client API for Python.
+     
+   + [2017-07-14 Fri]
+      - Had a meeting for discussion regarding poster presentation 
+      - Studied python's Ldap API's because they are to be used for converting the linux-lab base code into python
+      - Discuss with venkatesh sir regarding poster presentation:
+        	- It should contain diagram showing working of the linux-lab
+        	- Info about javascript framework on gateone server. For hovering over the command outputs to get info about them.
+      - Gathered resources to improvise the experiments of linux-lab
+      - These are some of the links I used for studying python :-
+                                                           - [[https://developers.google.com/edu/python/]] : For begineers

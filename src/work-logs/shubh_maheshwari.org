@@ -134,7 +134,7 @@
 		      - Hence  we completed the Post Corp Model
 			
 
-** Week 4 [2017-06-26 Mon] till [2017-07-02 Sun]
+** Week 5 [2017-06-26 Mon] till [2017-07-30 Fri]
  
   + [2017-06-27 Tue] - Showed the PostCorp model to Venkatesh Sir 
                     
@@ -142,5 +142,100 @@
 		     
 		     - Started my research on how to apply Authentication and Authorization on various microprocesses.
 
+  + [2017-06-28 Wed] - Discussed my work with Projit and am getting familiar with everything.
+ 
+                     - Reading on everythong projit has done yet.
+
+		     - Understanding the Oauth code example in Projit example.
+
+  + [2017-06-29 Thu] - Discussed my work with Projit and am getting familiar with everything.
+ 
+                     - Reading on everythong projit has done yet.
+
+		     - Understanding the Oauth code example in Projit example.
+
+		       
+  + [2017-06-30 Wed] - Discussed with Akash and Sir to start working on the ICISS Paper.
+
+                     - Started implementation of an example of Oauth with google sign on.
+
+		     - Understood many implementation of google sign on using the Outreach Portal
+ 
 
 * Month of July
+** Week 1 [2017-06-01 Thu] till [2017-06-04 30 Fri]
+
+   + [2017-06-01 Thu] - Discussed the work-flow of the paper with projit and akash.
+
+   + [2017-06-28 Fri] - Made a small presentation with anirudh on the work in Alloy and the things done that weekend.
+
+                      - Watched the Ted Talk.
+ 
+ 
+** Week 2 [2017-06-05 Mon] till [2017-06-09 Sun]
+   
+   + [2017-06-05 Wed] - Discussed with Venkatesh Chopella Sir about the appropriate title for paper 
+     
+                      - Discussed the basic paper flow of the paper.
+  
+		      - Learned about the 
+
+   + [2017-06-06 Thu] - Made a small server which does the cross site timing and added logout attacks on that site.
+                      
+                      - Tried various examples to try on these attack
+
+		      - Tried to implement a click jacking attack but failed due to X-frames,CORS and many other protection maintained by the mordern web applications. 
+
+   + [2017-06-07 Fri] - Came late to work because I wasn't feeling well.
+   		     
+                      - Seeing on SAML,Shibboleth and what is the difference between them.
+			
+		      - Talked with akash and projit on the major work for next week.Started writing on the google docs
+
+		      - Tried to mitigate the attack in chrome by setting CORP headers.
+			
+
+
+** Week 3 [2017-06-10 Mon] till [2017-06-16 Sun]
+   + [2017-06-10 Mon] - Started the writing part of the paper.
+
+                      - We have started by the Attack and wrote on discovered many other details of FIM
+			
+		      - Tried to find the refresh token details eg. the expiry of the access token. Realized the access token take more than 1 hour.In general these tokens take around  
+
+                      - Trying to find errors in the model of Oauth after adding google single-sign on to it. Do to not clear error messages displayed by the system. It is taking longer to debug.
+
+			
+
+   + [2017-06-11 Tue] - Doing the work on the paper.
+                      
+                      - Wrote details on how the differnet types of FIM present and also the diffrent types of protocols used in FIM
+			
+		      - Started working on 2 servers which can use this single-sign-on to multiple servers.
+			
+		      - Added google sign in inside the service
+
+	
+
+   + [2017-06-12 Wed] - Trying to debug the code of model I was making.
+                      
+                      - Strange bug has appeared because of one of the policies.The 2 servers are unable to talk to one another. I am unable to debug this.
+
+		      - After having a discussion with thirumal sir, we have decided to use to currently use a variable or maybe a file.
+
+		      - Wrote the documentation for cross site logout attacks. Explaning how the attack works and why this approach.
+
+   + [2017-06-13 Thu] - Started the consising part of the paper.
+   			
+	  	      - Modelling was taking way to much space around 20 pages .So I have reworded it to 10 pages.
+		
+		      - Alot of things had to be cut down. All Signatures of Alloy model were removed and a descripted defination was added.Digrams were removed and 3-4 paragraphs was added instea
+
+   + [2017-06-14 Fri] - Had a big discussion with Maruthi Sir and Thirumal Sir over the user use of a proxy and an API Gateway to protect all our microservices.
+
+                      - Began learning Zuul (Netflix Api Gateway), this is an open source api and hence we can use it or atleast make a model from this method.
+
+                      - Proxy will safegaurd our network and all the calls will go through the API Gateway.
+   			
+
+
