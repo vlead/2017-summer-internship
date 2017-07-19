@@ -1,0 +1,99 @@
+#+TITLE: Final Report - Atreyee Ghosal
+#+AUTHOR: VLEAD
+#+DATE: [2017-07-19 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This is the final report of Atreyee Ghosal.
+
+* About Project(s)
+  
+** Web App In Haskell
+
+Creation of an example web application in Haskell, and a preliminary comparison
+study with the
+equivalent software written in Python. The purpose of the comparison study is
+to compare Haskell with other languages, within the purpose of these particular
+requirements- i.e web applications. 
+
+  - [[https://github.com/vlead/web-app-haskell][Project Repository]]
+  
+
+** NLP Tools in Functional Languages
+
+Exploration of NLP tools in functional languages. This consisted of a
+demonstrative implementation of a dependency parser engine in Haskell, and an
+exploration of Grammatical Framework - a functional, type-theoretic language
+created for the purpose of writing grammars.
+
+  - This project does not have a repository
+
+* Project Details
+
+** Web App In Haskell 
+
+My contribution to this project was:
+
+  1) Writing a basic user directory web application in Haskell. The system
+     implemented consists of a directory of users, with CRUD operations
+     performable on the user-set. Users in the directory are assigned
+     privileges based on roles (Admin/NonAdmin), and authentication for CRUD
+     operations and assigned privileges is done using session-based
+     authentication. (i.e: login auth.)
+
+     Implementation of the webapp is given here:
+     https://github.com/vlead/web-app-haskell/tree/master/imp
+
+  2) Writing up of a preliminary comparision study report with an
+     implementation of the same set of requirements written in Python. The
+     Python web app is given here:
+     https://gitlab.com/itws2/web-app-short-course/tree/modular.
+     The comparison study report is given here: 
+     https://github.com/vlead/web-app-haskell/blob/master/study/report.org
+  
+** NLP Tools in Functional Languages
+
+This project was conducted during a series of meetings with me and Professors
+Vineet Chaitanya, Soma Paul, Venkatesh Choppella and Kesav Nori.
+
+The initial aim of the project was to explore the capability of functional
+languages in the building of dependency parsing tools. An implementation of the
+dependency parser engine described in the paper Dependency Grammars as Haskell
+Programs was made. The implementation is given in an org file here: 
+https://github.com/AdLucem/Dependency-Parser-in-Haskell
+
+The later aim of the project was to explore NLP tools that would allow us to
+easily and concisely express Paninian dependency grammars in the language, thus
+allowing for dependency parsing based on a Paninian (i.e: Kaaraka)
+framework. To this end, I studied the Grammatical Framework- a functional,
+type-theoretic language created for writing grammars- and attempted to
+implement a basic, domain-restricted Paninian Grammar with it.
+
+* Project Outcome
+
+** Web App in Haskell
+
+The comparision study of the two languages is in the preliminary stage.
+
+The following issues must be addressed in the comparision:
+
+    1) The presence of confounding factors has not been accounted for.
+        - Programmer-related factors
+        - Library-related factors: i.e. the observed results may be in large
+          part due to the libraries used
+        - Differences between different implementations within the same
+          language may be more significant than differences between implementations in different languages
+    2) More metrics- such as cyclomatic complexity, and runtime for each request- need to be tested for.
+
+
+
+
+  
+** NLP Tools in Functional Languages
+
+I am currently working on Grammatical Framework. The purpose of the work is to
+write a domain-specific Paninian syntactic/semantic grammar using GF, and to
+try to implement free word order parsing using GF.
