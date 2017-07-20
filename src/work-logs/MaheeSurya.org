@@ -139,7 +139,7 @@ Approved - Lalit Mohan
      when browser is resized. Fixing the issue. Also worked on Experiment-3.
    + [2017-07-13 Thu] - Fixing errors caused due to browser resize issue.
    + [2017-07-14 Fri] - Fixed resize errors in Experiment-8 and Experiment-1.
-** Week 3 [2017-07-17 Mon] till [2017-07-20 Thu]
+** Week 3 [2017-07-17 Mon] till [2017-07-23 sun]
    + [2017-07-17 Mon] - Fixed text resize errors in Experiment-1 and image
      overlap errors in Experiment-5. Fixed half of the resize errors in
      Experiment-14. 
@@ -147,3 +147,5 @@ Approved - Lalit Mohan
      conversion of Experiment-3.
    + [2017-07-19 Wed] - Fixing issues in GitHub. Working on the conversion of
      Experiment-3. 
+   + [2017-07-20 Thu] - Worked on checkout list and poster presentation. Fixing
+     errors in Experiment-14.
