@@ -18,8 +18,11 @@
   In the first few weeks, I was trying to work with an existing continuous integration tool called Jenkins, and trying to deploy Jenkins on the base4 server. I could complete that and configure jenkins on the base4 server but then we had a discussion and the shortcomings of Jenkins came up and the idea for a new tool came up. The tool was built, and after that I started working on trying to deploy the CI tool on the base4 server using Gunicorn and Nginx. The first few attempts weren't fruitful but after a few changes to the approach and using uWSGI instead of NGINX I could deploy the app on the base4 server and get it to work. I also tried to get a flask application using websockets to work on a container running on CentOS to make it easier for the final staging environment, but that did not come to anything and I went back to deploying the app using NGINX and Gunicorn on the server. I could use ADS and auto-deploy all the services using labspec files.
   
   https://github.com/vlead/continuous-integration/tree/srikar_dev
+  
   https://github.com/vlead/continuous-integration/tree/nginx-deployment
+  
   https://github.com/vlead/continuous-integration/tree/ads-deployment
+  
   https://github.com/vlead/doc-server/tree/srikar_dev
   
 * Project Outcome
