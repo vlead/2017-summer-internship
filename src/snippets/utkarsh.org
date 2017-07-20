@@ -1,0 +1,18 @@
+* Project
+  - Lab Data Service Dashboard
+    The project required us to design a user-friendly dashboard for LDS (Lab Data Service) 
+    to minimize the user’s efforts in accessing and manipulating data from all the virtual 
+    labs. We developed it as an SPA (Single Page Application) just using plain JavaScript 
+    without any framework along with JSON specification for view model which was the most 
+    challenging part of all.
+
+  - Internship Experience ::This was my first internship experience and was exactly like I 
+    wanted it to be. My understanding of the subject and concepts have really grown a lot 
+    which is all due to the support of my mentors. I think this has really made me compatible 
+    to work in a professional working environment along with giving my best under deadlines 
+    which surely gonna help me with my next projects. 
+
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-utkarsh
+  [[./photos/utkarsh.jpeg]]
