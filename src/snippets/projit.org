@@ -1,0 +1,29 @@
+* Project
+- Oauth Service ::
+In this project I surveyed current industrial standards on authorization and
+authentication between microservices, and built a model based on the
+interactions in the Oauth 2.0 protocol.  
+
+- Lab Authoring Tools :: 
+The project aimed to create web tools used to create online labs without the
+knowledge of coding. I developed the programming model for this, and did a
+comparative study of various modeling and game-creation softwares. I also
+created a studio, using javascript, where objects can be uploaded, placed, and
+moved around.
+
+- Web Security ::
+I helped write a paper regarding modeling and mitigating cross origin attacks
+on systems using federated identity management. During this I found
+vulnerabilities in the logout handler of many sites.
+
+
+- Internship Experience ::
+I had a great time working with others and learning new concepts. The freedom
+we got to explore different areas was wonderful and the guidance we received
+was of great help. I would definitely recommend people to take up this
+internship in the future.
+
+- Image
+#+CAPTION: Image
+#+NAME:   img-projit
+[[./photos/projit.jpg]]
