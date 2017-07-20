@@ -13,7 +13,7 @@
        I take up in future. And I have also learnt to work in a professional
        environment.
 
-  - Image
+  - Image :: Picture
   #+CAPTION: Image
   #+NAME:   img-sounak
   [[./photos/sounak.png]]
