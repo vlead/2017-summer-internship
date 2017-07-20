@@ -1,0 +1,9 @@
+* Project
+  - Experiment as a Service :: In this project we were tasked to build a microservice to continuously build, test and deploy any changes made to the code in the Github repository. 
+
+  - Internship Experience :: This is my first internship and I learnt a lot, not just w.r.t to the project but about programming in general, different development tools and using Ubuntu.
+
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-srikar
+  [[./photos/Srikar.jpg]]
