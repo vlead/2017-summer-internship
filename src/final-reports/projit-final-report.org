@@ -68,6 +68,7 @@ My Contributions to this are:
 
 
 ** Web Security
+
 - Found Vulnerabilities in the logout end points of many sites, which became an
   essential part of the experimentation shown in the paper.
 
@@ -83,24 +84,40 @@ My Contributions to this are:
 
 - Oauth 2.0 protocol should be used to implement authorization and
   authentication between the services.
+
 - We must implement the user and server flows ourselves, as there is no out of
   the box solution for this(Oauth servers themselves, however, are available).
+
 - Purely JWT based authentication and authorization should not be used as there
   are many other overheads involved: blacklistinng the tokens at each service
   upon logout, security issues..etc.(mentioned in documentation).
+
 - Shubh went on to implement the oauth flows on a small scale.
 
+
 ** Lab Authoring Tools
+
 - Comparative study can be used by others in the future when trying to create
   similar authoring tools.
+
 - The programming model has been solidified and can be carried forward by
   others who will work on this in the future.
+
 - Set ground work on movement of images/objects in a studio as well as
   uploading them onto the page.
+
 - The work done can be used by those converting labs from flash to javascript,
   or even making new labs in javascript. Those doing so have claimed it takes
   almost 50% of their time to place the objects on the screen accurately. With
   minor modifications to the current studio, we can probably return the
   coordinates of the images and thus directly use them(saving 2-3 days worth time).
 
-** 
+
+** Web Security
+- Experimentation was successful.
+
+- These attacks could be tested on VLabs services to make sure the same
+  vulnerabilities do not exist.
+
+- Paper content has been completed and the reduction stages are currently in
+  progress, as due date is on the 24th of July.
