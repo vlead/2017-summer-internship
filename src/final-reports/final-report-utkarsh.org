@@ -1,0 +1,55 @@
+#+TITLE: Report Template
+#+AUTHOR: VLEAD
+#+DATE: [2017-07-19 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This is the final report of Utkarsh.
+* About Project(s)
+  The project's aim was to design a user-friendly dashboard 
+  for LDS (Lab Data Service). Main motivation remained to 
+  minimise the user's efforts in accessing and manipulating 
+  data from all the virtual labs. It was developed as an SPA
+  (Single Page Application) using plain JavaScript without 
+  any frameworks.
+  - Duration
+    1st June 2017 - 20th July 2017
+  - Project repository
+    [[https://github.com/vlead/lab-data-service-dashboard][Lab Data Service Dashboard- Github]]
+* Project Details
+** Team
+   - Utkarsh ([[https://github.com/obliviateandsurrender][@obliviateandsurrender]])
+   - Yahnit ([[https://github.com/Yahnit][@Yahnit]])
+   - Madhavi ([[https://github.com/madhavipuliraju][@madhavipuliraju]]) [Mentor] 
+   - Thirumal Ravula ([[https://github.com/travula][@travula]]) [Mentor]
+** Documentation 
+    [[https://github.com/vlead/lab-data-service-dashboard/tree/master/src/runtime][Project Literate]]
+** Work Logs
+    [[https://github.com/vlead/2017-summer-internship/blob/master/src/work-logs/utkarsh.org][Work Log]]
+** Poster
+    [[https://github.com/vlead/2017-summer-internship/blob/master/src/posters/LabDataServiceDashboard.pdf][Lab Data Service Dashboard Poster]]
+** Handout
+    [[https://github.com/vlead/2017-summer-internship/blob/master/src/handouts/Lab%20Data%20Service%20Dashboard.pdf][Lab Data Service Handout]]
+* Project Outcome
+  - We have developed data service dashboard using
+    plain JavaScript without the help of any
+    frameworks.
+  - Absence of frameworks allows manipulation of
+    code to incorporate any features within the limit  
+    of the language.
+  - JSON has a great potential when it comes to
+    automating procedures like generation of html
+    code.
+  - Hash routing allows us to embed the exact state
+    of the web app in the page URL.
+  - Attaching element to an id instead of doing the
+    opposite can allow unit-testing of DOM elements.
+
+
+
+  
+
+  
