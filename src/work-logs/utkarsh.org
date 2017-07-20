@@ -294,4 +294,9 @@
      - Fixed LDS-LDSD interaction routes.
      - Working on proxy fix for base4.
      - Documentation update.
+     - Knowledge Talk Session with mentors.
    + [2017-07-20 Thurs]
+     - Handout done.
+     - Worklogs and Snippet updated.
+     - Work report done.
+     - Poster Presentation.

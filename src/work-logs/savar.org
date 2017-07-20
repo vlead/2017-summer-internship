@@ -103,4 +103,22 @@ Documnetation was also completed today.
 
 [2017-07-06 Thu]:The shh tunnel server was down so in the morning I couldn't get access to the base4 or AWS. It took a little time to get access and I had to do it as root.I installed tcp dump to try and capture the packets being received and sent.Unfortunately this didn't help much.I would like to try this once more with my supervisor probably.Other time spent trying to look for tornado plugins for tornado support. 
 
-[2017-07-07 Fri]:Work regarding how to make the websocket app work continued. I worked with testing the app based with SSE (Server Sent Events) too.Later we worked with testing examples using flask and websocket.There were lot of issues with setting up the environment and the specific configurations required for the run environment.
+[2017-07-07 Fri]:Work regarding how to make the websocket app work continued. I worked with testing the app based with SSE (Server Sent Events) too.Later we worked with testing examples using flask and websocket.There were lot of issues with setting up the environment and the specific configurations required to the run environment.
+
+[2017-07-10 Mon]:Continued my work on trying to fix the issue with websockets.Tested a few flask apps with websockets first on the local host.A lot of them had requirement problems so it took some time to filter them one by one.
+
+[2017-07-11 Tue]:After shortlisting a few apps from yesterdays survey I shifted to testing it on the staging and production environments.Unfortunately due to some problem with the ssh tunnel and some server maintainence issues I could not proceed further.
+
+[2017-07-12 Wed]:The server maintanence work was been continued.After talking to my mentor I found that it would take a while probably a day more for it to be up and running.There was another long pending issue with deployment so I attended to that and finished up a little bit of pending documentation work also.
+
+[2017-07-13 Thu]:On sick leave.
+
+[2017-07-14 Fri]:A few features had to be added and bugs resolved in our CI APIs so I started working on them.Few of the bugs were resolved and few the feature was also added.
+
+[2017-07-17 Mon]:Holiday for Bonalu.
+
+[2017-07-18 Tue]:Worked on the poster.Finished the diagram for it along with the literature.
+
+[2017-07-19 Wed]:The API code had been refactored by my mentor and he asked me to do a quick review of it.So I finished that.A little bit of work on the poster was also remaining so I attended to that.All the formalities beforing leaving had to be completed so I spent the rest of the day filling the required forms and providing the information.
+
+[2017-07-20 Thu]:Last day of internhsip.Prsentation of the projects to the professors to IIITH.U

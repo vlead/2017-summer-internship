@@ -77,4 +77,10 @@ The design for the new process of continuous integration was made and uploaded o
 
 [2018-07-04] Worked on the deployment and tried to fix the errors that I encountered whilst trying to deploy the ci app. Things seemed to work but in the end I was faced with an open ended "Internal system error"
 
+[2018-07-05] Due to a sudden difficulty with websockets, I shifted my focus onto getting it to work on CentOS for a day. I tried getting different flask apps using websockets to work on the CentOS container.
+
+
+
+
+
 

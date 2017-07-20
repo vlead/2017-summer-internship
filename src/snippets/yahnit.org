@@ -1,0 +1,21 @@
+* Project
+  - Lab Data Service Dashboard :: 
+    The project's motive was to design a user-friendly dashboard for LDS (Lab Data Service) 
+    which contains meta data of all the virtual labs. Our goal was to minimize the user’s 
+    efforts in accessing and manipulating data of virtual labs. We developed it as an SPA 
+   (Single Page Application). We built it from the scratch using plain JavaScript without 
+   any framework along with JSON specification for view model which was the most challenging part of all.
+
+
+  - Internship Experience :: 
+    This is my first internship experience and I strongly felt that i have spent quality 
+    time here . I got a clear idea on how things are dealt at the corporate level. 
+    I also received tremendous support from all the mentors around me who never hesitated 
+    to clear my doubts even though they were very trivial. We were given full freedom to 
+    express ourselves and we were not pressurized at any point of time. This experience 
+    made me understand the importance of team work and me compatible to work in a professional environment.
+
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-yahnit
+  [[./photos/Yahnit.jpg]]

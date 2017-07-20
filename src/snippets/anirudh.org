@@ -1,0 +1,17 @@
+* Project
+  - Modelling a web app in Alloy :: The first project i worked on was using a specification 
+       language(like alloy) to model our web app.This was done in order to see that all the 
+       requirements of the app are met and also are correct without actually writing the real code.
+  - Modular devolopment of routes in the web app :: The second project I did was to complete the routes 
+       for various operations(like addrole,setemail etc totally 12 of them) modularly.Here modular development 
+       is important inorder to use each module independently.
+ 
+  - Internship Experience :: My experience at this internship was amazing as I 
+       got to learn many things such as a new language Alloy, modular development 
+       and also a lot of techniques  which are used all over the world.Overall it was
+       great working under Professor Venkatesh Choppella and Thirumal Sir.
+
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-anirudh
+  [[./photos/anirudh.jpg]]

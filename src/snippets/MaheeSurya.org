@@ -1,0 +1,22 @@
+* Project
+  - Conversion of Virtual Labs from Flash to JavaScript :: 
+    The motive of the project is to convert the Virtual Lab experiments from
+    Flash to JavaScript. There are some major issues with Flash which prevent
+    it from being used widely. Some of them being Accessibility of Flash
+    content, its Search Engine Friendliness and issues with Poor degradation.
+    Hence creating similar experiences in JavaScript, we can avoid many of the
+    problems inherent in Flash. Another benefit with the conversion is pure
+    HTML5 /  JavaScript is easier to understand, decompile and re-use. 
+
+  - Internship Experience :: 
+    I found my Intern experience to be very helpful in enhancing my
+    knowledge. I received good support from my mentors who helped with every
+    aspect of the project. The experience made me understand the importance of
+    Teamwork and also gain some very important insights of working with senior
+    officials. I believe that this experience will help me in taking up
+    projects in the future and work effectively in a professional environment.
+
+  - Image
+  #+CAPTION: Image
+  #+NAME:   img-MaheeSurya
+  [[./photos/MaheeSurya.png]]

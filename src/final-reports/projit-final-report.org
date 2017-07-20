@@ -1,0 +1,123 @@
+#+TITLE: Final Report - Proijt Bandyopadhyay
+#+AUTHOR: VLEAD
+#+DATE: [2017-07-20 Thurs]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This is the final report of Projit Bandyopadhyay.
+
+
+* About Project(s)
+
+** Oauth Service 
+
+- Doing a survey of current industrial standards to see what is being used for
+authentication and authorization between microservices. I compared systems
+using purely JWT(Javascript web tokens) to Oauth systems.
+Then we built a model as a proof of concept for the oauth.
+
+[[https://github.com/vlead/oauth-service/tree/development][Project Repository Development Branch]]
+
+
+** Lab Authoring Tools
+- Do a comparative study on available modeling and game software for creating the
+tools that we are trying to make.
+
+- Also create the programming model to be used to develop this authoring studio.
+
+- Develop a sample studio
+
+[[https://github.com/vlead/lab-authoring-tools/tree/development][Project Repository Development Branch]]
+
+
+** Web Security
+
+- There is no repository that I can link for this.
+
+Helped Akash write his paper on web security: Modeling and Mitigating Cross
+Origin Attacks on Systems using FIM using CORP  
+
+
+* Project Details
+
+Work log for the projects are [[file:../work-logs/projit.org][here]]
+
+** Oauth Service
+
+My Contributions to this project are:
+
+- Doing a survey on industrial methods [[https://github.com/vlead/oauth-service/blob/development/src/project/findings/survey.org][here]]
+
+- Sample implementation of Oauth Client and App servers [[https://github.com/vlead/oauth-service/tree/development/src/implementation][here]]
+[[https://github.com/vlead/oauth-service/blob/development/src/project/documentation.org][documentation]]
+
+
+** Lab Authoring Tools
+
+My Contributions to this are:
+
+- [[https://github.com/vlead/lab-authoring-tools/blob/development/src/documentation/index.org][Comparative Study]] on current industrial modeling and game softwares
+
+- [[https://docs.google.com/drawings/d/13pNFrZ-vR7umE9QmOfWoJXYcaRdRx_jRkHFYJC6oavc/edit?usp=sharing][Programming Model]] for scaling this project. 
+
+- [[https://github.com/vlead/lab-authoring-tools/blob/development/src/implementation/index.org][Sample Studio]] where images can be uploaded and placed anywhere. To use,
+  tangle it out and open the html page in the browser.
+
+
+** Web Security
+
+- Found Vulnerabilities in the logout end points of many sites, which became an
+  essential part of the experimentation shown in the paper.
+
+- Conducted many of the experiments used.
+
+- Helped write many parts of the actual paper as well.
+
+
+
+* Project Outcome
+
+** Oauth Service
+
+- Oauth 2.0 protocol should be used to implement authorization and
+  authentication between the services.
+
+- We must implement the user and server flows ourselves, as there is no out of
+  the box solution for this(Oauth servers themselves, however, are available).
+
+- Purely JWT based authentication and authorization should not be used as there
+  are many other overheads involved: blacklistinng the tokens at each service
+  upon logout, security issues..etc.(mentioned in documentation).
+
+- Shubh went on to implement the oauth flows on a small scale.
+
+
+** Lab Authoring Tools
+
+- Comparative study can be used by others in the future when trying to create
+  similar authoring tools.
+
+- The programming model has been solidified and can be carried forward by
+  others who will work on this in the future.
+
+- Set ground work on movement of images/objects in a studio as well as
+  uploading them onto the page.
+
+- The work done can be used by those converting labs from flash to javascript,
+  or even making new labs in javascript. Those doing so have claimed it takes
+  almost 50% of their time to place the objects on the screen accurately. With
+  minor modifications to the current studio, we can probably return the
+  coordinates of the images and thus directly use them(saving 2-3 days worth time).
+
+
+** Web Security
+- Experimentation was successful.
+
+- These attacks could be tested on VLabs services to make sure the same
+  vulnerabilities do not exist.
+
+- Paper content has been completed and the reduction stages are currently in
+  progress, as due date is on the 24th of July.

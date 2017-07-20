@@ -7,7 +7,7 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This is the final report of <Name>
+  This is the final report of <name>
 
 * About Project(s)
   Few lines about the project and the duration on the project.
@@ -22,5 +22,7 @@
   Few lines about the outcome and suggestions on the future work.
 
 
+
+  
 
   

@@ -145,3 +145,5 @@ Approved - Lalit Mohan
      Experiment-14. 
    + [2017-07-18 Tue] - Fixed resize errors in Experiment-14. Working on
      conversion of Experiment-3.
+   + [2017-07-19 Wed] - Fixing issues in GitHub. Working on the conversion of
+     Experiment-3. 
