@@ -1,4 +1,4 @@
-#+TITLE: Report Template - Srikara Srikanth Pakala
+#+TITLE: Final Report -- Srikara Srikanth Pakala
 #+AUTHOR: VLEAD
 #+DATE: [2017-07-19 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
@@ -23,5 +23,5 @@
   https://github.com/vlead/doc-server/tree/srikar_dev
   
 * Project Outcome
-  The CI tool was developed successfully to meet all the requirements. The service could build, test, deploy and notify without any errors and was working well. It can also be auto-deployed using NGINX and Gunicorn on the base4 server via ADS. Furthur work that can be done on this project is figuring out the websockets difficulties which were faced.
+  The Virtual-Labs CI service was developed successfully to meet all the requirements. The service could build, test, deploy and notify without any errors and was working well. It can also be auto-deployed using NGINX and Gunicorn on the base4 server via ADS. Furthur work that can be done on this project is figuring out the websockets difficulties which were faced.
 
