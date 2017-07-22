@@ -28,7 +28,7 @@
     - I learned various languages and tools during my intership. Some of them are alloy, latex, emacs, node. I got a better grasp of various techniques for building systems like modular development. 
     - Overall it was wonderful working under Professor Venkatesh Choppella and Thirumal Sir.
 
-    - Image 
+* Image 
   #+CAPTION: Image
   #+NAME:   img-shubh
   [[./photos/shubh.jpeg]]
