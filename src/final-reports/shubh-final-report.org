@@ -11,7 +11,7 @@
 
 
 * Daily Outcome
-Work log for the projects is [[file:~/Ubuntu/Research/web-security/akash/submissions/ICISS2k17/work-logs/shubh_maheshwari.org][here]]
+Work log for the projects is [[https://github.com/vlead/2017-summer-internship/blob/master/src/work-logs/shubh_maheshwari.org][here]]
 
 
 * Projects
@@ -44,7 +44,7 @@ Work log for the projects is [[file:~/Ubuntu/Research/web-security/akash/submiss
 ** Authentication and autherization of Oauth Service
    
   We have made a small service.  
-  - [[https://gitlab.com/itws2/web-app-short-course/tree/modular][project repository ]]
+  - [[https://github.com/vlead/oauth-service/tree/newOutlook][project repository ]]
   - [[https://github.com/vlead/oauth-service/tree/newOutlook/src/data-model/alloyModels][Alloy model for the service]]  
 
 *** About the project 
