@@ -1,0 +1,12 @@
+* Project
+  
+  - DS lab ::
+  My project was to build experiments for the ds-lab which captures the ideas in a much better and comprehensible way. I also had to work on notations and diagrams which could explain the algorithm in a much better way. I made two experiments i.e. merge sort and quick sort based on HTML, java-script and Dagre-d3 based library. I also surveyed and documented several technologies such as processing, p5.js etc. which could come in handy in my project.
+ 
+  - Internship Experience ::
+  My internship experience has been an excellent one. I got to learn a lot from my mentor Venkatesh sir. He motivated us towards our goals as well gave us very good advises regarding various field of computer science. Also the people here were very good and humble. Whenever we faced a problem they always responded in a positive manner. Apart from my work here, i also went to Google Hyderabad to meet co-interns from different companies and also informed them about the VLEAD platform which was a memorable experience.
+
+  - Image ::
+  #+CAPTION: Image
+  #+NAME:   img-kanay
+  [[https://github.com/vlead/2017-summer-internship/blob/master/src/snippets/photos/kanay.jpg]]
