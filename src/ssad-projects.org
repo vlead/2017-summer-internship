@@ -1,10 +1,11 @@
-#+TITLE: Projects
+#+TITLE: Vlead projects for SSAD
 #+AUTHOR: VLEAD
 #+DATE: [2017-06-01 Thu]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
+#+OPTIONS: toc:nil
 
 * Email :: engg@vlabs.ac.in
 
@@ -43,7 +44,7 @@
        re-presentation, re-delivery to a varied user base,
        for the purpose of improving the page (content's)
        accessibility. 
-       - Link :: http://dl.acm.org/citation.cfm?id=3047292
+    - Link :: http://dl.acm.org/citation.cfm?id=3047292
 
   - 7. Lab Data Service Dashboard :: Data driven development
        of a single page application where each page is built
@@ -54,9 +55,10 @@
        test bench for all the services in cluster provides
        feedback for configuration.
 
-  - 9. Data Visualization :: A dashboard
+  - 9. Data Visualization :: A dashboard to view the
+       analytics of Virtual Labs. 
 
-  - 10. Build Data structures lab :: A lab with 10
+  - 10. Data structures lab :: A lab with 10
        experiments illuminating concepts in data
        structures.
 
@@ -69,9 +71,46 @@
        experiments written in Flask, JAVA or other
        proprietary software or experiments that require
        plugins to javascript to allow the same experiments
-       to run from a browser. 
+       to run from a browser.
+
+  - 13. Linux Lab :: A lab with 10 experiments illuminating
+       concepts in Linux.
+  
+
 
 * Number of People :: Two
 
 * Technology :: Python, Flask Microframeowrk, Javascript, Ansible
 
+
+* Mentor Mapping
+|------+-----------------------------------+---------------------+---------------------|
+| S.no | Project Name                      | Mentor Name         | email id            |
+|------+-----------------------------------+---------------------+---------------------|
+|   1. | Experiment as a service           | Thirumal Ravula     | travula@vlabs.ac.in |
+|------+-----------------------------------+---------------------+---------------------|
+|   2. | Conversion of Virtual experiments | Lalit               |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|   3. | Systems Dashboard                 | Thirumal Ravula     |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|   4. | Linux Lab                         | Venkatesh Choppella |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|   5. | Data structures lab               | Venkatesh Choppella |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|   6. | Data Visualization                | Devi Prasad         |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|   7. | Virtual Labs Portal               | Devi Prasad         |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|   8. | Lab Authoring Platform            | Lalit               |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|   9. | Oauth for VLEAD services          | Thirumal Ravula     |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|  10. | User Directory                    | Venkatesh Choppella |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|  11. | Re-Narration                      | Sai Gollapudi       |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|  12. | Lab Data Service Dashboard        | Thirumal Ravula     |                     |
+|------+-----------------------------------+---------------------+---------------------|
+|  13. | Automate Cluster creation         | Siva Sankar         |                     |
+|      | for a certain performance         |                     |                     |
+|------+-----------------------------------+---------------------+---------------------|
