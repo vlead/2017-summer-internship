@@ -6,32 +6,72 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
+* Email :: engg@vlabs.ac.in
+
+* Name of the Company :: Virtual Labs Engineering, Architecture and Design
+
+* Mentor Names : VLEAD
+
+* Mentor's Email ID: engg@vlabs.ac.in
+
+* Primary Work Location:  B-204 Vindhya C6
+
 * Projects
-  1. Experiment as a service
-  2. Lab Data Service dashboard
-  3. Re-Narration
-  4. Automation of Cluster creation
-     - automate cluster creation
-     - set up backup for all the servers
-     - setup automatic update of patches
-  5. Functional Programming - Haskell
-  6. Build Data structures lab
-  7. NPTEL <--> Virtual Labs Linking
-  8. College Cloud
-  9. Authentication between different software
-     services at VLEAD
-  10. Python Notebooks
-  11. use TypeScript to write all the javascript code
-      taught in the webappshort course
-  12. Build VLABS performance test bench for systems,
-      college cloud, services, etc.
-  13. Build 'Report a Bug' feature for the virtual labs
-  14. Build services around sys logs that can be used
-      within a dashboard
-  15. A dashboard for college cloud - that would
-      display the dynamic and static states of the
-      college cloud.
-  16. Live Analytics of both college cloud and other
-      vlabs installations.
-  17. Have a team work on the book for ITWS2.
-  18. Conversion of IIIT labs to FOSS
+  - 1. Experiment as a service :: The platform to author, host
+       and provide a runtime environment for experiments. 
+
+  - 2. Virtual Labs Portal :: A portal that is dynamically
+       built by pulling the data from various services.
+
+  - 3. Lab Authoring Platform :: A platform that allows lab
+       authors to quickly put together an experiment by drag
+       'n drop of components.
+
+  - 4. Oauth for VLEAD services :: A single sign on for
+       various portals at VLEAD and a mechanism for
+       different services at VLEAD to communicate with each
+       other in a secure way.
+
+  - 5. User Directory :: A light weight web application to
+       provide insights to realize automation and
+       transformation of a data model to an application.
+
+  - 6. Re-Narration :: A web accessibility inspired semantic
+       web framework that takes existing, already published
+       web content and facilitates the modification of the
+       content, flow, assembly and style of that source for
+       re-presentation, re-delivery to a varied user base,
+       for the purpose of improving the page (content's)
+       accessibility. 
+       - Link :: http://dl.acm.org/citation.cfm?id=3047292
+
+  - 7. Lab Data Service Dashboard :: Data driven development
+       of a single page application where each page is built
+       dynamically from data, read here as a specification
+       and therefore is automated.
+
+  - 8. Automate Cluster creation for a certain performance :: Performance
+       test bench for all the services in cluster provides
+       feedback for configuration.
+
+  - 9. Data Visualization :: A dashboard
+
+  - 10. Build Data structures lab :: A lab with 10
+       experiments illuminating concepts in data
+       structures.
+
+  - 11. Systems Dashboard :: A dashboard that displays the
+       dynamic and static states of the cluster by
+       interacting through a set of API.  The set of end
+       points gathers data using system calls.
+
+  - 12. Conversion of virtual experiments :: Convert
+       experiments written in Flask, JAVA or other
+       proprietary software or experiments that require
+       plugins to javascript to allow the same experiments
+       to run from a browser. 
+
+* Number of People :: Two
+
+* Technology :: Python, Flask Microframeowrk, Javascript, Ansible
+
