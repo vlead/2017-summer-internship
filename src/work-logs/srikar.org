@@ -71,15 +71,33 @@ The design for the new process of continuous integration was made and uploaded o
 
 
 * Month of July
-** Week 6[2018-07-03 Mon till 2018-07-09]
+** Week 6[2018-07-03 Mon till 2018-07-09 Sun]
 
-[2018-07-03] Started trying to deploy the app using NGINX and Gunicorn in the begining, after a while I realized that gunicorn is redundant, so I started to use uWSGI to deploy the app on the Base4 server and faced the same error 'No module named wsgi'.
+[2018-07-03 Mon] Started trying to deploy the app using NGINX and Gunicorn in the begining, after a while I realized that gunicorn is redundant, so I started to use uWSGI to deploy the app on the Base4 server and faced the same error 'No module named wsgi'.
 
-[2018-07-04] Worked on the deployment and tried to fix the errors that I encountered whilst trying to deploy the ci app. Things seemed to work but in the end I was faced with an open ended "Internal system error"
+[2018-07-04 Tue] Worked on the deployment and tried to fix the errors that I encountered whilst trying to deploy the ci app. Things seemed to work but in the end I was faced with an open ended "Internal system error"
 
-[2018-07-05] Due to a sudden difficulty with websockets, I shifted my focus onto getting it to work on CentOS for a day. I tried getting different flask apps using websockets to work on the CentOS container.
+[2018-07-05 Wed] Due to a sudden difficulty with websockets, I shifted my focus onto getting it to work on CentOS for a day. I tried getting different flask apps using websockets to work on the CentOS container.
 
+[2018-07-06 Thu] Continued trying to get apps using websockets to run on the base4 server, the ssh tunnel was down, so it took a while for me to get root access, after getting root access I tried to install python 2.7 on the CentOS container because there were errors with 2.6, but since yum is built on python2.6, removing 2.6 can be fatal. That is why I used alias to get python 2.7 to work, but there were issues with pip
 
+[2018-07-07 Fri] Restarted working on the deployment using NGINX and uWSGI, encountered some issues with the wsgi file, showed sir the progress, got some help and could finish that part.
+
+** Week 7[2018-07-10 Mon till 2018-07-16 Sun]
+
+[2018-07-10 to 2018-07-12] Sick leave(Letter sent to my mentor)
+
+[2018-07-13 Thu] Started working on the deployment and finished it using uWSGI and NGINX and got it to work on the port 80. Then started trying to use Gunicorn too, since I had time, and finished that too. And started working on the labspec files for the auto-deployment of the same.
+
+[2018-07-14 Fri] Started working on the diagram of the project which was going to be used for the poster, and completed the design.
+
+** Week 8[2018-07-17 Mon till 2018-07-20 Thu]
+
+[2018-07-18 Tue] Started working on the poster and wrote down the literature for the poster and added it to the template and made small modifications as per Thirumal sir and Venkatesh sir's suggestions. Modified the design slightly to make it more clear.
+
+[2018-08-19 Wed] Wrote down the report and the snippet, got the poster approved.
+
+[2018-09-20 Thu] Had the poster presentation and the photo session
 
 
 

@@ -1,0 +1,69 @@
+#+TITLE: Final Report - Shubh Maheshwari
+#+AUTHOR: Shubh Maheshwari
+#+DATE: [2017-07-19 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This is the final report of Shubh Maheshwari.
+
+
+* Daily Outcome
+Work log for the projects is [[https://github.com/vlead/2017-summer-internship/blob/master/src/work-logs/shubh_maheshwari.org][here]]
+
+
+* Projects
+
+** Modelling a web app in Alloy
+   
+  We have modelled a static and dynamic model of a user directory web application in Alloy.  Alloy is a relational tool and language which uses first order relations to create various models.  
+  - [[https://gitlab.com/itws2/web-app-short-course/tree/modular][project repository ]]
+  - [[https://gitlab.com/itws2/web-app-short-course/tree/modular/src/imp/data-model][Alloy data-model of the app]]
+
+*** About the model
+
+    - The user directory consists of name,email and role of the user in the web app.
+    - In the static model we declared all the objects.  We modelled all their relations as fields/attributes.  Hence giving it a look of an Object Oriented Program.
+    - While in the dynamic model we declared all the relations in form of a tuple, and storing it in a seprate object.  And we can realized this object is the database table of our application. 
+    - The dynamic model allows us to effect the state of the user, eg. Delete User, Update Name, etc. 
+    - Lastly we added the session in the model, to show user logged and logout.
+     
+   Implementation of the Alloy in this web app is given [[https://gitlab.com/itws2/web-app-short-course/tree/modular/src/imp/data-model][here]]
+*** Project Outcome
+
+   The outcome of this project was to
+ 1.Study the formal methods of Web Development.
+ 2.Use a specification language in building the datamodel to make sure the requirements are met.
+ 3.To build the routes modularly which means each module works independently.
+ 4.Study how to achieve automation of development of an entire app with only the requirements 
+   given and a specification languages.
+
+
+** Authentication and autherization of Oauth Service
+   
+  We have made a small service.  
+  - [[https://github.com/vlead/oauth-service/tree/newOutlook][project repository ]]
+  - [[https://github.com/vlead/oauth-service/tree/newOutlook/src/data-model/alloyModels][Alloy model for the service]]  
+
+*** About the project 
+   1. My project was to build an authentication model for users who would log in to VLEAD services. Our requirments are to not store users credentials and use authentication by better identity managers like facebook, google and github. We also need a common authentication service between all the microservices of VLEAD.   
+   2. After Projit completed his survey of the industrial standards, I started with implementation of the model, first using alloy, and then in real life application. We need to implement a better model which would lead us in making this service.
+   3. This project required the knowledge of the various security policies of the web, cross-origin requests and how browsers store user's credentials as cookie.
+
+*** Project Outcome
+   1. We integrated the LDS dashboard, another VLEAD service  with our Oauth Model.
+   2. Added single-sign on with google. Hence we did not use the database in our application.   
+   3. We want to increase our project and implement an API Gateway which would protect Vlab services by a layer of proxy and also does the users authentication. 
+   4. Microservices have to be added in a database to make sure only these services make the call.   
+
+
+** Web security
+   - FIM(Federated Identity Managment) deals with various protocols to provide authentication of user by a seprate trusted service which has a better user management then our service.
+   - We wrote a paper on how FIM is not an all out solution and still many cross-origin attacks can take place due to content inclusion.
+     - We modelled a FIM protocol, SAML and showed how its still vulnerable to CORA attacks.
+     - We made a small server which would logout users from various major sites like google, bitbucket, github, etc. We also made a server to check whether the user is logged in major websites like facebook,google etc.
+     - A web policy, CORP is proposed to mitigate these attacks.
+     - We modelled the SAML protocol and showed that CORP does in fact mitigate these attacks.
+     - We then applied CORP on these servers and they were unable send malacious requests.

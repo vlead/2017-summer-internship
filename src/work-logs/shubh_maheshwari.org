@@ -237,5 +237,14 @@
 
                       - Proxy will safegaurd our network and all the calls will go through the API Gateway.
    			
-
-
+** Week 4 [2017-06-17 Mon] till [2017-06-16 Sun]
+   + [2017-06-17 Mon] 	- Main focus was on consising the paper.
+   			- Reduced the modellig section to 10 pages. We went through multiple iterations to reduce it from 20 to 10.
+   + [2017-06-18 Tue]	- Itegrated LDS dashboard with the Oauth Service. By adding the workflow of Oauth in LDS dashboard instead of a google single sign on.
+   
+   + [2017-06-19 Wed]	- Finalized the Posters for Alloy, OAuth Service and Websecurity.
+   			- Finalized the A4 handout of the Projects.
+			- Reduced modelling from 11 to 7 in the paper.
+			
+   + [2017-06-20 Thr]   - Presented our projects in IIIT 
+   			- Compleleted the internship

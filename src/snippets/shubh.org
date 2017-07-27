@@ -1,0 +1,34 @@
+* Project
+** Modelling a web app in Alloy 
+   - My project was to find better ways for modular development.
+   - Alloy is a relational modelling tool and languages where we make a model using first order relations. While building a simple application.
+   - Alloy helped us in understanding the design,the constrains of our app. Also, it was much easier for us to understand the implications of changing the requirements of the web-app and hence it was easier to resolve bugs from our app.
+   - Hence we made a dynamic model, model consisting of various states, of simple user directory which had a user's role,name and email. We also had to consider user's session, whether he was logged in or logged out.
+
+** Building authentication and authorization service in VLEAD.
+   1. My project was to build an authentication model for users who would log in to VLEAD services. Our requirments are to not store users credentials and use authentication by better identity managers like facebook, google and github. We also need a common authentication service between all the microservices of VLEAD.   
+   2. After Projit completed his survey of the industrial standards, I started with implementation of the model, first using alloy, and then in real life application. We need to implement a better model which would lead us in making this service.
+   3. This project required the knowledge of the various security policies of the web, cross-origin requests and how browsers store user's credentials as cookie.
+   4. We want to increase our project and implement an API Gateway which would protect Vlab services by a layer of proxy and also does the users authentication. 
+
+** Web security
+   - FIM(Federated Identity Managment) deals with various protocols to provide authentication of user by a seprate trusted service which has a better user management then our service.
+   - We wrote a paper on how FIM is not an all out solution and still many cross-origin attacks can take place due to content inclusion.
+     - We modelled a FIM protocol, SAML and showed how its still vulnerable to CORA attacks.
+     - We made a small server which would logout users from various major sites like google, bitbucket, github, etc. We also made a server to check whether the user is logged in major websites like facebook,google etc.
+     - A web policy, CORP is proposed to mitigate these attacks.
+     - We modelled the SAML protocol and showed that CORP does in fact mitigate these attacks.
+     - We then applied CORP on these servers and they were unable send malacious requests.
+  
+** Internship Experience
+    - This internship has enriched me with great understanding of the various aspects of work flow in organisations such as 
+      1) how we should approach a problem, 
+      2) representing our work in the form of presentations and 
+      3) how should we pitch our ideas or a new approach to the team.  
+    - I learned various languages and tools during my intership. Some of them are alloy, latex, emacs, node. I got a better grasp of various techniques for building systems like modular development. 
+    - Overall it was wonderful working under Professor Venkatesh Choppella and Thirumal Sir.
+
+* Image 
+  #+CAPTION: Image
+  #+NAME:   img-shubh
+  [[./photos/shubh.jpeg]]

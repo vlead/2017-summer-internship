@@ -1,0 +1,46 @@
+#+TITLE: Final Report
+#+AUTHOR: VLEAD
+#+DATE: [2017-07-19 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This is the final report of K.L.Mahee Surya
+
+* About Project(s)
+  The project is about the conversion of Virtual Lab experiments from Flash
+  into JavaScript. The most interactive multimedia on the Web, Flash offers the
+  webmaster a single platform to create content that will be seen by the
+  majority of Web site users. However, there are some arguments against
+  Flash. Hence creating similar experiences in JavaScript, we can avoid many of
+  the problems inherent in Flash.
+
+  - [[https://github.com/integration-team-iiith/colloid-and-surface-chemistry-iiith-javascript-lab/tree/master/js-colloid-iiith/lab][Project Repository]]
+
+
+* Project Details
+  I converted 4 experiments from Colloid-and-Surface-Chemistry lab. Pure HTML5
+  and JavaScript were used for the process of conversion. I also explored some
+  other methods of conversions which didn't work well. Some of them include
+  CreateJS, AS3JS and HAXE. I wasn't able to explore much about HAXE as it was
+  complex and had a high learning curve. AS3JS converts ActionScript into
+  JavaScript, but the converted JavaScript was complex and I didn't know how to
+  use it. While exploring CreateJS, I was suggested to use VelocityJS for
+  creating better animations. VelocityJS proved to be very much useful in my
+  project and I was able to convert other experiments easily with its help. 
+  
+  - [[https://github.com/vlead/2017-summer-internship/blob/master/src/posters/flashtojsposter_A0.pdf][Poster]]
+  - [[https://github.com/vlead/2017-summer-internship/blob/master/src/handouts/flashtojs-handout.pdf][Handout]]
+  - [[https://github.com/vlead/2017-summer-internship/blob/master/src/work-logs/MaheeSurya.org][Worklog]]
+  - [[https://github.com/vlead/2017-summer-internship/blob/master/src/snippets/MaheeSurya.org][Snippet]]
+
+* Project Outcome
+  Successfully Converted 4 experiments from Flash to JavaScript.
+
+
+
+  
+
+  

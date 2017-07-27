@@ -211,10 +211,17 @@
      attack part as well as condensed images for it's mitigation. Also worked
      on documentation in the lab authoring tools. 
 
-     
 ** Week 7 [2017-07-18 Tue] till [2017-07-20 Thurs]
    - [2017-07-18 Tue] - Finalized many aspects of the paper. Wrote the
      abstract(thought it needs to be edited on further iterations). Also worked on
      improving the posters so for the presentation on Thursday. The posters
      still need to be verified as they should be sent for printing
      tomorrow. Made sure that images used in posters are labeled for reuse.
+   - [2017-07-19 Wed] - Finalized the posters for the presentation. Also
+     condensed the paper further. Edited the background and modeling sections
+     of the paper. In addition, started work on final report of the internship
+   - [2017-07-20 Thurs] - Worked on creating the handouts for the internship
+     presentation. Also finished up the final report for the different
+     projects that I have worked on. Presented the posters to all those who
+     came. Rest of the day was spent on working on reductions in the
+     web-security paper.
