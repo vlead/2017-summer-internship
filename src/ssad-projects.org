@@ -7,15 +7,14 @@
 #+OPTIONS: ^:nil
 #+OPTIONS: toc:nil
 
-* Email :: engg@vlabs.ac.in
+* Email
+  engg@vlabs.ac.in
 
-* Name of the Company :: Virtual Labs Engineering, Architecture and Design
+* Name of the Company
+  Virtual Labs Engineering, Architecture and Design
 
-* Mentor Names : VLEAD
-
-* Mentor's Email ID: engg@vlabs.ac.in
-
-* Primary Work Location:  B-204 Vindhya C6
+* Primary Work Location
+  B-204 Vindhya C6
 
 * Projects
   - 1. Experiment as a service :: The platform to author, host
@@ -77,11 +76,11 @@
        concepts in Linux.
   
 
+* Number of People
+  Three
 
-* Number of People :: Two
-
-* Technology :: Python, Flask Microframeowrk, Javascript, Ansible
-
+* Technology
+  Python, Flask Microframeowrk, Javascript, Ansible, mysql, mongodb
 
 * Mentor Mapping
 |------+-----------------------------------+---------------------+---------------------|
