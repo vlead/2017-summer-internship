@@ -17,8 +17,9 @@
   any frameworks.
   - Duration
     1st June 2017 - 20th July 2017
-  - Project repository
+  - Project repositories
     [[https://github.com/vlead/lab-data-service-dashboard][Lab Data Service Dashboard- Github]]
+    [[https://github.com/vlead/lab-data-service/tree/ldsdashboard][Lab Data Service - Github]]
 * Project Details
 ** Team
    - Utkarsh ([[https://github.com/obliviateandsurrender][@obliviateandsurrender]])
