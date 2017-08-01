@@ -61,7 +61,7 @@
      successfully in the studio.
    + Fixed this [[https://github.com/vlead/translators/issues/3][issue]] in the translator API.
    + My teammate and I sat with the mentor and set the milestones for this week, which is creating the
-     LDS API. 
+     LDS API.
 *** [2017-06-07 Wed]
    + Setup the Lab Development Service in developer environment.
    + Wrote the API =/map= in LDS which generates the resource ids for all the section
@@ -129,7 +129,67 @@
     + Started on writing narrations for the code that we have written as a part
       of literate programming.
 
-** Week 4 [2017-06-26 Mon] till [2017-06-30 Fri]
-*** [2017-06-20 Tue]
+** Week 5 [2017-06-26 Mon] till [2017-06-30 Fri]
+*** [2017-06-26 Mon]
     + Took a leave.
     + Finished writing narrations for the codes.
+
+*** [2017-06-27 Tue]
+    + Started writing the code for =Content-Server=.
+
+*** [2017-06-28 Wed]
+    + Added narration for =translators=.
+
+*** [2017-06-29 Thu]
+    + Discussed and changed the directory structure of the resources
+      in =Content-Server=.
+
+*** [2017-06-30 Fri]
+    + Wrote =get_path_for_resource= API for =Content-Server=.
+    + Changed =makefile= in =translators= so that it makes a resource
+      directory after building the org files according to the
+      directory structure in =Content-Server=.
+
+* Month of July
+** Week 6 [2017-07-03 Mon] till [2017-07-07 Fri]
+*** [2017-07-03 Mon]
+    + Changed =resource-generator= to use =literate-tools= instead of =pandoc=.
+    + Added auto-generation of =index.org= in Github repository in =translators=.
+
+*** [2017-07-04 Tue]
+    + Tested the application.
+    + Added the index routes to show some basic stuff.
+    + Started deploying the =micro-services= in =base4= using =apache2=.
+
+*** [2017-07-05 Wed]
+    + Forked =literate-tools= and made some changes (used env var HOME instead of ~).
+    + Changed =makefile= to use =sounak98/literate-tools= instead of =vlead/literate-tools=.
+
+*** [2017-07-06 Thu]
+    + =pygithub= not working on server, so decided that we'll be
+      building a new package which can handle Github APIs.
+    + Deployed =resource-generator= using =apache2=.
+
+*** [2017-07-07 Fri]
+    + Deployed =content-server= using =apache2=.
+    + Added =deployment.org= as a reference to deploy applications
+      using =apache2=.
+
+** Week 7 [2017-07-10 Mon] till [2017-07-14 Fri]
+   Started working on Github API package. Faced proxy issues in
+   =Apache2= servers and thus shifted to =Nginx= using
+   =gunicorn=. After shifting to Nginx ran several tests on
+   =resource-generator= and =content-server=. Did these for the whole
+   week. Setting up the server properly took time.
+
+** Week 8 [2017-07-17 Mon] till [2017-07-20 Thu]
+*** [2017-07-18 Tue]
+    + Added Github API instead of =pygithub= in =translators= and deployed it.
+    + Created the API for Skeleton generation in =translators=.
+    + Did final testing.
+
+*** [2017-07-19 Wed]
+    + Worked on the poster and the handout.
+
+*** [2017-07-20 Thu]
+    + Poster Presentation.
