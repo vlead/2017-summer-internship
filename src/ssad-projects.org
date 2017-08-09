@@ -77,7 +77,7 @@
   
 
 * Number of People
-  Three
+  Three students per project. 
 
 * Technology
   Python, Flask Microframeowrk, Javascript, Ansible, mysql, mongodb

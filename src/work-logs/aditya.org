@@ -92,3 +92,39 @@
     + Discussion with Thirumal sir regarding new microservice =content-server=.
     + Started working and pushed the initial directory structure and basic app design for =content-server=.
     + Gathered information for data base which is used in the microservice.
+* Month of July
+** Week 6 [2017-07-03 Mon] till [2017-07-07 Fri]
+*** [2017-07-03 Mon]
+    + Changed =resource-generator= to use =literate-tools= instead of =pandoc=.
+    + Added auto-generation of =index.org= in Github repository in =translators=.
+
+*** [2017-07-04 Tue]
+    + Tested the application.
+    + Added the index routes to show some basic stuff.
+    + Started deploying the =micro-services= in =base4= using =apache2=.
+
+*** [2017-07-05 Wed]
+    + Forked =literate-tools= and made some changes (used env var HOME instead of ~).
+    + Changed =makefile= to use =sounak98/literate-tools= instead of =vlead/literate-tools=.
+
+*** [2017-07-06 Thu]
+    + =pygithub= not working on server, so decided that we'll be
+      building a new package which can handle Github APIs.
+    + Deployed =resource-generator= using =apache2=.
+
+*** [2017-07-07 Fri]
+    + Started working on Github API package
+** Week 7 [2017-07-10 Mon] till [2017-07-14 Fri]
+   + Started working on Github API package. Faced proxy issues in =Apache2= servers and thus shifted to =Nginx= using =gunicorn=. After shifting to Nginx ran several tests on =resource-generator= and =content-server=. Did these for the whole week. Setting up the server properly took time.
+
+** Week 8 [2017-07-17 Mon] till [2017-07-20 Thu]
+*** [2017-07-18 Tue]
+    + Changed translators for new github package instead of =pygithub= and deployed it.
+    + Created the API for Skeleton generation in =translators=.
+    + Did final testing.
+
+*** [2017-07-19 Wed]
+    + Worked on the poster and the handout.
+
+*** [2017-07-20 Thu]
+    + Poster Presentation.

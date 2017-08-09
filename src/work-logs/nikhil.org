@@ -274,4 +274,11 @@
         	- Info about javascript framework on gateone server. For hovering over the command outputs to get info about them.
       - Gathered resources to improvise the experiments of linux-lab
       - These are some of the links I used for studying python :-
-                                                           - [[https://developers.google.com/edu/python/]] : For begineers
+                                                           - [[https://developers.google.com/edu/python/]] : For beginners
+** Week 3 [2017-07-17 Mon] till [2017-07-20 Thr]
+   + [2017-07-17 Mon] : Bonalu holiday
+   + [2017-07-18 Tue] : - Completed the poster for the presentation. Reworked the directory structure for each experiment and verified each experiment and related documentation to it.Showed the poster to my mentor who suggested me to change a few things which i did and added the poster to the poster repository.
+                 
+   + [2017-07-19 Wed] : Finalized the posters for the presentation. In addition, started work on final report of the internship.
+   + [2017-07-20 Thr] :  Worked on creating the handouts for the internship presentation. Also finished up the final report for the different projects that I have worked on. Presented the posters to all those who came.
+   

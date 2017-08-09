@@ -1,0 +1,11 @@
+* Project
+  
+  - LINUX Lab ::
+  This project required us to work on Linux Lab using JS, PYTHON, PHP frameworks. The aim is to build a lab with a terminal emulator on user's browser with a JS layer on top of that to get information about the command outputs using hovering. This Lab also includes a lot of servers integrated together to achieve the goal.    
+  - Internship Experience ::
+  My internship experience has been an excellent one. I have been able to learn a lot of subject matter from the mentors and the other interns which has helped me tremendously in my project and will also help in projects that I take up in future. I would definitely recommend people to take up this internship in VLEAD.
+
+  - Image ::
+  #+CAPTION: Image
+  #+NAME:   img-nikhil
+  [[https://github.com/vlead/2017-summer-internship/blob/master/src/snippets/photos/Nikhil.jpg]]
